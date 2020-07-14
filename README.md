@@ -72,4 +72,4 @@ Please reach out and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/). 
 
-![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg)
+![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
