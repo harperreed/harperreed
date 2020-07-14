@@ -12,24 +12,23 @@ My name is Harper Reed. I am a hacker type person who builds a lot of software t
 🕱
 <!-- bio ends -->
 
-Here are a few links of note: 
+<table><tr><td valign="top">
+
+## Links of note: 
+
 <!-- links starts -->
 - [harperreed.com](harperreed.com) - my home page
 - [harper.blog](http://harper.blog) - my writing
 - [harper.photos](http://harper.photos) - some photos
 - [reading.lol](http://reading.lol) - my reading site
 <!-- links ends -->
+
 </td><td valign="top">
 
-My details: 
+## My details: 
 <!-- details starts -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
+- 😄 Pronouns: he/him or they
 <!-- details ends -->
 
 
