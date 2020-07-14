@@ -8,9 +8,9 @@
 
 <!-- bio starts -->
 My name is Harper Reed. I am a hacker type person who builds a lot of software that does interesting things. 
+<!-- bio ends -->
 
 🕱
-<!-- bio ends -->
 
 <table><tr><td valign="top">
 
@@ -26,15 +26,15 @@ My name is Harper Reed. I am a hacker type person who builds a lot of software t
 </td><td valign="top">
 
 ## Details: 
+
 <!-- details starts -->
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they
 <!-- details ends -->
 
-
 </td></tr><tr><td valign="top">
 
-# Recent Blog Posts
+## Recent Blog Posts
 
 <!-- blog starts -->
 * [Giving](https://harper.blog/2020/06/04/giving/)
@@ -47,7 +47,7 @@ My name is Harper Reed. I am a hacker type person who builds a lot of software t
 </td><td valign="top">
 
 
-# Last 5 books I have read
+## Last 5 books I have read
 
 <!-- books starts -->
 * [Non-Bullshit Innovation: Radical Ideas from the World’s Smartest Minds](https://reading.lol/books/non-bullshit-innovation-radical-ideas-from-the-worlds-smartest-minds/)
