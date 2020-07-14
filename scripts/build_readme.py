@@ -3,6 +3,8 @@ import feedparser
 import pathlib
 import re
 import os
+import datetime
+import httpx
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -55,6 +57,11 @@ def fetch_blog_entries():
         for entry in entries
     ]
 
+def fetch_age():
+    
+    return httpx.get(
+        "https://us-central1-harperapi.cloudfunctions.net/age",
+    ).json()
 
 if __name__ == "__main__":
     content = root / ".."  / "content"
@@ -96,6 +103,14 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(rewritten, "books", books_md)    
 
+    builddate_md = "Generated at `" + datetime.datetime.now().strftime("%c") + "`"
+    rewritten = replace_chunk(rewritten, "date", builddate_md)
+
+
+    age_md ="- 👨Age: " + str(fetch_age()) + " years old"
+
+    rewritten = replace_chunk(rewritten, "age", age_md)
 
     readme.open("w").write(rewritten)
+
 
