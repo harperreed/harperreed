@@ -1,3 +1,1 @@
 My name is Harper Reed. I am a hacker type person who builds a lot of software that does interesting things. 
-
-🕱
