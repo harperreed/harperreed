@@ -19,7 +19,9 @@ Here are a few links of note:
 - [harper.photos](http://harper.photos) - some photos
 - [reading.lol](http://reading.lol) - my reading site
 <!-- links ends -->
+</td><td valign="top">
 
+My details: 
 <!-- details starts -->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -31,6 +33,7 @@ Here are a few links of note:
 <!-- details ends -->
 
 
+</td></tr></table>
 ----
 
 <table><tr><td valign="top">
@@ -63,19 +66,3 @@ Here are a few links of note:
 -----
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/). 
-
-
-<!--
-**harperreed/harperreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
