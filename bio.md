@@ -1,5 +1,7 @@
-My name is Harper Reed. I am a hacker type person who builds a lot of software that does interesting things. I take a lot of photos, do silly pranks with my brother ([@dylanreed](http://twitter.com/dylanreed)) and build weird stuff. 
+My name is Harper Reed. I am a hacker type person who builds a lot of software that, hopefully, does interesting things. 
+
+I take a lot of photos, do silly pranks with my brother ([@dylanreed](http://twitter.com/dylanreed)) and hang out with my partner in Chicago. 
 
 I am currently working on a bunch of COVID-19 related projects.
 
-Please reach out and say hi. 
+Please [reach out](mailto:harper@modest.com) and say hi. 
