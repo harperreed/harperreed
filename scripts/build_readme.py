@@ -7,6 +7,7 @@ import os
 root = pathlib.Path(__file__).parent.resolve()
 
 def replace_chunk(content, marker, chunk, inline=False):
+
     r = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
         re.DOTALL,
@@ -56,11 +57,13 @@ def fetch_blog_entries():
 
 
 if __name__ == "__main__":
+    content = root / ".."  / "content"
     
-    readme = root / "README.md"
-    bio = root / "bio.md"
-    links = root / "links.md"
-    details = root / "details.md"
+    readme = root / ".."  / "README.md"
+
+    bio = content / "bio.md"
+    links = content / "links.md"
+    details = content / "details.md"
 
     readme_contents = readme.open().read()
     bio_contents = bio.open().read()
