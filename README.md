@@ -25,17 +25,14 @@ My name is Harper Reed. I am a hacker type person who builds a lot of software t
 
 </td><td valign="top">
 
-## My details: 
+## Details: 
 <!-- details starts -->
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they
 <!-- details ends -->
 
 
-</td></tr></table>
-----
-
-<table><tr><td valign="top">
+</td></tr><tr><td valign="top">
 
 # Recent Blog Posts
 
