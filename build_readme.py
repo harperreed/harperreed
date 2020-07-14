@@ -33,6 +33,7 @@ def fetch_photos_entries():
     return [
         {
             "title": entry["title"],
+            "description": entry["description"],
             "photo": entry["media_content"][0]["url"],
             "url": entry["link"].split("#")[0],
             "published": entry["published"].split("T")[0],
@@ -69,12 +70,9 @@ if __name__ == "__main__":
 
 
     rewritten = replace_chunk(readme_contents, "bio", bio_contents)
+
     rewritten = replace_chunk(rewritten, "links", link_contents)
     rewritten = replace_chunk(rewritten, "details", details_contents)
-
-    ##rewritten = replace_chunk(rewritten, "bio", bio)
-
-
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
@@ -85,7 +83,7 @@ if __name__ == "__main__":
 
     photos = fetch_photos_entries()[:1]
     photos_md = "\n".join(
-        ["[![{title}]({photo})]({url})".format(**entry) for entry in photos]
+        ["[![{title}]({photo})]({url}) \n *{description}*".format(**entry) for entry in photos]
     )
     rewritten = replace_chunk(rewritten, "photos", photos_md)
 
@@ -94,10 +92,7 @@ if __name__ == "__main__":
         ["* [{title}]({url})".format(**entry) for entry in books]
     )
     rewritten = replace_chunk(rewritten, "books", books_md)    
-    
-    """
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
-    """
+
 
     readme.open("w").write(rewritten)
 
