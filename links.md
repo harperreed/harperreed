@@ -1,4 +1,4 @@
-- [harperreed.com](harperreed.com) - my home page
+- [harper.lol](harperreed.com) - my home page
 - [harper.blog](http://harper.blog) - my writing
 - [harper.photos](http://harper.photos) - some photos
 - [reading.lol](http://reading.lol) - my reading site
