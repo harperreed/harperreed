@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 
 
@@ -14,7 +14,7 @@
 
 <table><tr><td valign="top">
 
-## Links of note: 
+### Links of note: 
 
 <!-- links starts -->
 
@@ -22,7 +22,7 @@
 
 </td><td valign="top">
 
-## Details: 
+### Details: 
 
 <!-- details starts -->
 
@@ -30,7 +30,7 @@
 
 </td></tr><tr><td valign="top">
 
-## Recent Blog Posts
+### Recent Blog Posts
 
 <!-- blog starts -->
 
@@ -39,7 +39,7 @@
 </td><td valign="top">
 
 
-## Last 5 books I have read
+### Last 5 books I have read
 
 <!-- books starts -->
 
@@ -47,7 +47,7 @@
 
 </td></tr></table>
 
-## ☠️
+### ☠️
 
 
 -----
