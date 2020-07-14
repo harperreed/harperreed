@@ -8,9 +8,11 @@
 
 <!-- bio starts -->
 My name is Harper Reed. I am a hacker type person who builds a lot of software that does interesting things. 
-<!-- bio ends -->
 
 🕱
+<!-- bio ends -->
+
+
 
 <table><tr><td valign="top">
 
@@ -58,6 +60,8 @@ My name is Harper Reed. I am a hacker type person who builds a lot of software t
 <!-- books ends -->
 
 </td></tr></table>
+
+🕱
 
 -----
 
