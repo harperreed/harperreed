@@ -59,15 +59,18 @@ if __name__ == "__main__":
     readme = root / "README.md"
     bio = root / "bio.md"
     links = root / "links.md"
+    details = root / "details.md"
 
     readme_contents = readme.open().read()
     bio_contents = bio.open().read()
     link_contents = links.open().read()
+    details_contents = details.open().read()
 
 
 
     rewritten = replace_chunk(readme_contents, "bio", bio_contents)
     rewritten = replace_chunk(rewritten, "links", link_contents)
+    rewritten = replace_chunk(rewritten, "details", details_contents)
 
     ##rewritten = replace_chunk(rewritten, "bio", bio)
 
