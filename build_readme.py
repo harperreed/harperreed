@@ -85,7 +85,7 @@ if __name__ == "__main__":
 
     photos = fetch_photos_entries()[:1]
     photos_md = "\n".join(
-        ["![{title}]({photo})".format(**entry) for entry in photos]
+        ["[![{title}]({photo})]({url})".format(**entry) for entry in photos]
     )
     rewritten = replace_chunk(rewritten, "photos", photos_md)
 
