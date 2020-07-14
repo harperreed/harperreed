@@ -3,7 +3,7 @@
 
 
 <!-- photos starts -->
-![L1007724.JPG](https://harper.photos/photos/l1007724.jpg/L1007724_hu74dd33d5683317bd0e7cd1a519090979_194748_1200x0_resize_q75_box.JPG)
+[![L1007724.JPG](https://harper.photos/photos/l1007724.jpg/L1007724_hu74dd33d5683317bd0e7cd1a519090979_194748_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/l1007724.jpg/)
 <!-- photos ends -->
 
 <!-- bio starts -->
@@ -29,7 +29,7 @@ My name is Harper Reed. I am a hacker type person who builds a lot of software t
 
 <!-- details starts -->
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
-- 😄 Pronouns: he/him or they
+- 😄 Pronouns: he/him or they/them
 <!-- details ends -->
 
 </td></tr><tr><td valign="top">
