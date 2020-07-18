@@ -3,8 +3,8 @@
 
 
 <!-- photos starts -->
-[![L1007724.JPG](https://harper.photos/photos/l1007724.jpg/L1007724_hu74dd33d5683317bd0e7cd1a519090979_194748_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/l1007724.jpg/) 
- *The moon*
+[![Fireworks on the weirdest 4th of July ever](https://harper.photos/photos/l1007783.jpg/L1007783_hufb939966951ae77f4d9b87df9422d4cf_1080931_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/l1007783.jpg/) 
+ *Fireworks on the weirdest 4th of July ever*
 <!-- photos ends -->
 
 <!-- bio starts -->
@@ -61,11 +61,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Memory Police](https://reading.lol/books/the-memory-police/)
 * [Non-Bullshit Innovation: Radical Ideas from the World’s Smartest Minds](https://reading.lol/books/non-bullshit-innovation-radical-ideas-from-the-worlds-smartest-minds/)
 * [Auxiliary: London 2039](https://reading.lol/books/auxiliary-london-2039/)
 * [A Raisin in the Sun](https://reading.lol/books/a-raisin-in-the-sun/)
 * [Facebook: The Inside Story](https://reading.lol/books/facebook-the-inside-story/)
-* [Breasts and Eggs](https://reading.lol/books/breasts-and-eggs/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -80,6 +80,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 
 <!-- date starts -->
-Generated at `Sat Jul 18 03:33:46 2020`
+Generated at `Sat Jul 18 05:33:40 2020`
 <!-- date ends -->
 
