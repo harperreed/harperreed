@@ -79,6 +79,12 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 ### ☠️
 
+## Stats
+
+
+![Harper's github stats](https://github-readme-stats.vercel.app/api?username=harperreed&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harperreed&layout=compact)]()
+
 
 -----
 
