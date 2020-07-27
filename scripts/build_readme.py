@@ -71,16 +71,18 @@ if __name__ == "__main__":
     bio = content / "bio.md"
     links = content / "links.md"
     details = content / "details.md"
+    github_stats = content / "github_stats.md"
+    social = content / "social.md"
 
     readme_contents = readme.open().read()
     bio_contents = bio.open().read()
     link_contents = links.open().read()
     details_contents = details.open().read()
-
+    github_stats_contents = github_stats.open().read()
+    social_contents = social.open().read()
 
 
     rewritten = replace_chunk(readme_contents, "bio", bio_contents)
-
     rewritten = replace_chunk(rewritten, "links", link_contents)
     rewritten = replace_chunk(rewritten, "details", details_contents)
 
@@ -109,7 +111,7 @@ if __name__ == "__main__":
 
     age_md ="- 👨Age: " + str(fetch_age()) + " years old"
 
-    rewritten = replace_chunk(rewritten, "age", age_md)
+    rewritten = replace_chunk(rewritten, "age", age_md, inline=True)
 
     readme.open("w").write(rewritten)
 

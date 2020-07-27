@@ -7,9 +7,6 @@
 
 
 <!-- social starts -->
-[![Twitter: Harper](https://img.shields.io/twitter/follow/harper?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: harperreed](https://img.shields.io/badge/-harperreed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harperreed/)](https://www.linkedin.com/in/harperreed/)
-[![GitHub harperreed](https://img.shields.io/github/followers/harperreed?label=follow&style=social)](https://github.com/harperreed)
 <!-- social end -->
 
 <!-- bio starts -->
@@ -82,10 +79,8 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ## Stats
 
 
-<!-- stats starts -->
-![Harper's github stats](https://github-readme-stats.vercel.app/api?username=harperreed&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harperreed&layout=compact)]()
-<!-- stats starts -->
+<!-- github_stats starts -->
+<!-- github_stats starts -->
 
 -----
 
