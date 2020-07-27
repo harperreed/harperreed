@@ -7,6 +7,11 @@
  *Fireworks on the weirdest 4th of July ever*
 <!-- photos ends -->
 
+
+[![Twitter: Harper](https://img.shields.io/twitter/follow/harper?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: harperreed](https://img.shields.io/badge/-harperreed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harperreed/)](https://www.linkedin.com/in/harperreed/)
+[![GitHub harperreed](https://img.shields.io/github/followers/harperreed?label=follow&style=social)](https://github.com/harperreed)
+
 <!-- bio starts -->
 My name is Harper Reed. I am a hacker type person who builds a lot of software that, hopefully, does interesting things. 
 
@@ -69,6 +74,8 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 <!-- books ends -->
 
 </td></tr></table>
+
+
 
 ### ☠️
 
