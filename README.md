@@ -80,7 +80,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 ### ☠️
 
-## Stats
+## Github Stats
 
 
 <!-- github_stats starts -->
