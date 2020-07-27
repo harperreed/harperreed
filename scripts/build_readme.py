@@ -85,6 +85,8 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "bio", bio_contents)
     rewritten = replace_chunk(rewritten, "links", link_contents)
     rewritten = replace_chunk(rewritten, "details", details_contents)
+    rewritten = replace_chunk(rewritten, "github_stats", github_stats_contents)
+    rewritten = replace_chunk(rewritten, "social", social_contents)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
@@ -107,7 +109,6 @@ if __name__ == "__main__":
 
     builddate_md = "Generated at `" + datetime.datetime.now().strftime("%c") + "`"
     rewritten = replace_chunk(rewritten, "date", builddate_md)
-
 
     age_md ="- 👨Age: " + str(fetch_age()) + " years old"
 
