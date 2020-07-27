@@ -7,7 +7,7 @@
 
 
 <!-- social starts -->
-<!-- social end -->
+<!-- social ends -->
 
 <!-- bio starts -->
 My name is Harper Reed. I am a hacker type person who builds a lot of software that, hopefully, does interesting things. 
@@ -78,7 +78,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 
 <!-- github_stats starts -->
-<!-- github_stats starts -->
+<!-- github_stats ends -->
 
 -----
 
@@ -87,6 +87,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 
 <!-- date starts -->
-Generated at `Mon Jul 27 00:28:36 2020`
+Generated at `Sun Jul 26 19:36:49 2020`
 <!-- date ends -->
 
