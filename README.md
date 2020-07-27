@@ -7,6 +7,7 @@
 
 
 <!-- social starts -->
+social
 <!-- social ends -->
 
 <!-- bio starts -->
@@ -78,6 +79,9 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 
 <!-- github_stats starts -->
+![Harper's github stats](https://github-readme-stats.vercel.app/api?username=harperreed&show_icons=&private_count=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harperreed&layout=compact)]()
 <!-- github_stats ends -->
 
 -----
@@ -87,6 +91,10 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 ![Vistors](https://visitor-badge.glitch.me/badge?page_id=github.com/harperreed)
 <!-- date starts -->
+<<<<<<< HEAD
 Generated at `Sun Jul 26 19:36:49 2020`
+=======
+Generated at `Mon Jul 27 00:38:16 2020`
+>>>>>>> 8bd5e2f3f673d7cc4875f9c116f4f0a4a87615bc
 <!-- date ends -->
 
