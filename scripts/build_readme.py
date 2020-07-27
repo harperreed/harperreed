@@ -112,7 +112,7 @@ if __name__ == "__main__":
 
     age_md ="- 👨Age: " + str(fetch_age()) + " years old"
 
-    rewritten = replace_chunk(rewritten, "age", age_md, inline=True)
+    rewritten = replace_chunk(rewritten, "age", age_md)
     print(rewritten)
     readme.open("w").write(rewritten)
 
