@@ -96,7 +96,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
-![Vistors](https://visitor-badge.glitch.me/badge?page_id=github.com/harperreed)
 <!-- date starts -->
 Generated at `Mon Jul 27 02:29:57 2020`
 <!-- date ends -->
