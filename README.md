@@ -40,9 +40,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 <!-- details starts -->
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
-<!-- age starts -->
-- 👨Age: 42.38 years old
-<!-- age ends -->
+<!-- age starts -->- 👨Age: 42.38 years old<!-- age ends -->
 <!-- details ends -->
 
 </td></tr><tr><td valign="top">
@@ -89,6 +87,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 
 <!-- date starts -->
-Generated at `Mon Jul 27 00:24:17 2020`
+Generated at `Mon Jul 27 00:28:36 2020`
 <!-- date ends -->
 
