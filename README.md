@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-
-
 <!-- photos starts -->
 [![Fireworks on the weirdest 4th of July ever](https://harper.photos/photos/l1007783.jpg/L1007783_hufb939966951ae77f4d9b87df9422d4cf_1080931_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/l1007783.jpg/) 
  *Fireworks on the weirdest 4th of July ever*
 <!-- photos ends -->
 
 
+<!-- social starts -->
 [![Twitter: Harper](https://img.shields.io/twitter/follow/harper?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: harperreed](https://img.shields.io/badge/-harperreed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harperreed/)](https://www.linkedin.com/in/harperreed/)
 [![GitHub harperreed](https://img.shields.io/github/followers/harperreed?label=follow&style=social)](https://github.com/harperreed)
+<!-- social end -->
 
 <!-- bio starts -->
 My name is Harper Reed. I am a hacker type person who builds a lot of software that, hopefully, does interesting things. 
@@ -82,9 +82,10 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ## Stats
 
 
+<!-- stats starts -->
 ![Harper's github stats](https://github-readme-stats.vercel.app/api?username=harperreed&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harperreed&layout=compact)]()
-
+<!-- stats starts -->
 
 -----
 
