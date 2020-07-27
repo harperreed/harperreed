@@ -7,10 +7,10 @@
 
 
 <!-- social starts -->
-[![Linkedin Badge](https://img.shields.io/badge/-harperreed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harperreed/)](https://www.linkedin.com/in/harperreed/)
-[![Twitter Badge](https://img.shields.io/badge/-@harperreed-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/harperreed)](https://twitter.com/harperreed)
+[![Twitter: harper](https://img.shields.io/twitter/follow/harper?style=social)](https://twitter.com/harper)
+[![Linkedin: harperreed](https://img.shields.io/badge/-harperreed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harperreed/)](https://www.linkedin.com/in/harperreed/)
 [![Instagram Badge](https://img.shields.io/badge/-@harperreed-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/harperreed/)](https://instagram.com/harperreed)
-[![Gmail Badge](https://img.shields.io/badge/-harper-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harper@modest.com)](mailto:harper@modest.com)
+[![GitHub harperreed](https://img.shields.io/github/followers/harperreed?label=follow&style=social)](https://github.com/harperreed)
 
 <!-- social ends -->
 
@@ -94,6 +94,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Mon Jul 27 02:36:41 2020`
+Generated at `Mon Jul 27 03:11:45 2020`
 <!-- date ends -->
 
