@@ -66,11 +66,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Spaceside (Planetside #2)](https://reading.lol/books/spaceside-planetside-2/)
 * [The Relentless Moon (Lady Astronaut, #3)](https://reading.lol/books/the-relentless-moon-lady-astronaut-3/)
 * [Weather](https://reading.lol/books/weather/)
 * [The Singularity Trap](https://reading.lol/books/the-singularity-trap/)
 * [The Memory Police](https://reading.lol/books/the-memory-police/)
-* [Non-Bullshit Innovation: Radical Ideas from the World’s Smartest Minds](https://reading.lol/books/non-bullshit-innovation-radical-ideas-from-the-worlds-smartest-minds/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -87,6 +87,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 
 <!-- date starts -->
-Generated at `Sat Jul 25 00:46:35 2020`
+Generated at `Mon Jul 27 00:11:45 2020`
 <!-- date ends -->
 
