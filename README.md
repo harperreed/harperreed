@@ -69,11 +69,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Poppy War (The Poppy War, #1)](https://reading.lol/books/the-poppy-war-the-poppy-war-1/)
 * [Spaceside (Planetside #2)](https://reading.lol/books/spaceside-planetside-2/)
 * [The Relentless Moon (Lady Astronaut, #3)](https://reading.lol/books/the-relentless-moon-lady-astronaut-3/)
 * [Weather](https://reading.lol/books/weather/)
 * [The Singularity Trap](https://reading.lol/books/the-singularity-trap/)
-* [The Memory Police](https://reading.lol/books/the-memory-police/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -97,6 +97,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Sun Aug  2 00:50:28 2020`
+Generated at `Mon Aug  3 00:50:08 2020`
 <!-- date ends -->
 
