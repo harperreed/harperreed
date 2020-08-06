@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Fireworks on the weirdest 4th of July ever](https://harper.photos/photos/l1007783.jpg/L1007783_hufb939966951ae77f4d9b87df9422d4cf_1080931_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/l1007783.jpg/) 
- *Fireworks on the weirdest 4th of July ever*
+[![Dylan and Sarah are socially distant.](https://harper.photos/photos/l1007851.jpg/L1007851_hu106b1aa5c9ac73ed632203ded1a5e5c7_1090760_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/l1007851.jpg/) 
+ *Dylan and Sarah are socially distant.*
 <!-- photos ends -->
 
 
@@ -97,6 +97,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Wed Aug  5 00:50:00 2020`
+Generated at `Thu Aug  6 00:50:00 2020`
 <!-- date ends -->
 
