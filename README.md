@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Dylan and Sarah are socially distant.](https://harper.photos/photos/l1007851.jpg/L1007851_hu106b1aa5c9ac73ed632203ded1a5e5c7_1090760_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/l1007851.jpg/) 
- *Dylan and Sarah are socially distant.*
+[![L1007994-HDR.jpg](https://harper.photos/photos/l1007994-hdr.jpg/L1007994-HDR_hu9f573106a519e98d8a118c208f5835fd_2803423_1200x0_resize_q75_box.jpg)](https://harper.photos/photos/l1007994-hdr.jpg/) 
+ **
 <!-- photos ends -->
 
 
@@ -69,11 +69,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Dragon Republic (The Poppy War, #2)](https://reading.lol/books/the-dragon-republic-the-poppy-war-2/)
 * [Airplane Mode](https://reading.lol/books/airplane-mode/)
 * [The Poppy War (The Poppy War, #1)](https://reading.lol/books/the-poppy-war-the-poppy-war-1/)
 * [Spaceside (Planetside #2)](https://reading.lol/books/spaceside-planetside-2/)
 * [The Relentless Moon (Lady Astronaut, #3)](https://reading.lol/books/the-relentless-moon-lady-astronaut-3/)
-* [Weather](https://reading.lol/books/weather/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -97,6 +97,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Mon Aug 10 00:53:06 2020`
+Generated at `Tue Aug 11 00:51:47 2020`
 <!-- date ends -->
 
