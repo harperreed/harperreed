@@ -56,7 +56,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
-
+* [Giving](https://harper.blog/2020/06/04/giving/)
+* [Posts](https://harper.blog/post/)
+* [Digital Contact Tracing and Alerting vs Exposure Alerting](https://harper.blog/2020/04/22/digital-contact-tracing-and-alerting-vs-exposure-alerting/)
+* [Harper's 3 tips to surviving Facebook](https://harper.blog/2018/10/11/harpers-3-tips-to-surviving-facebook/)
+* [Blogging in 2018. Blogs, How Do They Work?](https://harper.blog/2018/07/08/blogging-in-2018.-blogs-how-do-they-work/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -93,6 +97,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Tue Aug 18 00:51:30 2020`
+Generated at `Wed Aug 19 00:53:50 2020`
 <!-- date ends -->
 
