@@ -47,7 +47,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 42.49 years old
+- 👨Age: 42.5 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -69,11 +69,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Tyrant Baru Cormorant (The Masquerade #3)](https://reading.lol/books/the-tyrant-baru-cormorant-the-masquerade-3/)
 * [Lovecraft Country](https://reading.lol/books/lovecraft-country/)
 * [The Dragon Republic (The Poppy War, #2)](https://reading.lol/books/the-dragon-republic-the-poppy-war-2/)
 * [Airplane Mode](https://reading.lol/books/airplane-mode/)
 * [The Poppy War (The Poppy War, #1)](https://reading.lol/books/the-poppy-war-the-poppy-war-1/)
-* [Spaceside (Planetside #2)](https://reading.lol/books/spaceside-planetside-2/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -97,6 +97,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Sun Sep  6 01:03:56 2020`
+Generated at `Mon Sep  7 01:03:25 2020`
 <!-- date ends -->
 
