@@ -69,11 +69,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Optimal](https://reading.lol/books/optimal/)
 * [The Tyrant Baru Cormorant (The Masquerade #3)](https://reading.lol/books/the-tyrant-baru-cormorant-the-masquerade-3/)
 * [Lovecraft Country](https://reading.lol/books/lovecraft-country/)
 * [The Dragon Republic (The Poppy War, #2)](https://reading.lol/books/the-dragon-republic-the-poppy-war-2/)
 * [Airplane Mode](https://reading.lol/books/airplane-mode/)
-* [The Poppy War (The Poppy War, #1)](https://reading.lol/books/the-poppy-war-the-poppy-war-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -97,6 +97,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Fri Sep 11 01:00:20 2020`
+Generated at `Sat Sep 12 01:02:18 2020`
 <!-- date ends -->
 
