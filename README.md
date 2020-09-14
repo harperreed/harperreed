@@ -47,7 +47,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 42.51 years old
+- 👨Age: 42.52 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -97,6 +97,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Sun Sep 13 01:04:57 2020`
+Generated at `Mon Sep 14 01:03:51 2020`
 <!-- date ends -->
 
