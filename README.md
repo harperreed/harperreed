@@ -47,7 +47,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 42.53 years old
+- 👨Age: 42.54 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -56,11 +56,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
-* [Giving](https://harper.blog/2020/06/04/giving/)
 * [Posts](https://harper.blog/post/)
+* [What have I been up to?](https://harper.blog/2020/09/21/what-have-i-been-up-to/)
+* [Giving](https://harper.blog/2020/06/04/giving/)
 * [Digital Contact Tracing and Alerting vs Exposure Alerting](https://harper.blog/2020/04/22/digital-contact-tracing-and-alerting-vs-exposure-alerting/)
 * [Harper's 3 tips to surviving Facebook](https://harper.blog/2018/10/11/harpers-3-tips-to-surviving-facebook/)
-* [Blogging in 2018. Blogs, How Do They Work?](https://harper.blog/2018/07/08/blogging-in-2018.-blogs-how-do-they-work/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -97,6 +97,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Mon Sep 21 01:06:32 2020`
+Generated at `Tue Sep 22 01:05:53 2020`
 <!-- date ends -->
 
