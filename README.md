@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![L1007975.JPG](https://harper.photos/photos/l1007975.jpg/L1007975_hue324744f097d99434e1772a3ed87c8d3_2440555_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/l1007975.jpg/) 
- **
+[![Happy Mid-Autumn Festival. Yay Mooncakes!](https://harper.photos/photos/l2081150.jpg/L2081150_huafbae0ca45909ee0301385354769b83d_325105_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/l2081150.jpg/) 
+ *Happy Mid-Autumn Festival. Yay Mooncakes!*
 <!-- photos ends -->
 
 
@@ -47,7 +47,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 42.56 years old
+- 👨Age: 42.57 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -97,6 +97,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Fri Oct  2 01:09:27 2020`
+Generated at `Sat Oct  3 01:09:31 2020`
 <!-- date ends -->
 
