@@ -33,7 +33,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Links of note: 
 
 <!-- links starts -->
-- [harper.lol](https://harper.lol) - my home page
+- [harper.lol](http://harper.lol) - my home page
 - [harper.blog](http://harper.blog) - my writing
 - [harper.photos](http://harper.photos) - some photos
 - [reading.lol](http://reading.lol) - my reading site
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Thu Oct  8 10:05:52 2020`
+Generated at `Thu Oct  8 10:08:12 2020`
 <!-- date ends -->
 
