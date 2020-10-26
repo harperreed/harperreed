@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Happy Mid-Autumn Festival. Yay Mooncakes!](https://harper.photos/photos/l2081150.jpg/L2081150_huafbae0ca45909ee0301385354769b83d_325105_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/l2081150.jpg/) 
- *Happy Mid-Autumn Festival. Yay Mooncakes!*
+[![Hiromi is happy in the woods.](https://harper.photos/photos/b0000634.3fr.jpg/B0000634.3FR_hu2caab4800ce0781f3c5a0105bc7121f3_2896581_1200x0_resize_q75_box.jpg)](https://harper.photos/photos/b0000634.3fr.jpg/) 
+ *Hiromi is happy in the woods.*
 <!-- photos ends -->
 
 
@@ -48,7 +48,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 42.61 years old
+- 👨Age: 42.63 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -70,11 +70,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [On Tyranny: Twenty Lessons from the Twentieth Century](https://reading.lol/books/on-tyranny-twenty-lessons-from-the-twentieth-century/)
+* [These Truths: A History of the United States](https://reading.lol/books/these-truths-a-history-of-the-united-states/)
 * [The Only Plane in the Sky: An Oral History of 9/11](https://reading.lol/books/the-only-plane-in-the-sky-an-oral-history-of-9-11/)
 * [Optimal](https://reading.lol/books/optimal/)
 * [The Tyrant Baru Cormorant (The Masquerade #3)](https://reading.lol/books/the-tyrant-baru-cormorant-the-masquerade-3/)
-* [Lovecraft Country](https://reading.lol/books/lovecraft-country/)
-* [The Dragon Republic (The Poppy War, #2)](https://reading.lol/books/the-dragon-republic-the-poppy-war-2/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Mon Oct 19 01:20:04 2020`
+Generated at `Mon Oct 26 01:24:54 2020`
 <!-- date ends -->
 
