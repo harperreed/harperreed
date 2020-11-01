@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Hiromi is happy in the woods.](https://harper.photos/photos/b0000634.3fr.jpg/B0000634.3FR_hu2caab4800ce0781f3c5a0105bc7121f3_2896581_1200x0_resize_q75_box.jpg)](https://harper.photos/photos/b0000634.3fr.jpg/) 
- *Hiromi is happy in the woods.*
+[![A halloween family portrait featuring Cerberus](https://harper.photos/photos/b0000774.3fr.jpg/B0000774.3FR_hufcba02dbb6971e69c907664f965c979e_3085972_1200x0_resize_q75_box.jpg)](https://harper.photos/photos/b0000774.3fr.jpg/) 
+ *A halloween family portrait featuring Cerberus*
 <!-- photos ends -->
 
 
@@ -48,7 +48,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 42.64 years old
+- 👨Age: 42.65 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -70,11 +70,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Spy and the Traitor: The Greatest Espionage Story of the Cold War](https://reading.lol/books/the-spy-and-the-traitor-the-greatest-espionage-story-of-the-cold-war/)
 * [On Tyranny: Twenty Lessons from the Twentieth Century](https://reading.lol/books/on-tyranny-twenty-lessons-from-the-twentieth-century/)
 * [These Truths: A History of the United States](https://reading.lol/books/these-truths-a-history-of-the-united-states/)
 * [The Only Plane in the Sky: An Oral History of 9/11](https://reading.lol/books/the-only-plane-in-the-sky-an-oral-history-of-9-11/)
 * [Optimal](https://reading.lol/books/optimal/)
-* [The Tyrant Baru Cormorant (The Masquerade #3)](https://reading.lol/books/the-tyrant-baru-cormorant-the-masquerade-3/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Sat Oct 31 00:49:50 2020`
+Generated at `Sun Nov  1 00:55:53 2020`
 <!-- date ends -->
 
