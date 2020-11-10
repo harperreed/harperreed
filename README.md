@@ -70,11 +70,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Searcher](https://reading.lol/books/the-searcher/)
 * [The Spy and the Traitor: The Greatest Espionage Story of the Cold War](https://reading.lol/books/the-spy-and-the-traitor-the-greatest-espionage-story-of-the-cold-war/)
 * [On Tyranny: Twenty Lessons from the Twentieth Century](https://reading.lol/books/on-tyranny-twenty-lessons-from-the-twentieth-century/)
 * [These Truths: A History of the United States](https://reading.lol/books/these-truths-a-history-of-the-united-states/)
 * [The Only Plane in the Sky: An Oral History of 9/11](https://reading.lol/books/the-only-plane-in-the-sky-an-oral-history-of-9-11/)
-* [Optimal](https://reading.lol/books/optimal/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Mon Nov  9 01:03:27 2020`
+Generated at `Tue Nov 10 01:05:16 2020`
 <!-- date ends -->
 
