@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![A halloween family portrait featuring Cerberus](https://harper.photos/photos/b0000774.3fr.jpg/B0000774.3FR_hufcba02dbb6971e69c907664f965c979e_3085972_1200x0_resize_q75_box.jpg)](https://harper.photos/photos/b0000774.3fr.jpg/) 
- *A halloween family portrait featuring Cerberus*
+[![Outside is a nice place - Daniel X. O'Neil](https://harper.photos/photos/b0000885.jpg/B0000885_hu66b15e43f924617a0d51cb97a85d4042_3817492_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/b0000885.jpg/) 
+ *Outside is a nice place - Daniel X. O’Neil*
 <!-- photos ends -->
 
 
@@ -70,11 +70,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [I'm Thinking of Ending Things](https://reading.lol/books/i-m-thinking-of-ending-things/)
 * [Heavy Weather](https://reading.lol/books/heavy-weather/)
 * [The Searcher](https://reading.lol/books/the-searcher/)
 * [The Spy and the Traitor: The Greatest Espionage Story of the Cold War](https://reading.lol/books/the-spy-and-the-traitor-the-greatest-espionage-story-of-the-cold-war/)
 * [On Tyranny: Twenty Lessons from the Twentieth Century](https://reading.lol/books/on-tyranny-twenty-lessons-from-the-twentieth-century/)
-* [These Truths: A History of the United States](https://reading.lol/books/these-truths-a-history-of-the-united-states/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Sun Nov 15 01:02:10 2020`
+Generated at `Mon Nov 16 01:02:07 2020`
 <!-- date ends -->
 
