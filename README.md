@@ -70,11 +70,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Burning God (The Poppy War, #3)](https://reading.lol/books/the-burning-god-the-poppy-war-3/)
 * [A Pale View of Hills](https://reading.lol/books/a-pale-view-of-hills/)
 * [I'm Thinking of Ending Things](https://reading.lol/books/i-m-thinking-of-ending-things/)
 * [Heavy Weather](https://reading.lol/books/heavy-weather/)
 * [The Searcher](https://reading.lol/books/the-searcher/)
-* [The Spy and the Traitor: The Greatest Espionage Story of the Cold War](https://reading.lol/books/the-spy-and-the-traitor-the-greatest-espionage-story-of-the-cold-war/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Fri Nov 20 01:05:14 2020`
+Generated at `Sat Nov 21 01:05:13 2020`
 <!-- date ends -->
 
