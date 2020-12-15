@@ -48,7 +48,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 42.76 years old
+- 👨Age: 42.77 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -70,11 +70,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Goya: A Portrait of the Artist](https://reading.lol/books/goya-a-portrait-of-the-artist/)
 * [Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside (FSG Originals x Logic)](https://reading.lol/books/blockchain-chicken-farm-and-other-stories-of-tech-in-china-s-countryside/)
 * [The Burning God (The Poppy War, #3)](https://reading.lol/books/the-burning-god-the-poppy-war-3/)
 * [A Pale View of Hills](https://reading.lol/books/a-pale-view-of-hills/)
 * [I'm Thinking of Ending Things](https://reading.lol/books/i-m-thinking-of-ending-things/)
-* [Heavy Weather](https://reading.lol/books/heavy-weather/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Mon Dec 14 01:36:09 2020`
+Generated at `Tue Dec 15 01:34:23 2020`
 <!-- date ends -->
 
