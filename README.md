@@ -70,11 +70,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Will to Battle (Terra Ignota, #3)](https://reading.lol/books/the-will-to-battle-terra-ignota-3/)
+* [Medusa in the Graveyard](https://reading.lol/books/medusa-in-the-graveyard/)
 * [Medusa Uploaded (The Medusa Cycle, #1)](https://reading.lol/books/medusa-uploaded-the-medusa-cycle-1/)
 * [The Third Policeman](https://reading.lol/books/the-third-policeman/)
 * [Ready Player Two (Ready Player One, #2)](https://reading.lol/books/ready-player-two-ready-player-one-2/)
-* [Goya: A Portrait of the Artist](https://reading.lol/books/goya-a-portrait-of-the-artist/)
-* [Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside (FSG Originals x Logic)](https://reading.lol/books/blockchain-chicken-farm-and-other-stories-of-tech-in-china-s-countryside/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Sun Dec 27 01:46:05 2020`
+Generated at `Mon Dec 28 01:45:55 2020`
 <!-- date ends -->
 
