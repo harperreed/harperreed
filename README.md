@@ -70,11 +70,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [To Sleep in a Sea of Stars](https://reading.lol/books/to-sleep-in-a-sea-of-stars/)
+* [The Ministry for the Future](https://reading.lol/books/the-ministry-for-the-future/)
 * [Colonyside (Planetside, #3)](https://reading.lol/books/colonyside-planetside-3/)
 * [How the Multiverse Got Its Revenge (The Thorne Chronicles, #2)](https://reading.lol/books/how-the-multiverse-got-its-revenge-the-thorne-chronicles-2/)
 * [How Rory Thorne Destroyed the Multiverse (The Thorne Chronicles, #1)](https://reading.lol/books/how-rory-thorne-destroyed-the-multiverse-the-thorne-chronicles-1/)
-* [The Fire Next Time](https://reading.lol/books/the-fire-next-time/)
-* [The Will to Battle (Terra Ignota, #3)](https://reading.lol/books/the-will-to-battle-terra-ignota-3/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Sun Jan 10 02:09:58 2021`
+Generated at `Mon Jan 11 02:08:37 2021`
 <!-- date ends -->
 
