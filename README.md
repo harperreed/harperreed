@@ -20,7 +20,7 @@ My name is Harper Reed. I am a hacker type person who builds a lot of software t
 
 I take a lot of photos, do silly pranks with my brother ([@dylanreed](http://twitter.com/dylanreed)) and hang out with my partner in Chicago. 
 
-I am currently working on a bunch of COVID-19 related projects.
+I am currently working on a neat project called [Galactic](https://galactic.io).
 
 Please [reach out](mailto:harper@modest.com) and say hi. 
 
@@ -48,7 +48,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 42.87 years old
+- 👨Age: 42.88 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -70,11 +70,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Driving the Deep (Finder Chronicles, #2)](https://reading.lol/books/driving-the-deep-finder-chronicles-2/)
+* [Finder (Finder Chronicles, #1)](https://reading.lol/books/finder-finder-chronicles-1/)
+* [The Space Between Worlds](https://reading.lol/books/the-space-between-worlds/)
+* [Axiom's End (Noumena #1)](https://reading.lol/books/axiom-s-end-noumena-1/)
 * [To Sleep in a Sea of Stars](https://reading.lol/books/to-sleep-in-a-sea-of-stars/)
-* [The Ministry for the Future](https://reading.lol/books/the-ministry-for-the-future/)
-* [Colonyside (Planetside, #3)](https://reading.lol/books/colonyside-planetside-3/)
-* [How the Multiverse Got Its Revenge (The Thorne Chronicles, #2)](https://reading.lol/books/how-the-multiverse-got-its-revenge-the-thorne-chronicles-2/)
-* [How Rory Thorne Destroyed the Multiverse (The Thorne Chronicles, #1)](https://reading.lol/books/how-rory-thorne-destroyed-the-multiverse-the-thorne-chronicles-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Sat Jan 23 02:24:50 2021`
+Generated at `Sat Jan 23 18:52:29 2021`
 <!-- date ends -->
 
