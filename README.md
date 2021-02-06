@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Fri Feb  5 01:19:05 2021`
+Generated at `Sat Feb  6 01:17:52 2021`
 <!-- date ends -->
 
