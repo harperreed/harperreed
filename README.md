@@ -70,11 +70,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Way Station](https://reading.lol/books/way-station/)
+* [Snow Crash](https://reading.lol/books/snow-crash/)
 * [Starfish (Rifters, #1)](https://reading.lol/books/starfish-rifters-1/)
 * [Columbus Day (Expeditionary Force, #1)](https://reading.lol/books/columbus-day-expeditionary-force-1/)
 * [Driving the Deep (Finder Chronicles, #2)](https://reading.lol/books/driving-the-deep-finder-chronicles-2/)
-* [Finder (Finder Chronicles, #1)](https://reading.lol/books/finder-finder-chronicles-1/)
-* [The Space Between Worlds](https://reading.lol/books/the-space-between-worlds/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -98,6 +98,6 @@ This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [rea
 
 ![Build README](https://github.com/harperreed/harperreed/workflows/Build%20README/badge.svg?branch=master&event=workflow_dispatch)
 <!-- date starts -->
-Generated at `Mon Feb 15 01:20:21 2021`
+Generated at `Tue Feb 16 01:19:53 2021`
 <!-- date ends -->
 
