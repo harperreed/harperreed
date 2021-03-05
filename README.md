@@ -36,7 +36,10 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - [harper.lol](http://harper.lol) - my home page
 - [harper.blog](http://harper.blog) - my writing
 - [harper.photos](http://harper.photos) - some photos
+- [harper.eth](http://harper.eth.link) - my NFTs
 - [reading.lol](http://reading.lol) - my reading site
+
+
 
 <!-- links ends -->
 
@@ -97,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Fri Mar  5 16:33:24 2021`
+Generated at `Fri Mar  5 16:34:24 2021`
 <!-- date ends -->
 
