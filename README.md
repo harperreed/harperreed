@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Riot Baby](https://reading.lol/books/riot-baby/)
 * [A Desolation Called Peace (Teixcalaan, #2)](https://reading.lol/books/a-desolation-called-peace-teixcalaan-2/)
 * [A Memory Called Empire (Teixcalaan, #1)](https://reading.lol/books/a-memory-called-empire-teixcalaan-1/)
 * [This Is How They Tell Me the World Ends: The Cyberweapons Arms Race](https://reading.lol/books/this-is-how-they-tell-me-the-world-ends-the-cyberweapons-arms-race/)
 * [Way Station](https://reading.lol/books/way-station/)
-* [Snow Crash](https://reading.lol/books/snow-crash/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Thu Mar 18 01:28:03 2021`
+Generated at `Fri Mar 19 01:29:15 2021`
 <!-- date ends -->
 
