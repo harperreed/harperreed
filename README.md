@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Hummingbird Salamander](https://reading.lol/books/hummingbird-salamander/)
+* [Machine (White Space, #2)](https://reading.lol/books/machine-white-space-2/)
 * [The Outside](https://reading.lol/books/the-outside/)
 * [Ancestral Night (White Space, #1)](https://reading.lol/books/ancestral-night-white-space-1/)
 * [Mexican Gothic](https://reading.lol/books/mexican-gothic/)
-* [Riot Baby](https://reading.lol/books/riot-baby/)
-* [A Desolation Called Peace (Teixcalaan, #2)](https://reading.lol/books/a-desolation-called-peace-teixcalaan-2/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Mon Apr 12 00:51:13 2021`
+Generated at `Tue Apr 13 00:51:16 2021`
 <!-- date ends -->
 
