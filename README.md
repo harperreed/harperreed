@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Persephone Station](https://reading.lol/books/persephone-station/)
 * [Remote Control](https://reading.lol/books/remote-control/)
 * [The Empress of Salt and Fortune (The Singing Hills Cycle, #1)](https://reading.lol/books/the-empress-of-salt-and-fortune-the-singing-hills-cycle-1/)
 * [Finna (Finna #1)](https://reading.lol/books/finna-finna-1/)
 * [Hummingbird Salamander](https://reading.lol/books/hummingbird-salamander/)
-* [Machine (White Space, #2)](https://reading.lol/books/machine-white-space-2/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Thu Apr 22 00:51:25 2021`
+Generated at `Fri Apr 23 00:51:10 2021`
 <!-- date ends -->
 
