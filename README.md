@@ -77,7 +77,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 * [Remote Control](https://reading.lol/books/remote-control/)
 * [The Empress of Salt and Fortune (The Singing Hills Cycle, #1)](https://reading.lol/books/the-empress-of-salt-and-fortune-the-singing-hills-cycle-1/)
 * [Finna (Finna #1)](https://reading.lol/books/finna-finna-1/)
-* [Hummingbird Salamander](https://reading.lol/books/hummingbird-salamander/)
+* [Finna (LitenVerse #1)](https://reading.lol/books/finna-litenverse-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Fri Apr 23 00:51:10 2021`
+Generated at `Sat Apr 24 00:51:17 2021`
 <!-- date ends -->
 
