@@ -51,7 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 43.16 years old
+- 👨Age: 43.17 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Harrow the Ninth (The Locked Tomb, #2)](https://reading.lol/books/harrow-the-ninth-the-locked-tomb-2/)
 * [Persephone Station](https://reading.lol/books/persephone-station/)
 * [Remote Control](https://reading.lol/books/remote-control/)
 * [The Empress of Salt and Fortune (The Singing Hills Cycle, #1)](https://reading.lol/books/the-empress-of-salt-and-fortune-the-singing-hills-cycle-1/)
 * [Finna (Finna #1)](https://reading.lol/books/finna-finna-1/)
-* [Finna (LitenVerse #1)](https://reading.lol/books/finna-litenverse-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Sun May  9 01:45:59 2021`
+Generated at `Mon May 10 01:47:47 2021`
 <!-- date ends -->
 
