@@ -73,7 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
-
+* [Assassin's Apprentice (Farseer Trilogy, #1)](https://reading.lol/books/assassin-s-apprentice-farseer-trilogy-1/)
+* [Station Eleven](https://reading.lol/books/station-eleven/)
+* [Murder by Other Means (The Dispatcher, #2)](https://reading.lol/books/murder-by-other-means-the-dispatcher-2/)
+* [Project Hail Mary](https://reading.lol/books/project-hail-mary/)
+* [Fugitive Telemetry (The Murderbot Diaries, #6)](https://reading.lol/books/fugitive-telemetry-the-murderbot-diaries-6/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -96,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Tue May 25 00:52:41 2021`
+Generated at `Wed May 26 00:51:35 2021`
 <!-- date ends -->
 
