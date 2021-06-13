@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Kill Orbit (Cry Pilot, #3)](https://reading.lol/books/kill-orbit-cry-pilot-3/)
+* [Burn Cycle (Cry Pilot #2)](https://reading.lol/books/burn-cycle-cry-pilot-2/)
 * [Pacific Storm](https://reading.lol/books/pacific-storm/)
 * [Heaven](https://reading.lol/books/heaven/)
-* [Cry Pilot (Cry Pilot, #1)](https://reading.lol/books/cry-pilot-cry-pilot-1/)
-* [Assassin's Apprentice (Farseer Trilogy, #1)](https://reading.lol/books/assassin-s-apprentice-farseer-trilogy-1/)
-* [Station Eleven](https://reading.lol/books/station-eleven/)
+* [Heaven: A Novel](https://reading.lol/books/heaven-a-novel/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Sat Jun 12 00:50:46 2021`
+Generated at `Sun Jun 13 00:50:52 2021`
 <!-- date ends -->
 
