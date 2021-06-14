@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Spring flowers](https://harper.photos/photos/b0001265.jpg/B0001265_hue72196e59f116fae98fa60ca5ee790bd_4168708_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/b0001265.jpg/) 
- *Spring flowers*
+[![Me by Christine Sun Kim!](https://harper.photos/photos/b0001547.jpg/B0001547_hu44fd1e7aab38abf1627e50e8dd9e3b05_3351949_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/b0001547.jpg/) 
+ *Me by Christine Sun Kim!*
 <!-- photos ends -->
 
 
@@ -73,10 +73,10 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Premonition: A Pandemic Story](https://reading.lol/books/the-premonition-a-pandemic-story/)
 * [Kill Orbit (Cry Pilot, #3)](https://reading.lol/books/kill-orbit-cry-pilot-3/)
 * [Burn Cycle (Cry Pilot #2)](https://reading.lol/books/burn-cycle-cry-pilot-2/)
 * [Pacific Storm](https://reading.lol/books/pacific-storm/)
-* [Heaven](https://reading.lol/books/heaven/)
 * [Heaven: A Novel](https://reading.lol/books/heaven-a-novel/)
 <!-- books ends -->
 
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Sun Jun 13 00:50:52 2021`
+Generated at `Mon Jun 14 00:51:06 2021`
 <!-- date ends -->
 
