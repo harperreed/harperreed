@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Me by Christine Sun Kim!](https://harper.photos/photos/b0001547.jpg/B0001547_hu44fd1e7aab38abf1627e50e8dd9e3b05_3351949_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/b0001547.jpg/) 
+[![Me by Christine Sun Kim!](https://harper.photos/photos/b0001547.jpg/B0001547_hua2837cf7041680487c5909d9fe7c60ac_3912842_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/b0001547.jpg/) 
  *Me by Christine Sun Kim!*
 <!-- photos ends -->
 
@@ -51,7 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 43.26 years old
+- 👨Age: 43.27 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Mon Jun 14 00:51:06 2021`
+Generated at `Tue Jun 15 00:51:06 2021`
 <!-- date ends -->
 
