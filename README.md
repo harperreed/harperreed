@@ -51,7 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 43.3 years old
+- 👨Age: 43.31 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [A Children's Bible](https://reading.lol/books/a-children-s-bible/)
 * [Long Division](https://reading.lol/books/long-division/)
 * [Ten Low](https://reading.lol/books/ten-low/)
 * [Tokyo Underworld: The Fast Times and Hard Life of an American Gangster in Japan](https://reading.lol/books/tokyo-underworld-the-fast-times-and-hard-life-of-an-american-gangster-in-japan/)
 * [The Premonition: A Pandemic Story](https://reading.lol/books/the-premonition-a-pandemic-story/)
-* [Kill Orbit (Cry Pilot, #3)](https://reading.lol/books/kill-orbit-cry-pilot-3/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Tue Jun 29 00:49:20 2021`
+Generated at `Wed Jun 30 00:49:42 2021`
 <!-- date ends -->
 
