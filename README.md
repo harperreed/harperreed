@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Me by Christine Sun Kim!](https://harper.photos/photos/b0001547.jpg/B0001547_hua2837cf7041680487c5909d9fe7c60ac_3912842_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/b0001547.jpg/) 
- *Me by Christine Sun Kim!*
+[![B0001866.JPG](https://harper.photos/photos/b0001866.jpg/B0001866_hubafdb29a78475d6b1919be7a1b6679e0_1807054_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/b0001866.jpg/) 
+ **
 <!-- photos ends -->
 
 
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Mon Jul  5 00:49:16 2021`
+Generated at `Tue Jul  6 00:49:55 2021`
 <!-- date ends -->
 
