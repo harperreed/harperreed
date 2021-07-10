@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Woman in the Purple Skirt](https://reading.lol/books/the-woman-in-the-purple-skirt/)
 * [Attack Surface (Little Brother, #3)](https://reading.lol/books/attack-surface-little-brother-3/)
 * [A Children's Bible](https://reading.lol/books/a-children-s-bible/)
 * [Long Division](https://reading.lol/books/long-division/)
 * [Ten Low](https://reading.lol/books/ten-low/)
-* [Tokyo Underworld: The Fast Times and Hard Life of an American Gangster in Japan](https://reading.lol/books/tokyo-underworld-the-fast-times-and-hard-life-of-an-american-gangster-in-japan/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Fri Jul  9 00:49:53 2021`
+Generated at `Sat Jul 10 00:50:23 2021`
 <!-- date ends -->
 
