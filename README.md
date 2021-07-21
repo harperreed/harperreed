@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Begin Again: James Baldwin's America and Its Urgent Lessons for Our Own](https://reading.lol/books/begin-again-james-baldwin-s-america-and-its-urgent-lessons-for-our-own/)
 * [A Psalm for the Wild-Built (Monk & Robot, #1)](https://reading.lol/books/a-psalm-for-the-wild-built-monk-robot-1/)
 * [Home: Habitat, Range, Niche, Territory](https://reading.lol/books/home-habitat-range-niche-territory/)
 * [The Woman in the Purple Skirt](https://reading.lol/books/the-woman-in-the-purple-skirt/)
 * [Attack Surface (Little Brother, #3)](https://reading.lol/books/attack-surface-little-brother-3/)
-* [A Children's Bible](https://reading.lol/books/a-children-s-bible/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Tue Jul 20 00:49:56 2021`
+Generated at `Wed Jul 21 00:49:46 2021`
 <!-- date ends -->
 
