@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Mon Aug  2 00:49:35 2021`
+Generated at `Tue Aug  3 00:50:09 2021`
 <!-- date ends -->
 
