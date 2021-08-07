@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![B0001866.JPG](https://harper.photos/photos/b0001866.jpg/B0001866_hubafdb29a78475d6b1919be7a1b6679e0_1807054_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/b0001866.jpg/) 
- **
+[![Karoli Hindriks @ TED Monterey 2021](https://harper.photos/photos/b0002066.jpg/B0002066_hud7569ac707e2a2d9064cae2c0c360aea_2283167_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/b0002066.jpg/) 
+ *Karoli Hindriks @ TED Monterey 2021*
 <!-- photos ends -->
 
 
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Fri Aug  6 00:50:16 2021`
+Generated at `Sat Aug  7 00:49:08 2021`
 <!-- date ends -->
 
