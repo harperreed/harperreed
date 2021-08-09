@@ -51,7 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 43.41 years old
+- 👨Age: 43.42 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Things Fall Apart (The African Trilogy, #1)](https://reading.lol/books/things-fall-apart-the-african-trilogy-1/)
 * [Bringing Up Bébé: One American Mother Discovers the Wisdom of French Parenting (now with Bébé Day by Day: 100 Keys to French Parenting)](https://reading.lol/books/bringing-up-bebe-one-american-mother-discovers-the-wisdom-of-french-parenting-now-with-bebe-day-by-day-100-keys-to-french-parenting/)
 * [Moneyland: The Inside Story of the Crooks and Kleptocrats Who Rule the World](https://reading.lol/books/moneyland-the-inside-story-of-the-crooks-and-kleptocrats-who-rule-the-world/)
 * [Begin Again: James Baldwin's America and Its Urgent Lessons for Our Own](https://reading.lol/books/begin-again-james-baldwin-s-america-and-its-urgent-lessons-for-our-own/)
 * [A Psalm for the Wild-Built (Monk & Robot, #1)](https://reading.lol/books/a-psalm-for-the-wild-built-monk-robot-1/)
-* [Home: Habitat, Range, Niche, Territory](https://reading.lol/books/home-habitat-range-niche-territory/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Sun Aug  8 00:49:32 2021`
+Generated at `Mon Aug  9 00:49:37 2021`
 <!-- date ends -->
 
