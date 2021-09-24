@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Infinite Machine: How an Army of Crypto-hackers Is Building the Next Internet with Ethereum](https://reading.lol/books/the-infinite-machine-how-an-army-of-crypto-hackers-is-building-the-next-internet-with-ethereum/)
 * [Life](https://reading.lol/books/life/)
 * [The Midnight Library](https://reading.lol/books/the-midnight-library/)
 * [The Scavenger Door (Finder Chronicles #3)](https://reading.lol/books/the-scavenger-door-finder-chronicles-3/)
 * [Cribsheet: A Data-Driven Guide to Better, More Relaxed Parenting, from Birth to Preschool](https://reading.lol/books/cribsheet-a-data-driven-guide-to-better-more-relaxed-parenting-from-birth-to-preschool/)
-* [Hollowpox: The Hunt for Morrigan Crow (Nevermoor, #3)](https://reading.lol/books/hollowpox-the-hunt-for-morrigan-crow-nevermoor-3/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Thu Sep 23 00:49:48 2021`
+Generated at `Fri Sep 24 00:49:40 2021`
 <!-- date ends -->
 
