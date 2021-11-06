@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Karoli Hindriks @ TED Monterey 2021](https://harper.photos/photos/B0002066.JPG/B0002066_hud7569ac707e2a2d9064cae2c0c360aea_2283167_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/B0002066.JPG/) 
- *Karoli Hindriks @ TED Monterey 2021*
+
 <!-- photos ends -->
 
 
@@ -100,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Fri Nov  5 00:49:42 2021`
+Generated at `Sat Nov  6 00:50:04 2021`
 <!-- date ends -->
 
