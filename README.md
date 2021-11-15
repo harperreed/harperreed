@@ -51,7 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 43.68 years old
+- 👨Age: 43.69 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Sun Nov 14 00:49:50 2021`
+Generated at `Mon Nov 15 00:49:45 2021`
 <!-- date ends -->
 
