@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Several People Are Typing](https://reading.lol/books/several-people-are-typing/)
+* [Here, There and Everywhere: My Life Recording the Music of the Beatles](https://reading.lol/books/here-there-and-everywhere-my-life-recording-the-music-of-the-beatles/)
 * [Leviathan Falls (The Expanse #9)](https://reading.lol/books/leviathan-falls-the-expanse-9/)
 * [Termination Shock](https://reading.lol/books/termination-shock/)
 * [Klara and the Sun](https://reading.lol/books/klara-and-the-sun/)
-* [We the Animals](https://reading.lol/books/we-the-animals/)
-* [Century Rain](https://reading.lol/books/century-rain/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Mon Dec 13 00:49:56 2021`
+Generated at `Tue Dec 14 00:50:12 2021`
 <!-- date ends -->
 
