@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Light Chaser](https://reading.lol/books/light-chaser/)
 * [Stranger in the Shogun's City: A Japanese Woman and Her World](https://reading.lol/books/stranger-in-the-shogun-s-city-a-japanese-woman-and-her-world/)
 * [The Spy in Moscow Station: A Counterspy's Hunt for a Deadly Cold War Threat](https://reading.lol/books/the-spy-in-moscow-station-a-counterspy-s-hunt-for-a-deadly-cold-war-threat/)
 * [The Actual Star](https://reading.lol/books/the-actual-star/)
 * [The Empire Must Die: The Brief Flowering and Brutal Demise of Russian Civil Society, 1900-1918](https://reading.lol/books/the-empire-must-die-the-brief-flowering-and-brutal-demise-of-russian-civil-society-1900-1918/)
-* [Pigs Might Fly: The Inside Story of Pink Floyd](https://reading.lol/books/pigs-might-fly-the-inside-story-of-pink-floyd/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Tue Feb  1 00:50:01 2022`
+Generated at `Thu Feb  3 00:49:44 2022`
 <!-- date ends -->
 
