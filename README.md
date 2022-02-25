@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Land of Big Numbers](https://reading.lol/books/land-of-big-numbers/)
 * [Schiit Happened: The Story of the World's Most Improbable Start-Up](https://reading.lol/books/schiit-happened-the-story-of-the-world-s-most-improbable-start-up/)
 * [Destroyer of Light](https://reading.lol/books/destroyer-of-light/)
 * [Light Chaser](https://reading.lol/books/light-chaser/)
 * [Stranger in the Shogun's City: A Japanese Woman and Her World](https://reading.lol/books/stranger-in-the-shogun-s-city-a-japanese-woman-and-her-world/)
-* [The Spy in Moscow Station: A Counterspy's Hunt for a Deadly Cold War Threat](https://reading.lol/books/the-spy-in-moscow-station-a-counterspy-s-hunt-for-a-deadly-cold-war-threat/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Thu Feb 24 00:50:42 2022`
+Generated at `Fri Feb 25 00:50:25 2022`
 <!-- date ends -->
 
