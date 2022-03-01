@@ -51,7 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
 <!-- age starts -->
-- 👨Age: 43.97 years old
+- 👨Age: 43.98 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Economic Science Fictions (Goldsmiths Press / PERC Papers)](https://reading.lol/books/economic-science-fictions/)
 * [Land of Big Numbers](https://reading.lol/books/land-of-big-numbers/)
 * [Schiit Happened: The Story of the World's Most Improbable Start-Up](https://reading.lol/books/schiit-happened-the-story-of-the-world-s-most-improbable-start-up/)
 * [Destroyer of Light](https://reading.lol/books/destroyer-of-light/)
 * [Light Chaser](https://reading.lol/books/light-chaser/)
-* [Stranger in the Shogun's City: A Japanese Woman and Her World](https://reading.lol/books/stranger-in-the-shogun-s-city-a-japanese-woman-and-her-world/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Mon Feb 28 00:50:30 2022`
+Generated at `Tue Mar  1 00:51:03 2022`
 <!-- date ends -->
 
