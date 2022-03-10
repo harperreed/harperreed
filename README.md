@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Hiromi and young Yuga](https://harper.photos/photos/L1008338.JPG/L1008338_hu06cc3c9ab6777750b15a610d5f531b74_1334484_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1008338.JPG/) 
- *Hiromi and young Yuga*
+[![L2081167.JPG](https://harper.photos/photos/L2081167.JPG/L2081167_hu5e070e157860d917aedefb33aad851e1_1469806_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L2081167.JPG/) 
+ **
 <!-- photos ends -->
 
 
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Wed Mar  9 00:50:31 2022`
+Generated at `Thu Mar 10 00:50:40 2022`
 <!-- date ends -->
 
