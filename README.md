@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Long Live the Post Horn!](https://reading.lol/books/long-live-the-post-horn/)
 * [Agent Sonya: Moscow's Most Daring Wartime Spy](https://reading.lol/books/agent-sonya-moscow-s-most-daring-wartime-spy/)
 * [Economic Science Fictions (Goldsmiths Press / PERC Papers)](https://reading.lol/books/economic-science-fictions/)
 * [Land of Big Numbers](https://reading.lol/books/land-of-big-numbers/)
 * [Schiit Happened: The Story of the World's Most Improbable Start-Up](https://reading.lol/books/schiit-happened-the-story-of-the-world-s-most-improbable-start-up/)
-* [Destroyer of Light](https://reading.lol/books/destroyer-of-light/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Sun Mar 20 00:50:37 2022`
+Generated at `Mon Mar 21 00:50:37 2022`
 <!-- date ends -->
 
