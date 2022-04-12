@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [A Closed and Common Orbit (Wayfarers, #2)](https://reading.lol/books/a-closed-and-common-orbit-wayfarers-2/)
 * [The Employees: A workplace novel of the 22nd century](https://reading.lol/books/the-employees-a-workplace-novel-of-the-22nd-century/)
 * [Slow Horses (Slough House, #1)](https://reading.lol/books/slow-horses-slough-house-1/)
 * [The Kaiju Preservation Society](https://reading.lol/books/the-kaiju-preservation-society/)
 * [Long Live the Post Horn!](https://reading.lol/books/long-live-the-post-horn/)
-* [Agent Sonya: Moscow's Most Daring Wartime Spy](https://reading.lol/books/agent-sonya-moscow-s-most-daring-wartime-spy/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -100,6 +100,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
 
 <!-- date starts -->
-Generated at `Mon Apr 11 00:51:41 2022`
+Generated at `Tue Apr 12 00:51:26 2022`
 <!-- date ends -->
 
