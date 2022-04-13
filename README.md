@@ -35,9 +35,10 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 <!-- links starts -->
 - [harper.lol](http://harper.lol) - my home page
 - [harper.blog](http://harper.blog) - my writing
+- [reading.lol](http://reading.lol) - my reading site
 - [harper.photos](http://harper.photos) - some photos
 - [harper.eth](http://harper.eth.link) - my NFTs
-- [reading.lol](http://reading.lol) - my reading site
+- [galactic.io](http://galactic.io) - my company
 
 
 
@@ -50,6 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 <!-- details starts -->
 - 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
 - 😄 Pronouns: he/him or they/them
+- Locale: Chicago
 <!-- age starts -->
 - 👨Age: 44.1 years old
 <!-- age ends -->
@@ -99,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Wed Apr 13 16:16:15 2022`
+Generated at `Wed Apr 13 16:18:58 2022`
 <!-- date ends -->
 
