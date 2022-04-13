@@ -2,7 +2,6 @@
 
 <!-- photos starts -->
 [![L2081167.JPG](https://harper.photos/photos/L2081167.JPG/L2081167_hu5e070e157860d917aedefb33aad851e1_1469806_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L2081167.JPG/) 
- **
 <!-- photos ends -->
 
 
