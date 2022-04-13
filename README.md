@@ -20,7 +20,7 @@ My name is Harper Reed. I am a hacker type person who builds a lot of software t
 
 I take a lot of photos, do silly pranks with my brother ([@dylanreed](http://twitter.com/dylanreed)) and hang out with my partner in Chicago. 
 
-I am currently working on a neat project called [Galactic](https://galactic.io).
+I am currently working on a neat project called [Galactic](https://galactic.io). You can always checkout what i am up to [now](https://harperreed.com/now/).
 
 Please [reach out](mailto:harper@modest.com) and say hi. 
 
@@ -84,7 +84,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 
 
-### ☠️
+### ☠️☠️☠️
 
 ## Github Stats
 
@@ -97,9 +97,8 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 -----
 
-This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). 
-
+This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Wed Apr 13 15:06:32 2022`
+Generated at `Wed Apr 13 11:09:13 2022`
 <!-- date ends -->
 
