@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Jack Four](https://reading.lol/books/jack-four/)
 * [Rabbits: A Novel](https://reading.lol/books/rabbits-a-novel/)
 * [Time is a Mother](https://reading.lol/books/time-is-a-mother/)
 * [The Galaxy, and the Ground Within (Wayfarers, #4)](https://reading.lol/books/the-galaxy-and-the-ground-within-wayfarers-4/)
 * [Murmurations](https://reading.lol/books/murmurations/)
-* [Record of a Spaceborn Few (Wayfarers, #3)](https://reading.lol/books/record-of-a-spaceborn-few-wayfarers-3/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Fri May  6 00:51:00 2022`
+Generated at `Sat May  7 00:51:31 2022`
 <!-- date ends -->
 
