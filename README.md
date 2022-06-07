@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![L2081167.JPG](https://harper.photos/photos/L2081167.JPG/L2081167_hu5e070e157860d917aedefb33aad851e1_1469806_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L2081167.JPG/) 
- **
+[![Night Bar @ Curiosity Camp 2022](https://harper.photos/photos/L1008646.JPG/L1008646_hue5cf73cbdf50b9efb12501bf11f52c63_629153_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1008646.JPG/) 
+ *Night Party*
 <!-- photos ends -->
 
 
@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://reading.lol/books/trillion-dollar-coach-the-leadership-playbook-of-silicon-valley-s-bill-campbell/)
+* [The Cuckoo's Egg](https://reading.lol/books/the-cuckoo-s-egg/)
 * [The Idea Factory: Bell Labs and the Great Age of American Innovation](https://reading.lol/books/the-idea-factory-bell-labs-and-the-great-age-of-american-innovation/)
 * [Atmosphæra Incognita](https://reading.lol/books/atmosphaera-incognita/)
 * [The Wizard Hunters (The Fall of Ile-Rien, #1)](https://reading.lol/books/the-wizard-hunters-the-fall-of-ile-rien-1/)
-* [Jack Four](https://reading.lol/books/jack-four/)
-* [Rabbits: A Novel](https://reading.lol/books/rabbits-a-novel/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Mon Jun  6 00:51:48 2022`
+Generated at `Tue Jun  7 00:52:10 2022`
 <!-- date ends -->
 
