@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [How High We Go in the Dark](https://reading.lol/books/how-high-we-go-in-the-dark/)
 * [Future Artifacts: Stories](https://reading.lol/books/future-artifacts-stories/)
 * [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://reading.lol/books/trillion-dollar-coach-the-leadership-playbook-of-silicon-valley-s-bill-campbell/)
 * [The Cuckoo's Egg](https://reading.lol/books/the-cuckoo-s-egg/)
 * [The Idea Factory: Bell Labs and the Great Age of American Innovation](https://reading.lol/books/the-idea-factory-bell-labs-and-the-great-age-of-american-innovation/)
-* [Atmosphæra Incognita](https://reading.lol/books/atmosphaera-incognita/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Mon Jun 13 00:51:13 2022`
+Generated at `Tue Jun 14 00:51:58 2022`
 <!-- date ends -->
 
