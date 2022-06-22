@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Night Bar @ Curiosity Camp 2022](https://harper.photos/photos/L1008646.JPG/L1008646_hue5cf73cbdf50b9efb12501bf11f52c63_629153_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1008646.JPG/) 
- *Night Party*
+[![Night Party @ Curiosity Camp 2022](https://harper.photos/photos/L1008646.JPG/L1008646_hue5cf73cbdf50b9efb12501bf11f52c63_629153_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1008646.JPG/) 
+ *Night Party @ Curiosity Camp 2022*
 <!-- photos ends -->
 
 
@@ -53,7 +53,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 44.28 years old
+- 👨Age: 44.29 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Tue Jun 21 00:52:13 2022`
+Generated at `Wed Jun 22 00:51:48 2022`
 <!-- date ends -->
 
