@@ -53,7 +53,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 44.4 years old
+- 👨Age: 44.41 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [On the Shortness of Life](https://reading.lol/books/on-the-shortness-of-life/)
 * [Edges (Inverted Frontier #1)](https://reading.lol/books/edges-inverted-frontier-1/)
 * [Dead Silence](https://reading.lol/books/dead-silence/)
 * [The Paradox Hotel](https://reading.lol/books/the-paradox-hotel/)
 * [Sea of Tranquility](https://reading.lol/books/sea-of-tranquility/)
-* [The Glass Hotel](https://reading.lol/books/the-glass-hotel/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu Aug  4 00:51:23 2022`
+Generated at `Fri Aug  5 00:52:59 2022`
 <!-- date ends -->
 
