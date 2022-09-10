@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Aisha Fukushima](https://harper.photos/photos/L1009260.jpeg/L1009260_huf9e29740b4efa32baed8f63a16df5df8_844398_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/L1009260.jpeg/) 
- *Aisha Fukushima*
+[![Photo shoot](https://harper.photos/photos/L1009370.JPG/L1009370_hua90765933d600d4cddb18848c720bc1b_115022_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1009370.JPG/) 
+ *Photo shoot*
 <!-- photos ends -->
 
 
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Fri Sep  9 00:51:51 2022`
+Generated at `Sat Sep 10 00:52:08 2022`
 <!-- date ends -->
 
