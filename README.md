@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Women Could Fly](https://reading.lol/books/the-women-could-fly/)
+* [Galápagos](https://reading.lol/books/galapagos/)
+* [I'm Glad My Mom Died](https://reading.lol/books/i-m-glad-my-mom-died/)
 * [She Who Became the Sun (The Radiant Emperor, #1)](https://reading.lol/books/she-who-became-the-sun-the-radiant-emperor-1/)
 * [Life Ceremony: Stories](https://reading.lol/books/life-ceremony-stories/)
-* [Babel, or the Necessity of Violence: an Arcane History of the Oxford Translators' Revolution](https://reading.lol/books/babel-or-the-necessity-of-violence-an-arcane-history-of-the-oxford-translators-revolution/)
-* [The Past Is Red](https://reading.lol/books/the-past-is-red/)
-* [The Snow Queen (The Snow Queen Cycle, #1)](https://reading.lol/books/the-snow-queen-the-snow-queen-cycle-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Fri Sep 16 00:51:43 2022`
+Generated at `Sat Sep 17 00:51:54 2022`
 <!-- date ends -->
 
