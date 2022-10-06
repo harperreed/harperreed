@@ -20,7 +20,7 @@ My name is Harper Reed. I am a hacker type person who builds a lot of software t
 
 I take a [lot of photos](https://harper.photos), do [silly](http://www.zebraprank.com/) [pranks](https://www.boyhoodhome.com/) with my brother ([@dylanreed](http://twitter.com/dylanreed)) and hang out with my wonderful partner in Chicago. 
 
-I am currently buildfing a neat company called [Galactic](https://galactic.io) (we are [hiring](https://galactic.io/careers/)!). You can always checkout what I am up to [now](https://harperreed.com/now/).
+I am currently building a neat company called [Galactic](https://galactic.io) (we are [hiring](https://galactic.io/careers/)!). You can always checkout what I am up to [now](https://harperreed.com/now/).
 
 Please [reach out](mailto:harper@modest.com) and say hi. 
 
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu Oct  6 00:51:38 2022`
+Generated at `Thu Oct  6 15:54:42 2022`
 <!-- date ends -->
 
