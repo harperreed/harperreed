@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Spare Man](https://reading.lol/books/the-spare-man/)
 * [Station Eternity (The Midsolar Murders, #1)](https://reading.lol/books/station-eternity-the-midsolar-murders-1/)
 * [The Art of Prophecy (The War Arts Saga, #1)](https://reading.lol/books/the-art-of-prophecy-the-war-arts-saga-1/)
 * [Our Missing Hearts](https://reading.lol/books/our-missing-hearts/)
 * [Edge](https://reading.lol/books/edge/)
-* [The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze](https://reading.lol/books/the-cryptopians-idealism-greed-lies-and-the-making-of-the-first-big-cryptocurrency-craze/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Tue Nov  8 00:51:33 2022`
+Generated at `Wed Nov  9 00:51:27 2022`
 <!-- date ends -->
 
