@@ -53,7 +53,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 44.68 years old
+- 👨Age: 44.69 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Victories Greater Than Death (Unstoppable, #1)](https://reading.lol/books/victories-greater-than-death-unstoppable-1/)
+* [Blood, Sweat & Chrome: The Wild and True Story of Mad Max: Fury Road](https://reading.lol/books/blood-sweat-chrome-the-wild-and-true-story-of-mad-max-fury-road/)
 * [The Spare Man](https://reading.lol/books/the-spare-man/)
 * [Station Eternity (The Midsolar Murders, #1)](https://reading.lol/books/station-eternity-the-midsolar-murders-1/)
 * [The Art of Prophecy (The War Arts Saga, #1)](https://reading.lol/books/the-art-of-prophecy-the-war-arts-saga-1/)
-* [Our Missing Hearts](https://reading.lol/books/our-missing-hearts/)
-* [Edge](https://reading.lol/books/edge/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Mon Nov 14 00:51:37 2022`
+Generated at `Tue Nov 15 00:51:28 2022`
 <!-- date ends -->
 
