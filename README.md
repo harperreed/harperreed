@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Lakewood](https://reading.lol/books/lakewood/)
 * [Neom: A Novel from the World of Central Station](https://reading.lol/books/neom-a-novel-from-the-world-of-central-station/)
 * [Central Station](https://reading.lol/books/central-station/)
 * [Upgrade](https://reading.lol/books/upgrade/)
 * [The Power Worshippers: Inside the Dangerous Rise of Religious Nationalism](https://reading.lol/books/the-power-worshippers-inside-the-dangerous-rise-of-religious-nationalism/)
-* [Hangry: A Startup Journey](https://reading.lol/books/hangry-a-startup-journey/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sun Dec  4 00:51:06 2022`
+Generated at `Mon Dec  5 00:50:56 2022`
 <!-- date ends -->
 
