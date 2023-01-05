@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [A Prayer for the Crown-Shy (Monk & Robot, #2)](https://reading.lol/books/a-prayer-for-the-crown-shy-monk-robot-2/)
 * [There Is No Antimemetics Division](https://reading.lol/books/there-is-no-antimemetics-division/)
 * [Friday Black](https://reading.lol/books/friday-black/)
 * [Tomorrow, and Tomorrow, and Tomorrow](https://reading.lol/books/tomorrow-and-tomorrow-and-tomorrow/)
 * [The Key Man](https://reading.lol/books/the-key-man/)
-* [We Own This City: A True Story of Crime, Cops, and Corruption](https://reading.lol/books/we-own-this-city-a-true-story-of-crime-cops-and-corruption/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Wed Jan  4 00:51:04 2023`
+Generated at `Thu Jan  5 00:51:01 2023`
 <!-- date ends -->
 
