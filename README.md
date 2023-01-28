@@ -63,10 +63,10 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 <!-- blog starts -->
 * [Posts](https://harper.blog/post/)
+* [Some minor prompt engineering](https://harper.blog/2023/01/26/some-minor-prompt-engineering/)
 * [What have I been up to?](https://harper.blog/2020/09/21/what-have-i-been-up-to/)
 * [Giving](https://harper.blog/2020/06/04/giving/)
 * [Digital Contact Tracing and Alerting vs Exposure Alerting](https://harper.blog/2020/04/22/digital-contact-tracing-and-alerting-vs-exposure-alerting/)
-* [Harper's 3 tips to surviving Facebook](https://harper.blog/2018/10/11/harpers-3-tips-to-surviving-facebook/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Fri Jan 27 00:51:33 2023`
+Generated at `Sat Jan 28 00:51:08 2023`
 <!-- date ends -->
 
