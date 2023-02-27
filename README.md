@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Angel!](https://harper.photos/photos/L1009532.JPG/L1009532_hu84dadd675dcc3e8b5b8b1c5a15589bbd_850212_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1009532.JPG/) 
- *Angel!*
+[![a secret photo of Langer.](https://harper.photos/photos/8777C3B7-D413-4007-ACC0-2D9EC2A68C63_1_102_a.jpeg/8777C3B7-D413-4007-ACC0-2D9EC2A68C63_1_102_a_hubdf637b195f61c375498a6834ae879e5_854284_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/8777C3B7-D413-4007-ACC0-2D9EC2A68C63_1_102_a.jpeg/) 
+ *a secret photo of Langer.*
 <!-- photos ends -->
 
 
@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Deluge](https://reading.lol/books/the-deluge/)
+* [The Terraformers](https://reading.lol/books/the-terraformers/)
 * [Critical Mass: A Novel (A Delta-v Novel Book 2)](https://reading.lol/books/critical-mass-a-novel-a-delta-v-novel-book-2/)
 * [Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency](https://reading.lol/books/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-cryptocurrency/)
 * [An Immense World: How Animal Senses Reveal the Hidden Realms Around Us](https://reading.lol/books/an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us/)
-* [A Prayer for the Crown-Shy (Monk & Robot, #2)](https://reading.lol/books/a-prayer-for-the-crown-shy-monk-robot-2/)
-* [There Is No Antimemetics Division](https://reading.lol/books/there-is-no-antimemetics-division/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sun Feb 26 00:52:23 2023`
+Generated at `Mon Feb 27 00:51:15 2023`
 <!-- date ends -->
 
