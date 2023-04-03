@@ -53,7 +53,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 45.06 years old
+- 👨Age: 45.07 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [American War](https://reading.lol/books/american-war/)
+* [Code Warriors: NSA's Codebreakers and the Secret Intelligence War Against the Soviet Union](https://reading.lol/books/code-warriors-nsa-s-codebreakers-and-the-secret-intelligence-war-against-the-soviet-union/)
 * [The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture](https://reading.lol/books/the-friendly-orange-glow-the-untold-story-of-the-rise-of-cyberculture/)
 * [The Deluge](https://reading.lol/books/the-deluge/)
 * [The Terraformers](https://reading.lol/books/the-terraformers/)
-* [Critical Mass: A Novel (A Delta-v Novel Book 2)](https://reading.lol/books/critical-mass-a-novel-a-delta-v-novel-book-2/)
-* [Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency](https://reading.lol/books/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-cryptocurrency/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sun Apr  2 00:50:58 2023`
+Generated at `Mon Apr  3 00:50:50 2023`
 <!-- date ends -->
 
