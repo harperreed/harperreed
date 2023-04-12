@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![a secret photo of Langer.](https://harper.photos/photos/8777C3B7-D413-4007-ACC0-2D9EC2A68C63_1_102_a.jpeg/8777C3B7-D413-4007-ACC0-2D9EC2A68C63_1_102_a_hubdf637b195f61c375498a6834ae879e5_854284_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/8777C3B7-D413-4007-ACC0-2D9EC2A68C63_1_102_a.jpeg/) 
- *a secret photo of Langer.*
+[![A tech worker](https://harper.photos/photos/L1000319.JPG/L1000319_hu7119c2a9a1a8d36b711b3bb98fb43555_2116240_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1000319.JPG/) 
+ *A tech worker*
 <!-- photos ends -->
 
 
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Tue Apr 11 00:50:51 2023`
+Generated at `Wed Apr 12 00:50:39 2023`
 <!-- date ends -->
 
