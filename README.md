@@ -53,7 +53,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 45.1 years old
+- 👨Age: 45.11 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Mon Apr 17 00:50:46 2023`
+Generated at `Tue Apr 18 00:50:35 2023`
 <!-- date ends -->
 
