@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Echo Wife](https://reading.lol/books/the-echo-wife/)
+* [The Resisters](https://reading.lol/books/the-resisters/)
+* [Rubicon](https://reading.lol/books/rubicon/)
 * [I Escaped from Auschwitz: The Shocking True Story of the World War II Hero Who Escaped the Nazis and Helped Save Over 200,000 Jews](https://reading.lol/books/i-escaped-from-auschwitz-the-shocking-true-story-of-the-world-war-ii-hero-who-escaped-the-nazis-and-helped-save-over-200000-jews/)
 * [Scythe (Arc of a Scythe, #1)](https://reading.lol/books/scythe-arc-of-a-scythe-1/)
-* [American War](https://reading.lol/books/american-war/)
-* [Code Warriors: NSA's Codebreakers and the Secret Intelligence War Against the Soviet Union](https://reading.lol/books/code-warriors-nsa-s-codebreakers-and-the-secret-intelligence-war-against-the-soviet-union/)
-* [The Friendly Orange Glow: The Untold Story of the Rise of Cyberculture](https://reading.lol/books/the-friendly-orange-glow-the-untold-story-of-the-rise-of-cyberculture/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu Apr 27 00:51:21 2023`
+Generated at `Fri Apr 28 00:52:23 2023`
 <!-- date ends -->
 
