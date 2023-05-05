@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Not Funny: Essays on Life, Comedy, Culture, Et Cetera](https://reading.lol/books/not-funny-essays-on-life-comedy-culture-et-cetera/)
 * [The Echo Wife](https://reading.lol/books/the-echo-wife/)
 * [The Resisters](https://reading.lol/books/the-resisters/)
 * [Rubicon](https://reading.lol/books/rubicon/)
 * [I Escaped from Auschwitz: The Shocking True Story of the World War II Hero Who Escaped the Nazis and Helped Save Over 200,000 Jews](https://reading.lol/books/i-escaped-from-auschwitz-the-shocking-true-story-of-the-world-war-ii-hero-who-escaped-the-nazis-and-helped-save-over-200000-jews/)
-* [Scythe (Arc of a Scythe, #1)](https://reading.lol/books/scythe-arc-of-a-scythe-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu May  4 00:50:40 2023`
+Generated at `Fri May  5 00:50:48 2023`
 <!-- date ends -->
 
