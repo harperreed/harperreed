@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![A tech worker](https://harper.photos/photos/L1000319.JPG/L1000319_hu7119c2a9a1a8d36b711b3bb98fb43555_2116240_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1000319.JPG/) 
- *A tech worker*
+[![The bright future is full of stars](https://harper.photos/photos/L1001206.JPG/L1001206_hu0db1742bc07b047a68a849385483383e_10156706_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1001206.JPG/) 
+ *The bright future is full of stars*
 <!-- photos ends -->
 
 
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu Jun 22 00:51:12 2023`
+Generated at `Fri Jun 23 00:51:45 2023`
 <!-- date ends -->
 
