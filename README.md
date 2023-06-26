@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Chain-Gang All-Stars](https://reading.lol/books/chain-gang-all-stars/)
 * [Last Argument of Kings (The First Law, #3)](https://reading.lol/books/last-argument-of-kings-the-first-law-3/)
 * [Before They Are Hanged (The First Law, #2)](https://reading.lol/books/before-they-are-hanged-the-first-law-2/)
 * [The Blade Itself (The First Law, #1)](https://reading.lol/books/the-blade-itself-the-first-law-1/)
 * [When the Heavens Went on Sale: The Misfits and Geniuses Racing to Put Space Within Reach](https://reading.lol/books/when-the-heavens-went-on-sale-the-misfits-and-geniuses-racing-to-put-space-within-reach/)
-* [Walking Through Clear Water in a Pool Painted Black: Collected Stories](https://reading.lol/books/walking-through-clear-water-in-a-pool-painted-black-collected-stories/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sun Jun 25 00:52:46 2023`
+Generated at `Mon Jun 26 00:52:45 2023`
 <!-- date ends -->
 
