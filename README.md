@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [No One Will Come Back For Us](https://reading.lol/books/no-one-will-come-back-for-us/)
+* [Excellent Advice for Living: Wisdom I Wish I'd Known Earlier](https://reading.lol/books/excellent-advice-for-living-wisdom-i-wish-i-d-known-earlier/)
+* [Translation State (Imperial Radch)](https://reading.lol/books/translation-state/)
 * [Chain-Gang All-Stars](https://reading.lol/books/chain-gang-all-stars/)
 * [Last Argument of Kings (The First Law, #3)](https://reading.lol/books/last-argument-of-kings-the-first-law-3/)
-* [Before They Are Hanged (The First Law, #2)](https://reading.lol/books/before-they-are-hanged-the-first-law-2/)
-* [The Blade Itself (The First Law, #1)](https://reading.lol/books/the-blade-itself-the-first-law-1/)
-* [When the Heavens Went on Sale: The Misfits and Geniuses Racing to Put Space Within Reach](https://reading.lol/books/when-the-heavens-went-on-sale-the-misfits-and-geniuses-racing-to-put-space-within-reach/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sat Jul  8 00:52:36 2023`
+Generated at `Sun Jul  9 00:52:37 2023`
 <!-- date ends -->
 
