@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![The bright future is full of stars](https://harper.photos/photos/L1001206.JPG/L1001206_hu0db1742bc07b047a68a849385483383e_10156706_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1001206.JPG/) 
- *The bright future is full of stars*
+[![Skating through Ameyoko](https://harper.photos/photos/L1001715.JPG/L1001715_hub2c8b012629e1f02773739665abe1545_3985219_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1001715.JPG/) 
+ *Skating through Ameyoko*
 <!-- photos ends -->
 
 
@@ -53,7 +53,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 45.39 years old
+- 👨Age: 45.4 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Tue Aug  1 00:43:06 2023`
+Generated at `Wed Aug  2 00:44:59 2023`
 <!-- date ends -->
 
