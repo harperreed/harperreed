@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Skating through Ameyoko](https://harper.photos/photos/L1001715.JPG/L1001715_hub2c8b012629e1f02773739665abe1545_3985219_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1001715.JPG/) 
- *Skating through Ameyoko*
+[![Inception](https://harper.photos/photos/L1001740.JPG/L1001740_hu899976aa95d9bd4b6fb02cd208f42c9e_4929597_1200x0_resize_q75_box.JPG)](https://harper.photos/photos/L1001740.JPG/) 
+ *Inception*
 <!-- photos ends -->
 
 
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu Aug  3 00:49:39 2023`
+Generated at `Fri Aug  4 00:52:06 2023`
 <!-- date ends -->
 
