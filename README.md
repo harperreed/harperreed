@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Rose/House](https://reading.lol/books/rose-house/)
+* [Trouble and Her Friends](https://reading.lol/books/trouble-and-her-friends/)
+* [Permutation City](https://reading.lol/books/permutation-city/)
 * [The Children of Men](https://reading.lol/books/the-children-of-men/)
 * [Somebody's Daughter](https://reading.lol/books/somebody-s-daughter/)
-* [No One Will Come Back For Us](https://reading.lol/books/no-one-will-come-back-for-us/)
-* [Excellent Advice for Living: Wisdom I Wish I'd Known Earlier](https://reading.lol/books/excellent-advice-for-living-wisdom-i-wish-i-d-known-earlier/)
-* [Translation State (Imperial Radch)](https://reading.lol/books/translation-state/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sun Aug  6 00:49:32 2023`
+Generated at `Mon Aug  7 00:51:00 2023`
 <!-- date ends -->
 
