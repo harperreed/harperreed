@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Words of Radiance (The Stormlight Archive, #2)](https://reading.lol/books/words-of-radiance-the-stormlight-archive-2/)
 * [The Way of Kings (The Stormlight Archive, #1)](https://reading.lol/books/the-way-of-kings-the-stormlight-archive-1/)
 * [Rose/House](https://reading.lol/books/rose-house/)
 * [Trouble and Her Friends](https://reading.lol/books/trouble-and-her-friends/)
 * [Permutation City](https://reading.lol/books/permutation-city/)
-* [The Children of Men](https://reading.lol/books/the-children-of-men/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Mon Sep 11 00:50:13 2023`
+Generated at `Tue Sep 12 00:50:13 2023`
 <!-- date ends -->
 
