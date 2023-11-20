@@ -75,11 +75,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Saint of Bright Doors](https://reading.lol/books/the-saint-of-bright-doors/)
+* [The Last Dancer](https://reading.lol/books/the-last-dancer/)
 * [Going Infinite: The Rise and Fall of a New Tycoon](https://reading.lol/books/going-infinite-the-rise-and-fall-of-a-new-tycoon/)
 * [Oathbringer (The Stormlight Archive, #3)](https://reading.lol/books/oathbringer-the-stormlight-archive-3/)
 * [Edgedancer (The Stormlight Archive, #2.5)](https://reading.lol/books/edgedancer-the-stormlight-archive-2-5/)
-* [Words of Radiance (The Stormlight Archive, #2)](https://reading.lol/books/words-of-radiance-the-stormlight-archive-2/)
-* [The Way of Kings (The Stormlight Archive, #1)](https://reading.lol/books/the-way-of-kings-the-stormlight-archive-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -101,6 +101,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sun Nov 19 00:50:40 2023`
+Generated at `Mon Nov 20 00:50:30 2023`
 <!-- date ends -->
 
