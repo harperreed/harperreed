@@ -20,7 +20,7 @@ My name is Harper Reed. I am a hacker type person who builds a lot of software t
 
 I take a [lot of photos](https://harper.photos), do [silly](http://www.zebraprank.com/) [pranks](https://www.boyhoodhome.com/) with my brother ([@dylanreed](http://twitter.com/dylanreed)) and hang out with my wonderful partner in Chicago. 
 
-I am currently building a neat company called [Galactic](https://galactic.io) (we are [hiring](https://galactic.io/careers/)!). You can always checkout what I am up to [now](https://harperreed.com/now/).
+Currently just playing around. You can always checkout what I am up to [now](https://harperreed.com/now/).
 
 Please [reach out](mailto:harper@modest.com) and say hi. 
 
@@ -37,8 +37,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - [harper.blog](http://harper.blog) - my writing
 - [reading.lol](http://reading.lol) - my reading site
 - [harper.photos](http://harper.photos) - some photos
-- [harper.eth](http://harper.eth.link) - my NFTs
-- [galactic.io](http://galactic.io) - my company
 
 
 
@@ -53,7 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 45.7 years old
+- 👨Age: 45.71 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -101,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Wed Nov 22 00:50:39 2023`
+Generated at `Wed Nov 22 17:10:58 2023`
 <!-- date ends -->
 
