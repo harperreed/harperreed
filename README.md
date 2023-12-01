@@ -60,11 +60,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [The new new AI tools](https://harper.blog/2023/11/30/the-new-new-ai-tools/)
 * [Some thoughts about turntables](https://harper.blog/2023/02/10/some-thoughts-about-turntables/)
 * [Where to find me now](https://harper.blog/2023/01/29/where-to-find-me-now/)
 * [Some minor prompt engineering](https://harper.blog/2023/01/26/some-minor-prompt-engineering/)
 * [What have I been up to?](https://harper.blog/2020/09/21/what-have-i-been-up-to/)
-* [Giving](https://harper.blog/2020/06/04/giving/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Attitude and Other Stories](https://reading.lol/books/attitude-and-other-stories/)
+* [The Passing of the Dragon](https://reading.lol/books/the-passing-of-the-dragon/)
 * [Starter Villain](https://reading.lol/books/starter-villain/)
 * [Down the Drain](https://reading.lol/books/down-the-drain/)
 * [System Collapse (The Murderbot Diaries, #7)](https://reading.lol/books/system-collapse-the-murderbot-diaries-7/)
-* [The Saint of Bright Doors](https://reading.lol/books/the-saint-of-bright-doors/)
-* [The Last Dancer](https://reading.lol/books/the-last-dancer/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu Nov 30 00:50:33 2023`
+Generated at `Fri Dec  1 00:50:43 2023`
 <!-- date ends -->
 
