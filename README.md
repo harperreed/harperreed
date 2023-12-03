@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [A Deadly Education (The Scholomance, #1)](https://reading.lol/books/a-deadly-education-the-scholomance-1/)
 * [Attitude and Other Stories](https://reading.lol/books/attitude-and-other-stories/)
 * [The Passing of the Dragon](https://reading.lol/books/the-passing-of-the-dragon/)
 * [Starter Villain](https://reading.lol/books/starter-villain/)
 * [Down the Drain](https://reading.lol/books/down-the-drain/)
-* [System Collapse (The Murderbot Diaries, #7)](https://reading.lol/books/system-collapse-the-murderbot-diaries-7/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sat Dec  2 00:50:25 2023`
+Generated at `Sun Dec  3 00:50:43 2023`
 <!-- date ends -->
 
