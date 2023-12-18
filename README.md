@@ -51,7 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 45.77 years old
+- 👨Age: 45.78 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Insignificance: Hong Kong Stories](https://reading.lol/books/insignificance-hong-kong-stories/)
 * [Leave the World Behind](https://reading.lol/books/leave-the-world-behind/)
 * [Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://reading.lol/books/poor-charlies-almanack-the-essential-wit-and-wisdom-of-charles-t-munger/)
 * [The Golden Enclaves (The Scholomance, #3)](https://reading.lol/books/the-golden-enclaves-the-scholomance-3/)
 * [The Last Graduate (The Scholomance, #2)](https://reading.lol/books/the-last-graduate-the-scholomance-2/)
-* [A Deadly Education (The Scholomance, #1)](https://reading.lol/books/a-deadly-education-the-scholomance-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sun Dec 17 00:50:43 2023`
+Generated at `Mon Dec 18 00:50:36 2023`
 <!-- date ends -->
 
