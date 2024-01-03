@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Chaos Terminal (The Midsolar Murders #2)](https://reading.lol/books/chaos-terminal-the-midsolar-murders-2/)
 * [The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI](https://reading.lol/books/the-worlds-i-see-curiosity-exploration-and-discovery-at-the-dawn-of-ai/)
 * [Insignificance: Hong Kong Stories](https://reading.lol/books/insignificance-hong-kong-stories/)
 * [Leave the World Behind](https://reading.lol/books/leave-the-world-behind/)
 * [Poor Charlie’s Almanack: The Essential Wit and Wisdom of Charles T. Munger](https://reading.lol/books/poor-charlies-almanack-the-essential-wit-and-wisdom-of-charles-t-munger/)
-* [The Golden Enclaves (The Scholomance, #3)](https://reading.lol/books/the-golden-enclaves-the-scholomance-3/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Tue Jan  2 00:50:26 2024`
+Generated at `Wed Jan  3 00:50:32 2024`
 <!-- date ends -->
 
