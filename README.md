@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Infinity Gate (Pandominion #1)](https://reading.lol/books/infinity-gate-pandominion-1/)
 * [The Fund: Ray Dalio, Bridgewater Associates, and the Unraveling of a Wall Street Legend](https://reading.lol/books/the-fund-ray-dalio-bridgewater-associates-and-the-unraveling-of-a-wall-street-legend/)
 * [Zero Days](https://reading.lol/books/zero-days/)
 * [Iron Flame (The Empyrean, #2)](https://reading.lol/books/iron-flame-the-empyrean-2/)
 * [King: A Life](https://reading.lol/books/king-a-life/)
-* [Chaos Terminal (The Midsolar Murders #2)](https://reading.lol/books/chaos-terminal-the-midsolar-murders-2/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu Feb 15 00:50:20 2024`
+Generated at `Fri Feb 16 00:50:15 2024`
 <!-- date ends -->
 
