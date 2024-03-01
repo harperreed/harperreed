@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Scourge Between Stars](https://reading.lol/books/the-scourge-between-stars/)
 * [From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Rock Stars](https://reading.lol/books/from-cradle-to-stage-stories-from-the-mothers-who-rocked-and-raised-rock-stars/)
 * [When Giants Walked the Earth: A Biography of Led Zeppelin](https://reading.lol/books/when-giants-walked-the-earth-a-biography-of-led-zeppelin/)
 * [Infinity Gate (Pandominion #1)](https://reading.lol/books/infinity-gate-pandominion-1/)
 * [The Fund: Ray Dalio, Bridgewater Associates, and the Unraveling of a Wall Street Legend](https://reading.lol/books/the-fund-ray-dalio-bridgewater-associates-and-the-unraveling-of-a-wall-street-legend/)
-* [Zero Days](https://reading.lol/books/zero-days/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu Feb 29 00:50:19 2024`
+Generated at `Fri Mar  1 00:50:37 2024`
 <!-- date ends -->
 
