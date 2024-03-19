@@ -51,7 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 46.02 years old
+- 👨Age: 46.03 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -60,11 +60,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [How to Leica like a noob who shoots Leica](https://harper.blog/2024/03/18/how-to-leica-like-a-noob-who-shoots-leica/)
 * [Use an llm to automagically generate meaningful git commit messages](https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/)
 * [Now @ 2024-02-02](https://harper.blog/now/2024-02-02/)
 * [Now @ 2024-01-19](https://harper.blog/now/2024-01-19/)
 * [How to easily handle the deluge of iOS notifications](https://harper.blog/2024/01/14/how-to-easily-handle-the-deluge-of-ios-notifications/)
-* [Harper's climate fiction reading list](https://harper.blog/2023/12/18/harpers-climate-fiction-reading-list/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Mon Mar 18 00:50:35 2024`
+Generated at `Tue Mar 19 00:50:18 2024`
 <!-- date ends -->
 
