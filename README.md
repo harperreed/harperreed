@@ -60,11 +60,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Our Office Avatar pt 1: The office is talking shit again](https://harper.blog/2024/03/26/our-office-avatar-pt-1-the-office-is-talking-shit-again/)
 * [How to Leica like a noob who shoots Leica](https://harper.blog/2024/03/18/how-to-leica-like-a-noob-who-shoots-leica/)
 * [Use an llm to automagically generate meaningful git commit messages](https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/)
 * [Now @ 2024-02-02](https://harper.blog/now/2024-02-02/)
 * [Now @ 2024-01-19](https://harper.blog/now/2024-01-19/)
-* [How to easily handle the deluge of iOS notifications](https://harper.blog/2024/01/14/how-to-easily-handle-the-deluge-of-ios-notifications/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Tue Mar 26 00:50:18 2024`
+Generated at `Wed Mar 27 00:50:19 2024`
 <!-- date ends -->
 
