@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Howling Dark (Sun Eater #2)](https://reading.lol/books/howling-dark-sun-eater-2/)
 * [Empire of Silence (Sun Eater, #1)](https://reading.lol/books/empire-of-silence-sun-eater-1/)
 * [Chaos Vector (The Protectorate, #2)](https://reading.lol/books/chaos-vector-the-protectorate-2/)
 * [The Scourge Between Stars](https://reading.lol/books/the-scourge-between-stars/)
 * [From Cradle to Stage: Stories from the Mothers Who Rocked and Raised Rock Stars](https://reading.lol/books/from-cradle-to-stage-stories-from-the-mothers-who-rocked-and-raised-rock-stars/)
-* [When Giants Walked the Earth: A Biography of Led Zeppelin](https://reading.lol/books/when-giants-walked-the-earth-a-biography-of-led-zeppelin/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sat Apr  6 00:50:17 2024`
+Generated at `Sun Apr  7 00:50:44 2024`
 <!-- date ends -->
 
