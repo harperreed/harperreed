@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![SM again.](https://harper.photos/photos/L1003638.jpeg/L1003638_huc8c9c41c75f5c3ece1514b4ac4b75872_3418652_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/L1003638.jpeg/) 
- *SM again.*
+[![Genevieve in their element](https://harper.photos/photos/L1003999.jpeg/L1003999_huc8c9c41c75f5c3ece1514b4ac4b75872_3880786_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/L1003999.jpeg/) 
+ *Genevieve in their element*
 <!-- photos ends -->
 
 
@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Disquiet Gods (Sun Eater Book 6)](https://reading.lol/books/disquiet-gods-sun-eater-book-6/)
 * [Ashes of Man (Sun Eater, #5)](https://reading.lol/books/ashes-of-man-sun-eater-5/)
 * [Kingdoms of Death](https://reading.lol/books/kingdoms-of-death/)
 * [Demon in White](https://reading.lol/books/demon-in-white/)
 * [Howling Dark (Sun Eater #2)](https://reading.lol/books/howling-dark-sun-eater-2/)
-* [Empire of Silence (Sun Eater, #1)](https://reading.lol/books/empire-of-silence-sun-eater-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Mon Apr 22 00:50:33 2024`
+Generated at `Tue Apr 23 00:50:27 2024`
 <!-- date ends -->
 
