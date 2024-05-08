@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Genevieve in their element](https://harper.photos/photos/L1003999.jpeg/L1003999_huc8c9c41c75f5c3ece1514b4ac4b75872_3880786_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/L1003999.jpeg/) 
- *Genevieve in their element*
+[![Chris Holmes](https://harper.photos/photos/L2081798.jpeg/L2081798_hu2bf5690bb8ce45936ddb05c933c6bb50_4106497_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/L2081798.jpeg/) 
+ *Chris Holmes*
 <!-- photos ends -->
 
 
@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [All the Lovers in the Night](https://reading.lol/books/all-the-lovers-in-the-night/)
 * [Catalyst Gate (The Protectorate, #3)](https://reading.lol/books/catalyst-gate-the-protectorate-3/)
 * [Disquiet Gods (Sun Eater Book 6)](https://reading.lol/books/disquiet-gods-sun-eater-book-6/)
 * [Ashes of Man (Sun Eater, #5)](https://reading.lol/books/ashes-of-man-sun-eater-5/)
 * [Kingdoms of Death](https://reading.lol/books/kingdoms-of-death/)
-* [Demon in White](https://reading.lol/books/demon-in-white/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Tue May  7 00:50:36 2024`
+Generated at `Wed May  8 00:49:54 2024`
 <!-- date ends -->
 
