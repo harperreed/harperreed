@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Piranesi](https://reading.lol/books/piranesi/)
 * [All the Lovers in the Night](https://reading.lol/books/all-the-lovers-in-the-night/)
 * [Catalyst Gate (The Protectorate, #3)](https://reading.lol/books/catalyst-gate-the-protectorate-3/)
 * [Disquiet Gods (Sun Eater Book 6)](https://reading.lol/books/disquiet-gods-sun-eater-book-6/)
 * [Ashes of Man (Sun Eater, #5)](https://reading.lol/books/ashes-of-man-sun-eater-5/)
-* [Kingdoms of Death](https://reading.lol/books/kingdoms-of-death/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu May 16 00:50:33 2024`
+Generated at `Fri May 17 00:50:35 2024`
 <!-- date ends -->
 
