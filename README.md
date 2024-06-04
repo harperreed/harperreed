@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Ajax Penumbra 1969 (Mr. Penumbra's 24-Hour Bookstore, #0.5)](https://reading.lol/books/ajax-penumbra-1969-mr-penumbra-s-24-hour-bookstore-0-5/)
+* [The Rape of Nanking: The Forgotten Holocaust of World War II](https://reading.lol/books/the-rape-of-nanking-the-forgotten-holocaust-of-world-war-ii/)
 * [Blood Over Bright Haven: A Novel](https://reading.lol/books/blood-over-bright-haven-a-novel/)
 * [Piranesi](https://reading.lol/books/piranesi/)
 * [All the Lovers in the Night](https://reading.lol/books/all-the-lovers-in-the-night/)
-* [Catalyst Gate (The Protectorate, #3)](https://reading.lol/books/catalyst-gate-the-protectorate-3/)
-* [Disquiet Gods (Sun Eater Book 6)](https://reading.lol/books/disquiet-gods-sun-eater-book-6/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Mon Jun  3 00:50:43 2024`
+Generated at `Tue Jun  4 00:50:42 2024`
 <!-- date ends -->
 
