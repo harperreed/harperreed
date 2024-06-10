@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Chris Holmes](https://harper.photos/photos/L2081798.jpeg/L2081798_hu2bf5690bb8ce45936ddb05c933c6bb50_4106497_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/L2081798.jpeg/) 
- *Chris Holmes*
+[![Dror](https://harper.photos/photos/L1000062.jpeg/L1000062_hu980f22a8ea856cf3a43b01667ece6708_3472796_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/L1000062.jpeg/) 
+ *Dror*
 <!-- photos ends -->
 
 
@@ -60,11 +60,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Now @ 06-09-2024](https://harper.blog/now/2024-06-09/)
 * [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
 * [Now @ 04-06-2024](https://harper.blog/now/2024-04-06/)
 * [Our Office Avatar pt 1: The office is talking shit again](https://harper.blog/2024/03/26/our-office-avatar-pt-1-the-office-is-talking-shit-again/)
 * [How to Leica like a noob who shoots Leica](https://harper.blog/2024/03/18/how-to-leica-like-a-noob-who-shoots-leica/)
-* [Use an llm to automagically generate meaningful git commit messages](https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sun Jun  9 00:50:55 2024`
+Generated at `Mon Jun 10 00:50:44 2024`
 <!-- date ends -->
 
