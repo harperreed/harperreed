@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Moonbound](https://reading.lol/books/moonbound/)
+* [Nophek Gloss](https://reading.lol/books/nophek-gloss/)
+* [The Narrow Road Between Desires (The Kingkiller Chronicle, #2.6)](https://reading.lol/books/the-narrow-road-between-desires-the-kingkiller-chronicle-2-6/)
 * [Mickey7 (Mickey7 #1)](https://reading.lol/books/mickey7-mickey7-1/)
 * [Ghostdrift (Finder Chronicles #4)](https://reading.lol/books/ghostdrift-finder-chronicles-4/)
-* [Ajax Penumbra 1969 (Mr. Penumbra's 24-Hour Bookstore, #0.5)](https://reading.lol/books/ajax-penumbra-1969-mr-penumbra-s-24-hour-bookstore-0-5/)
-* [Annabel Scheme (Annabel Scheme)](https://reading.lol/books/annabel-scheme/)
-* [The Rape of Nanking: The Forgotten Holocaust of World War II](https://reading.lol/books/the-rape-of-nanking-the-forgotten-holocaust-of-world-war-ii/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Wed Jun 19 00:50:46 2024`
+Generated at `Thu Jun 20 00:50:41 2024`
 <!-- date ends -->
 
