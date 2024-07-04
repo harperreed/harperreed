@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Ghost Station](https://reading.lol/books/ghost-station/)
 * [Floating Hotel](https://reading.lol/books/floating-hotel/)
 * [My Work](https://reading.lol/books/my-work/)
 * [Moonbound](https://reading.lol/books/moonbound/)
 * [Nophek Gloss](https://reading.lol/books/nophek-gloss/)
-* [The Narrow Road Between Desires (The Kingkiller Chronicle, #2.6)](https://reading.lol/books/the-narrow-road-between-desires-the-kingkiller-chronicle-2-6/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Wed Jul  3 00:50:49 2024`
+Generated at `Thu Jul  4 00:50:47 2024`
 <!-- date ends -->
 
