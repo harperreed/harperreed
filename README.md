@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Book of Elsewhere](https://reading.lol/books/the-book-of-elsewhere/)
 * [The Ransomware Hunting Team: A Band of Misfits' Improbable Crusade to Save the World from Cybercrime](https://reading.lol/books/the-ransomware-hunting-team-a-band-of-misfits-improbable-crusade-to-save-the-world-from-cybercrime/)
 * [The Suitcase Clone](https://reading.lol/books/the-suitcase-clone/)
 * [Service Model](https://reading.lol/books/service-model/)
 * [Ghost Station](https://reading.lol/books/ghost-station/)
-* [Floating Hotel](https://reading.lol/books/floating-hotel/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sun Aug  4 00:51:00 2024`
+Generated at `Mon Aug  5 00:50:55 2024`
 <!-- date ends -->
 
