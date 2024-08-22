@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Some Desperate Glory](https://reading.lol/books/some-desperate-glory/)
 * [Down with the System: A Memoir (of Sorts)](https://reading.lol/books/down-with-the-system-a-memoir/)
 * [The Mimicking of Known Successes (Mossa & Pleiti, #1)](https://reading.lol/books/the-mimicking-of-known-successes-mossa-pleiti-1/)
 * [The Mimicking of Known Successes (The Investigations of Mossa and Pleiti, #1)](https://reading.lol/books/the-mimicking-of-known-successes-the-investigations-of-mossa-and-pleiti-1/)
 * [Me (Moth)](https://reading.lol/books/me/)
-* [Fancy Bear Goes Phishing: The Dark History of the Information Age, in Five Extraordinary Hacks](https://reading.lol/books/fancy-bear-goes-phishing-the-dark-history-of-the-information-age-in-five-extraordinary-hacks/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Wed Aug 21 00:50:54 2024`
+Generated at `Thu Aug 22 00:50:55 2024`
 <!-- date ends -->
 
