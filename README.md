@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Dylan](https://harper.photos/photos/R0000111.jpeg/R0000111_huf233a31b7cff4a3f5d1db7b99d5b44e6_3166698_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/R0000111.jpeg/) 
- *Dylan*
+[![Jacky](https://harper.photos/photos/R0000477.jpeg/R0000477_hu0d30b5ce16cb2349d5de2f75b3448093_4107976_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/R0000477.jpeg/) 
+ *Jacky*
 <!-- photos ends -->
 
 
@@ -51,7 +51,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 46.45 years old
+- 👨Age: 46.46 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Thu Aug 22 00:50:55 2024`
+Generated at `Fri Aug 23 00:50:57 2024`
 <!-- date ends -->
 
