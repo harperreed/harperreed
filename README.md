@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- photos starts -->
-[![Jacky](https://harper.photos/photos/R0000477.jpeg/R0000477_hu0d30b5ce16cb2349d5de2f75b3448093_4107976_1200x0_resize_q75_box.jpeg)](https://harper.photos/photos/R0000477.jpeg/) 
+[![Jacky](https://harper.photos/photos/R0000477.jpeg/R0000477_hu0d30b5ce16cb2349d5de2f75b3448093_4107976_1200x0_resize_q75_lanczos.jpeg)](https://harper.photos/photos/R0000477.jpeg/) 
  *Jacky*
 <!-- photos ends -->
 
@@ -73,11 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Mercy of Gods (The Captive's War, #1)](https://reading.lol/books/the-mercy-of-gods-the-captive-s-war-1/)
 * [Some Desperate Glory](https://reading.lol/books/some-desperate-glory/)
 * [Down with the System: A Memoir (of Sorts)](https://reading.lol/books/down-with-the-system-a-memoir/)
 * [The Mimicking of Known Successes (Mossa & Pleiti, #1)](https://reading.lol/books/the-mimicking-of-known-successes-mossa-pleiti-1/)
 * [The Mimicking of Known Successes (The Investigations of Mossa and Pleiti, #1)](https://reading.lol/books/the-mimicking-of-known-successes-the-investigations-of-mossa-and-pleiti-1/)
-* [Me (Moth)](https://reading.lol/books/me/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Tue Aug 27 00:50:59 2024`
+Generated at `Wed Aug 28 00:50:58 2024`
 <!-- date ends -->
 
