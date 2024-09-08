@@ -77,7 +77,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 * [The Mercy of Gods (The Captive's War, #1)](https://reading.lol/books/the-mercy-of-gods-the-captive-s-war-1/)
 * [Some Desperate Glory](https://reading.lol/books/some-desperate-glory/)
 * [Down with the System: A Memoir (of Sorts)](https://reading.lol/books/down-with-the-system-a-memoir/)
-* [The Mimicking of Known Successes (Mossa & Pleiti, #1)](https://reading.lol/books/the-mimicking-of-known-successes-mossa-pleiti-1/)
+* [The Mimicking of Known Successes (The Investigations of Mossa and Pleiti, #1)](https://reading.lol/books/the-mimicking-of-known-successes-the-investigations-of-mossa-and-pleiti-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -99,6 +99,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 <!-- date starts -->
-Generated at `Sat Sep  7 00:50:55 2024`
+Generated at `Sun Sep  8 00:51:13 2024`
 <!-- date ends -->
 
