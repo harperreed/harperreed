@@ -116,9 +116,7 @@ _Jacky_
 
 </td></tr></table>
 
-# ☠️☠️☠️
-
-### Github Stats
+# Github Stats
 
 <!-- github_stats starts -->
 
@@ -127,7 +125,7 @@ _Jacky_
 
 <!-- github_stats ends -->
 
----
+# ☠️☠️☠️
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
