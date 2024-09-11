@@ -39,6 +39,8 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 ---
 
+### My socials:
+
 <!-- social starts -->
 
 [![Gmail harper@modest.com](https://img.shields.io/badge/-harper@modest.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harper@modest.com)](mailto:harper@modest.com)
