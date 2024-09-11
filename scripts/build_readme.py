@@ -131,7 +131,8 @@ def main():
     )
     rewritten = replace_chunk(rewritten, "books", books_md)
 
-    builddate_md = "Generated at `" + datetime.datetime.now().strftime("%c") + "`"
+    # Update the date format to show month, day, and year
+    builddate_md = "Generated on `" + datetime.datetime.now().strftime("%B %d, %Y") + "`"
     rewritten = replace_chunk(rewritten, "date", builddate_md)
 
     age_md = f"- 👨Age: {age:.1f} years old"  # Display age with one decimal place
