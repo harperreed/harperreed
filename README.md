@@ -19,21 +19,20 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 <h3 id="a-little-bit-of-hope-goes-a-long-way">A little bit of hope goes a long way!</h3>
 <ul>
 <li>Listening to a lot of music on vintage hifi gear.</li>
-<li>Still reading a lot of books. Send me your recs.</li>
-<li>Started bringing my camera everywhere, again.</li>
+<li>Addicted to hyperpop, and a lot of new hip hop.</li>
+<li>Reading a lot of books. Send me your recs.</li>
+<li>Started bringing my camera everywhere, again. Come get your photo taken.</li>
 </ul>
 <h4 id="working-on-a-lot-of-tech-projects">Working on a lot of tech projects</h4>
 <ul>
-<li>Trying to blog a lot more and at a regular cadence.</li>
-<li>Aided by AI</li>
+<li>Trying to blog a lot more and at a regular cadence. Now with <a href="https://harper.blog/notes">notes</a>.</li>
+<li>I am now an AI assistant.</li>
 <li>I really want to merge my photos, writing, and read books into a single website. Thinking a lot about that. Give me ideas</li>
 <li>Experimenting with SO SO many AI aided tools for codes. If you are doing this too - let&rsquo;s chat.</li>
 <li>We are starting to build and make things! If you are interested in learning more hmu. If you are interested in commerce and AI hmu.</li>
-<li>check out <a href="https://2389.ai" target="_blank">2389 Research</a></li>
+<li>Thinking a lot about what I want <a href="https://2389.ai" target="_blank">2389 Research</a> to turn into</li>
 <li>Excited for the future.</li>
 </ul>
-<h4 id="reading">Reading</h4>
-<p>Reading lots of neat books!</p>
 
 <!-- now ends -->
 
@@ -56,8 +55,8 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 # My most recent snapshot
 
 <!-- photos starts -->
-[![Jacky](https://harper.photos/photos/R0000477.jpeg/R0000477_hu0d30b5ce16cb2349d5de2f75b3448093_4107976_1200x0_resize_q75_lanczos.jpeg)](https://harper.photos/photos/R0000477.jpeg/) 
- *Jacky*
+[![Edmar!](https://harper.photos/photos/R0000617.jpeg/R0000617_huf233a31b7cff4a3f5d1db7b99d5b44e6_3345905_1200x0_resize_q75_lanczos.jpeg)](https://harper.photos/photos/R0000617.jpeg/) 
+ *Edmar!*
 <!-- photos ends -->
 
 # My websites, my blogs, and my recently read books
@@ -106,11 +105,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [When We Cease to Understand the World](https://reading.lol/books/when-we-cease-to-understand-the-world/)
 * [Glass Houses](https://reading.lol/books/glass-houses/)
 * [The Mercy of Gods (The Captive's War, #1)](https://reading.lol/books/the-mercy-of-gods-the-captive-s-war-1/)
 * [Some Desperate Glory](https://reading.lol/books/some-desperate-glory/)
 * [Down with the System: A Memoir (of Sorts)](https://reading.lol/books/down-with-the-system-a-memoir/)
-* [The Mimicking of Known Successes (The Investigations of Mossa and Pleiti, #1)](https://reading.lol/books/the-mimicking-of-known-successes-the-investigations-of-mossa-and-pleiti-1/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -128,5 +127,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `September 12, 2024`
+Generated on `September 13, 2024`
 <!-- date ends -->
