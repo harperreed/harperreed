@@ -105,11 +105,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Supremes at Earl's All-You-Can-Eat](https://reading.lol/books/the-supremes-at-earl-s-all-you-can-eat/)
 * [When We Cease to Understand the World](https://reading.lol/books/when-we-cease-to-understand-the-world/)
 * [Glass Houses](https://reading.lol/books/glass-houses/)
 * [The Mercy of Gods (The Captive's War, #1)](https://reading.lol/books/the-mercy-of-gods-the-captive-s-war-1/)
 * [Some Desperate Glory](https://reading.lol/books/some-desperate-glory/)
-* [Down with the System: A Memoir (of Sorts)](https://reading.lol/books/down-with-the-system-a-memoir/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -127,5 +127,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `September 16, 2024`
+Generated on `September 17, 2024`
 <!-- date ends -->
