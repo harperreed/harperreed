@@ -18,6 +18,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 <h3 id="a-little-bit-of-hope-goes-a-long-way">A little bit of hope goes a long way!</h3>
 <ul>
+<li>Excited for politics for the first time in a long time!</li>
 <li>Listening to a lot of music on vintage hifi gear.</li>
 <li>Addicted to hyperpop, and a lot of new hip hop.</li>
 <li>Reading a lot of books. Send me your recs.</li>
@@ -25,12 +26,12 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 </ul>
 <h4 id="working-on-a-lot-of-tech-projects">Working on a lot of tech projects</h4>
 <ul>
-<li>Trying to blog a lot more and at a regular cadence. Now with <a href="https://harper.blog/notes">notes</a>.</li>
-<li>I am now an AI assistant.</li>
+<li>Trying to blog a lot more and at a regular cadence. Now with <a href="https://harper.blog/notes">notes</a>. (fixed my rss feed! 🎉)</li>
+<li>I am an AI assistant.</li>
 <li>I really want to merge my photos, writing, and read books into a single website. Thinking a lot about that. Give me ideas</li>
-<li>Experimenting with SO SO many AI aided tools for codes. If you are doing this too - let&rsquo;s chat.</li>
+<li>Experimenting with SO SO many AI aided tools for codes.</li>
 <li>We are starting to build and make things! If you are interested in learning more hmu. If you are interested in commerce and AI hmu.</li>
-<li>Thinking a lot about what I want <a href="https://2389.ai" target="_blank">2389 Research</a> to turn into</li>
+<li>Thinking a lot about what I want <a href="https://2389.ai" target="_blank">2389 Research</a> to turn into.</li>
 <li>Excited for the future.</li>
 </ul>
 
@@ -105,11 +106,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Nuclear War: A Scenario](https://reading.lol/books/nuclear-war-a-scenario/)
 * [The Supremes at Earl's All-You-Can-Eat](https://reading.lol/books/the-supremes-at-earl-s-all-you-can-eat/)
 * [When We Cease to Understand the World](https://reading.lol/books/when-we-cease-to-understand-the-world/)
 * [Glass Houses](https://reading.lol/books/glass-houses/)
 * [The Mercy of Gods (The Captive's War, #1)](https://reading.lol/books/the-mercy-of-gods-the-captive-s-war-1/)
-* [Some Desperate Glory](https://reading.lol/books/some-desperate-glory/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -127,5 +128,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `September 25, 2024`
+Generated on `September 26, 2024`
 <!-- date ends -->
