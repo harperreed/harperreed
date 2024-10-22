@@ -106,11 +106,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Alien Clay](https://reading.lol/books/alien-clay/)
 * [The Deep Sky](https://reading.lol/books/the-deep-sky/)
 * [A Little Devil in America: Notes in Praise of Black Performance](https://reading.lol/books/a-little-devil-in-america-notes-in-praise-of-black-performance/)
 * [There There](https://reading.lol/books/there-there/)
 * [Livesuit (The Captive’s War #1.5)](https://reading.lol/books/livesuit-the-captives-war-1-5/)
-* [Tokyo Noir: in and out of Japan's underworld](https://reading.lol/books/tokyo-noir-in-and-out-of-japan-s-underworld/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -128,5 +128,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `October 21, 2024`
+Generated on `October 22, 2024`
 <!-- date ends -->
