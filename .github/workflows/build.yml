@@ -16,8 +16,7 @@ jobs:
               uses: astral-sh/setup-uv@v3
               with:
                   enable-cache: true
-                  cache-dependency-glob: |
-                      *.py
+                  version: "latest"
             - name: Update README
               run: |-
                   uv run ./scripts/build_readme.py
