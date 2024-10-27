@@ -106,11 +106,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [These Burning Stars (The Kindom Trilogy #1)](https://reading.lol/books/these-burning-stars-the-kindom-trilogy-1/)
 * [Alien Clay](https://reading.lol/books/alien-clay/)
 * [The Deep Sky](https://reading.lol/books/the-deep-sky/)
 * [A Little Devil in America: Notes in Praise of Black Performance](https://reading.lol/books/a-little-devil-in-america-notes-in-praise-of-black-performance/)
 * [There There](https://reading.lol/books/there-there/)
-* [Livesuit (The Captive’s War #1.5)](https://reading.lol/books/livesuit-the-captives-war-1-5/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -128,5 +128,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `October 26, 2024`
+Generated on `October 27, 2024`
 <!-- date ends -->
