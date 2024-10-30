@@ -56,8 +56,8 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 # My most recent snapshot
 
 <!-- photos starts -->
-[![Jacques hanging at Handlebar](https://harper.photos/photos/R0000706.jpeg/R0000706_hue5a00fb0c92094cf14db1a4d4e17c5ef_10097882_1200x0_resize_q75_lanczos.jpeg)](https://harper.photos/photos/R0000706.jpeg/) 
- *Jacques hanging at Handlebar*
+[![R0000908.jpeg]()](https://harper.photos/photos/R0000908.jpeg/) 
+ **
 <!-- photos ends -->
 
 # My websites, my blogs, and my recently read books
@@ -128,5 +128,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `October 29, 2024`
+Generated on `October 30, 2024`
 <!-- date ends -->
