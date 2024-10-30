@@ -1,3 +1,12 @@
+# /// script
+# requires-python = ">=3.9"
+# dependencies = [
+#   "feedparser",
+#   "pathlib",
+#   "httpx"
+# ]
+# ///
+
 import feedparser
 import pathlib
 import re
