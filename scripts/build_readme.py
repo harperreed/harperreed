@@ -1,12 +1,11 @@
 import feedparser
 import pathlib
 import re
-import os
 import datetime
 import httpx
 import logging
 from typing import List, Dict
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
