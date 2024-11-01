@@ -56,7 +56,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 # My most recent snapshot
 
 <!-- photos starts -->
-[![R0000908.jpeg]()](https://harper.photos/photos/R0000908.jpeg/) 
+[![R0000908.jpeg](https://harper.photos/photos/R0000908.jpeg/R0000908_hu14898952422253605590.jpeg)](https://harper.photos/photos/R0000908.jpeg/) 
  **
 <!-- photos ends -->
 
