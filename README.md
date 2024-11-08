@@ -16,11 +16,9 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 <!-- now starts -->
 
-<h3 id="a-little-bit-of-hope-goes-a-long-way">A little bit of hope goes a long way!</h3>
+<h3 id="heading">😶</h3>
 <ul>
-<li>Excited for politics for the first time in a long time!</li>
-<li>Listening to a lot of music on vintage hifi gear.</li>
-<li>Addicted to hyperpop, and a lot of new hip hop.</li>
+<li>I am feeling a deep sense of uncertainty.</li>
 <li>Reading a lot of books. Send me your recs.</li>
 <li>Started bringing my camera everywhere, again. Come get your photo taken.</li>
 </ul>
@@ -29,10 +27,9 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 <li>Trying to blog a lot more and at a regular cadence. Now with <a href="https://harper.blog/notes">notes</a>. (fixed my rss feed! 🎉)</li>
 <li>I am an AI assistant.</li>
 <li>I really want to merge my photos, writing, and read books into a single website. Thinking a lot about that. Give me ideas</li>
-<li>Experimenting with SO SO many AI aided tools for codes.</li>
 <li>We are starting to build and make things! If you are interested in learning more hmu. If you are interested in commerce and AI hmu.</li>
 <li>Thinking a lot about what I want <a href="https://2389.ai" target="_blank">2389 Research</a> to turn into.</li>
-<li>Excited for the future.</li>
+<li>Stil, excited for the future. Although a bit worried about the present.</li>
 </ul>
 
 <!-- now ends -->
@@ -94,11 +91,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Again](https://harper.blog/2024/11/06/again/)
 * [Contact management in 2024: Stupid vcard tricks for hackers](https://harper.blog/2024/07/31/contact-management-in-2024-stupid-vcard-tricks-for-hackers/)
 * [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
 * [Our Office Avatar pt 1: The office is talking shit again](https://harper.blog/2024/03/26/our-office-avatar-pt-1-the-office-is-talking-shit-again/)
 * [How to Leica like a noob who shoots Leica](https://harper.blog/2024/03/18/how-to-leica-like-a-noob-who-shoots-leica/)
-* [Use an llm to automagically generate meaningful git commit messages](https://harper.blog/2024/03/11/use-an-llm-to-automagically-generate-meaningful-git-commit-messages/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -128,5 +125,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `November 07, 2024`
+Generated on `November 08, 2024`
 <!-- date ends -->
