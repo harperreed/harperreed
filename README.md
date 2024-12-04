@@ -53,7 +53,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 # My most recent snapshot
 
 <!-- photos starts -->
-[![R0000908.jpeg](https://harper.photos/photos/R0000908.jpeg/R0000908_hu14898952422253605590.jpeg)](https://harper.photos/photos/R0000908.jpeg/) 
+[![R0001081.jpeg](https://harper.photos/photos/R0001081.jpeg/R0001081_hu8225556171913350162.jpeg)](https://harper.photos/photos/R0001081.jpeg/) 
  **
 <!-- photos ends -->
 
@@ -125,5 +125,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `December 03, 2024`
+Generated on `December 04, 2024`
 <!-- date ends -->
