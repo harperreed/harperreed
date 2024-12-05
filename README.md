@@ -16,20 +16,26 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 <!-- now starts -->
 
-<h3 id="heading">😶</h3>
+<h3 id="the-boiled-frog">The boiled frog</h3>
 <ul>
-<li>I am feeling a deep sense of uncertainty.</li>
+<li>I am still feeling a deep sense of uncertainty.</li>
+<li>I don&rsquo;t want to embrace it. I am unsure what to do about it honestly.</li>
+</ul>
+<h3 id="the-normal">The normal</h3>
+<ul>
 <li>Reading a lot of books. Send me your recs.</li>
 <li>Started bringing my camera everywhere, again. Come get your photo taken.</li>
+<li>Trying to meet people out and about. HMU. let&rsquo;s get lunch</li>
 </ul>
 <h4 id="working-on-a-lot-of-tech-projects">Working on a lot of tech projects</h4>
 <ul>
-<li>Trying to blog a lot more and at a regular cadence. Now with <a href="https://harper.blog/notes">notes</a>. (fixed my rss feed! 🎉)</li>
+<li>Trying to blog a lot more and at a regular cadence. Now with <a href="https://harper.blog/notes/">notes</a>.</li>
+<li>Tweaked my theme a LOT.</li>
+<li>Pretty excited about Bluesky and atproto specifically. Very neat.</li>
 <li>I am an AI assistant.</li>
 <li>I really want to merge my photos, writing, and read books into a single website. Thinking a lot about that. Give me ideas</li>
-<li>We are starting to build and make things! If you are interested in learning more hmu. If you are interested in commerce and AI hmu.</li>
-<li>Thinking a lot about what I want <a href="https://2389.ai" target="_blank">2389 Research</a> to turn into.</li>
-<li>Stil, excited for the future. Although a bit worried about the present.</li>
+<li>Thinking a lot about what I want <a href="https://2389.ai">2389 Research</a> to turn into.</li>
+<li>Still, excited about the future. Although a bit worried about the present.</li>
 </ul>
 
 <!-- now ends -->
@@ -125,5 +131,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `December 04, 2024`
+Generated on `December 05, 2024`
 <!-- date ends -->
