@@ -88,7 +88,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 46.7 years old
+- 👨Age: 46.8 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -97,11 +97,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [New year, new theme](https://harper.blog/2024/12/04/new-year-new-theme/)
 * [Again](https://harper.blog/2024/11/06/again/)
 * [Contact management in 2024: Stupid vcard tricks for hackers](https://harper.blog/2024/07/31/contact-management-in-2024-stupid-vcard-tricks-for-hackers/)
 * [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
 * [Our Office Avatar pt 1: The office is talking shit again](https://harper.blog/2024/03/26/our-office-avatar-pt-1-the-office-is-talking-shit-again/)
-* [How to Leica like a noob who shoots Leica](https://harper.blog/2024/03/18/how-to-leica-like-a-noob-who-shoots-leica/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -131,5 +131,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `December 05, 2024`
+Generated on `December 06, 2024`
 <!-- date ends -->
