@@ -109,11 +109,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [Camp Zero](https://reading.lol/books/camp-zero/)
+* [Any Given Tuesday: A Political Love Story](https://reading.lol/books/any-given-tuesday-a-political-love-story/)
+* [Exodus: The Archimedes Engine](https://reading.lol/books/exodus-the-archimedes-engine/)
 * [Absolution (Southern Reach, #4)](https://reading.lol/books/absolution-southern-reach-4/)
 * [On Vicious Worlds (The Kindom Trilogy #2)](https://reading.lol/books/on-vicious-worlds-the-kindom-trilogy-2/)
-* [These Burning Stars (The Kindom Trilogy #1)](https://reading.lol/books/these-burning-stars-the-kindom-trilogy-1/)
-* [Alien Clay](https://reading.lol/books/alien-clay/)
-* [The Deep Sky](https://reading.lol/books/the-deep-sky/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -131,5 +131,5 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
 
 <!-- date starts -->
-Generated on `December 08, 2024`
+Generated on `December 09, 2024`
 <!-- date ends -->
