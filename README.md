@@ -43,6 +43,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 # My socials:
 
 <!-- social starts -->
+
 [![Gmail harper@modest.com](https://img.shields.io/badge/-harper@modest.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harper@modest.com)](mailto:harper@modest.com)
 [![Twitter: harper](https://img.shields.io/twitter/follow/harper?style=social)](https://twitter.com/harper)
 [![Linkedin: harperreed](https://img.shields.io/badge/-harperreed-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harperreed/)](https://www.linkedin.com/in/harperreed/)
@@ -59,8 +60,10 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 # My most recent snapshot
 
 <!-- photos starts -->
-[![R0001081.jpeg](https://harper.photos/photos/R0001081.jpeg/R0001081_hu8225556171913350162.jpeg)](https://harper.photos/photos/R0001081.jpeg/) 
- **
+
+[![R0001081.jpeg](https://harper.photos/photos/R0001081.jpeg/R0001081_hu8225556171913350162.jpeg)](https://harper.photos/photos/R0001081.jpeg/)
+\*\*
+
 <!-- photos ends -->
 
 # My websites, my blogs, and my recently read books
@@ -70,12 +73,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Links of note:
 
 <!-- links starts -->
-- [harper.lol](http://harper.lol) - my home page
-- [harper.blog](http://harper.blog) - my writing
-- [reading.lol](http://reading.lol) - my reading site
-- [harper.photos](http://harper.photos) - some photos
 
-
+-   [harper.lol](http://harper.lol) - my home page
+-   [harper.blog](http://harper.blog) - my writing
+-   [reading.lol](http://reading.lol) - my reading site
+-   [harper.photos](http://harper.photos) - some photos
 
 <!-- links ends -->
 
@@ -84,24 +86,26 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Details:
 
 <!-- details starts -->
-- 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
-- 😄 Pronouns: he/him or they/them
-- 📍 Locale: Chicago
+
+-   📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
+-   😄 Pronouns: he/him or they/them
+-   📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 46.8 years old
-<!-- age ends -->
-<!-- details ends -->
+-   👨Age: 46.8 years old
+    <!-- age ends -->
+    <!-- details ends -->
 
 </td></tr><tr><td valign="top">
 
 ### Recent Blog Posts
 
 <!-- blog starts -->
-* [New year, new theme](https://harper.blog/2024/12/04/new-year-new-theme/)
-* [Again](https://harper.blog/2024/11/06/again/)
-* [Contact management in 2024: Stupid vcard tricks for hackers](https://harper.blog/2024/07/31/contact-management-in-2024-stupid-vcard-tricks-for-hackers/)
-* [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
-* [Our Office Avatar pt 1: The office is talking shit again](https://harper.blog/2024/03/26/our-office-avatar-pt-1-the-office-is-talking-shit-again/)
+
+-   [New year, new theme](https://harper.blog/2024/12/04/new-year-new-theme/)
+-   [Again](https://harper.blog/2024/11/06/again/)
+-   [Contact management in 2024: Stupid vcard tricks for hackers](https://harper.blog/2024/07/31/contact-management-in-2024-stupid-vcard-tricks-for-hackers/)
+-   [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
+-   [Our Office Avatar pt 1: The office is talking shit again](https://harper.blog/2024/03/26/our-office-avatar-pt-1-the-office-is-talking-shit-again/)
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -109,11 +113,12 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
-* [Camp Zero](https://reading.lol/books/camp-zero/)
-* [Any Given Tuesday: A Political Love Story](https://reading.lol/books/any-given-tuesday-a-political-love-story/)
-* [Exodus: The Archimedes Engine](https://reading.lol/books/exodus-the-archimedes-engine/)
-* [Absolution (Southern Reach, #4)](https://reading.lol/books/absolution-southern-reach-4/)
-* [On Vicious Worlds (The Kindom Trilogy #2)](https://reading.lol/books/on-vicious-worlds-the-kindom-trilogy-2/)
+
+-   [Camp Zero](https://reading.lol/books/camp-zero/)
+-   [Any Given Tuesday: A Political Love Story](https://reading.lol/books/any-given-tuesday-a-political-love-story/)
+-   [Exodus: The Archimedes Engine](https://reading.lol/books/exodus-the-archimedes-engine/)
+-   [Absolution (Southern Reach, #4)](https://reading.lol/books/absolution-southern-reach-4/)
+-   [On Vicious Worlds (The Kindom Trilogy #2)](https://reading.lol/books/on-vicious-worlds-the-kindom-trilogy-2/)
 <!-- books ends -->
 
 </td></tr></table>
@@ -121,6 +126,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 # Github Stats
 
 <!-- github_stats starts -->
+
 ![Harper's github stats](https://github-readme-stats.vercel.app/api?username=harperreed&show_icons=&private_count=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harperreed&layout=compact)]()
 
@@ -129,7 +135,3 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 # ☠️☠️☠️
 
 This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
-
-<!-- date starts -->
-Generated on `December 09, 2024`
-<!-- date ends -->
