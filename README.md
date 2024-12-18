@@ -59,8 +59,8 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 # My most recent snapshot
 
 <!-- photos starts -->
-[![R0001081.jpeg](https://harper.photos/photos/R0001081.jpeg/R0001081_hu8225556171913350162.jpeg)](https://harper.photos/photos/R0001081.jpeg/) 
- **
+[![My favorite NBA Jam player, Josh!](https://harper.photos/photos/R0001121.jpeg/R0001121_hu13271252758887170480.jpeg)](https://harper.photos/photos/R0001121.jpeg/) 
+ *My favorite NBA Jam player, Josh!*
 <!-- photos ends -->
 
 # My websites, my blogs, and my recently read books
