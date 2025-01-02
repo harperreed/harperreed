@@ -97,11 +97,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [2024 in the rear view](https://harper.blog/2024/12/31/2024-in-the-rear-view/)
 * [New year, new theme](https://harper.blog/2024/12/04/new-year-new-theme/)
 * [Again](https://harper.blog/2024/11/06/again/)
 * [Contact management in 2024: Stupid vcard tricks for hackers](https://harper.blog/2024/07/31/contact-management-in-2024-stupid-vcard-tricks-for-hackers/)
 * [I accidentally built a meme search engine](https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/)
-* [Our Office Avatar pt 1: The office is talking shit again](https://harper.blog/2024/03/26/our-office-avatar-pt-1-the-office-is-talking-shit-again/)
 <!-- blog ends -->
 
 </td><td valign="top">
