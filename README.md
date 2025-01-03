@@ -109,11 +109,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [The Caledonian Gambit](https://reading.lol/books/the-caledonian-gambit/)
 * [The City and Its Uncertain Walls](https://reading.lol/books/the-city-and-its-uncertain-walls/)
 * [Laurel Canyon: The Inside Story of Rock-and-Roll's Legendary Neighborhood](https://reading.lol/books/laurel-canyon-the-inside-story-of-rock-and-roll-s-legendary-neighborhood/)
 * [Camp Zero](https://reading.lol/books/camp-zero/)
 * [Any Given Tuesday: A Political Love Story](https://reading.lol/books/any-given-tuesday-a-political-love-story/)
-* [Exodus: The Archimedes Engine](https://reading.lol/books/exodus-the-archimedes-engine/)
 <!-- books ends -->
 
 </td></tr></table>
