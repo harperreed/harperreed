@@ -109,11 +109,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Last 5 books I have read
 
 <!-- books starts -->
+* [We'll Prescribe You a Cat](https://reading.lol/books/we-ll-prescribe-you-a-cat/)
 * [The Vegetarian](https://reading.lol/books/the-vegetarian/)
 * [The Caledonian Gambit](https://reading.lol/books/the-caledonian-gambit/)
 * [The City and Its Uncertain Walls](https://reading.lol/books/the-city-and-its-uncertain-walls/)
 * [Laurel Canyon: The Inside Story of Rock-and-Roll's Legendary Neighborhood](https://reading.lol/books/laurel-canyon-the-inside-story-of-rock-and-roll-s-legendary-neighborhood/)
-* [Camp Zero](https://reading.lol/books/camp-zero/)
 <!-- books ends -->
 
 </td></tr></table>
