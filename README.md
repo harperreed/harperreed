@@ -16,32 +16,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 <!-- now starts -->
 
-<h2 id="well-here-we-go-again">Well, here we go again</h2>
-<ul>
-<li>This company seems to be starting itself.</li>
-<li>I am excited to be busy.</li>
-<li>Thinking a lot about what I want <a href="https://2389.ai">2389 Research</a> to turn into.</li>
-<li>Thinking a lot about how to work in the year <a href="https://www.youtube.com/watch?v=aMY-GZYAyIU">25 25</a>.</li>
-</ul>
-<h3 id="the-weird">The weird</h3>
-<ul>
-<li>I am still feeling a deep sense of uncertainty.</li>
-</ul>
-<h3 id="the-normal">The normal</h3>
-<ul>
-<li>Reading a lot of books. Send me your recs.</li>
-<li>Started bringing my camera everywhere, again. Come get your photo taken.</li>
-<li>Trying to meet people out and about. HMU. let&rsquo;s get lunch</li>
-<li>Running is fun. Ugh. Very much type 2 fun.</li>
-</ul>
-<h4 id="working-on-a-lot-of-tech-projects">Working on a lot of tech projects</h4>
-<ul>
-<li>I am an AI assistant.</li>
-<li>Trying to blog a lot more and at a regular cadence. Now with <a href="https://harper.blog/notes/">notes</a>.</li>
-<li>Pretty excited about Bluesky and atproto specifically. Very neat.</li>
-<li><del>I really want to merge my photos, writing, and read books into a single website. Thinking a lot about that. Give me ideas</del> I think I am making progress! Now just need to figure out photos.</li>
-<li>Still, excited about the future. Although a bit worried about the present.</li>
-</ul>
+2389 Research musings, camera adventures, and tech projects
 
 <!-- now ends -->
 
@@ -93,7 +68,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 46.9 years old
+- 👨Age: 47.0 years old
 <!-- age ends -->
 <!-- details ends -->
 
@@ -102,11 +77,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 * [New Media](https://harper.blog/2025/01/12/new-media/)
 * [2024 in the rear view](https://harper.blog/2024/12/31/2024-in-the-rear-view/)
 * [New year, new theme](https://harper.blog/2024/12/04/new-year-new-theme/)
 * [Again](https://harper.blog/2024/11/06/again/)
-* [Contact management in 2024: Stupid vcard tricks for hackers](https://harper.blog/2024/07/31/contact-management-in-2024-stupid-vcard-tricks-for-hackers/)
 <!-- blog ends -->
 
 </td><td valign="top">
