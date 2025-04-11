@@ -102,11 +102,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Waterfall in 15 Minutes or Your Money Back](https://harper.blog/2025/04/10/waterfall-in-15-minutes-or-your-money-back/)
 * [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 * [New Media](https://harper.blog/2025/01/12/new-media/)
 * [2024 in the rear view](https://harper.blog/2024/12/31/2024-in-the-rear-view/)
 * [New year, new theme](https://harper.blog/2024/12/04/new-year-new-theme/)
-* [Again](https://harper.blog/2024/11/06/again/)
 <!-- blog ends -->
 
 </td><td valign="top">
