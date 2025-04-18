@@ -16,17 +16,57 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 <!-- now starts -->
 
-<h2 id="well-here-we-go-again">Well, here we go again</h2>
+<h2 id="and-we-are-off">And we are off..</h2>
 <ul>
-<li>This company seems to be starting itself.</li>
-<li>I am excited to be busy.</li>
+<li>This company is started.</li>
+<li>We have raised some money from amazing people.</li>
+<li>I am excited to be building things again.</li>
 <li>Thinking a lot about what I want <a href="https://2389.ai">2389 Research</a> to turn into.</li>
-<li>Thinking a lot about how to work in the year <a href="https://www.youtube.com/watch?v=aMY-GZYAyIU">25 25</a>.</li>
+<li>I can&rsquo;t wait to show you what we are building.</li>
 </ul>
 <h3 id="the-weird">The weird</h3>
 <ul>
 <li>I am still feeling a deep sense of uncertainty.</li>
+<li>AI is coming for us faster than we thought.</li>
+<li>I don&rsquo;t think people my age who are being laid off now are going to be able to find jobs equivalent to what they had before.</li>
+<li>The state of the US is very concerning at the moment.</li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+    <img alt="" class="img   " height="" src="https://harper.blog/images/posts/worse.jpg" title="" width="" />
+  
+  
+
+
+
+
+
+
+  
+
+
 <h3 id="the-normal">The normal</h3>
 <ul>
 <li>Reading a lot of books. Send me your recs.</li>
@@ -102,11 +142,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [An LLM Codegen Hero's Journey](https://harper.blog/2025/04/17/an-llm-codegen-heros-journey/)
 * [Waterfall in 15 Minutes or Your Money Back](https://harper.blog/2025/04/10/waterfall-in-15-minutes-or-your-money-back/)
 * [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 * [New Media](https://harper.blog/2025/01/12/new-media/)
 * [2024 in the rear view](https://harper.blog/2024/12/31/2024-in-the-rear-view/)
-* [New year, new theme](https://harper.blog/2024/12/04/new-year-new-theme/)
 <!-- blog ends -->
 
 </td><td valign="top">
