@@ -142,11 +142,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/)
 * [An LLM Codegen Hero's Journey](https://harper.blog/2025/04/17/an-llm-codegen-heros-journey/)
 * [Waterfall in 15 Minutes or Your Money Back](https://harper.blog/2025/04/10/waterfall-in-15-minutes-or-your-money-back/)
 * [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)
 * [New Media](https://harper.blog/2025/01/12/new-media/)
-* [2024 in the rear view](https://harper.blog/2024/12/31/2024-in-the-rear-view/)
 <!-- blog ends -->
 
 </td><td valign="top">
