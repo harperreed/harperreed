@@ -55,7 +55,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
   
   
     
-    <img alt="" class="img   " height="" src="https://harper.blog/images/posts/worse.jpg" title="" width="" />
+<img alt="" class="img   " height="" src="https://harper.blog/images/posts/worse.jpg" title="" width="" />
   
   
 
