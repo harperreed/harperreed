@@ -141,7 +141,7 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 47.6 years old
+- 👨Age: 47.7 years old
 <!-- age ends -->
 <!-- details ends -->
 
