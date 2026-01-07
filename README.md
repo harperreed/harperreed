@@ -18,75 +18,43 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 <h2 id="2389-rules">2389 rules</h2>
 <ul>
-<li>This company has been going. We published some research. It is fun.</li>
-<li>We have raised some money from amazing people.</li>
-<li>I am excited to be building things again.</li>
+<li>This company is still going!</li>
+<li>We have pushed out a few things that people can use: <a href="https://jeff.ceo">jeff.ceo</a> is my fav</li>
+<li>We made some hoodies and shirts.</li>
+<li>I am even <em>more</em> excited to be building things again.</li>
 <li>I can&rsquo;t wait to show you more what we are building.</li>
-<li>Spending a lot of time &ldquo;vibe coding.&rdquo; I code everything!</li>
+<li>I no longer code. I just talk to a robot who codes. <strong>Management.</strong></li>
+<li>We are shipping so so much stuff.</li>
+<li>Come hang out at our cool and futuristic office!</li>
 </ul>
 <h3 id="the-weird--the-fear">The weird / The Fear</h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-    <figure class="">
-      <img alt="" class="img  " height="" src="https://harper.blog/images/posts/worse.jpg" title="" width="" />
-      <figcaption id="caption-This is my favorite meme.">
-        This is my favorite meme.
-      </figcaption>
-    </figure>
-  
-  
-
-
-
-
-
-
-  
-
-
 <ul>
-<li>I am still feeling a deep sense of uncertainty.</li>
-<li>AI is coming for us faster than we thought.</li>
+<li>I am feeling a deep sense of uncertainty.</li>
+<li>AI is coming for us faster than you think.</li>
 <li>I don&rsquo;t think people my age who are being laid off now are going to be able to find jobs equivalent to what they had before.</li>
 <li>The state of the US is very concerning at the moment.</li>
-<li>I seem to be living in a freshly occupied city. Weird.</li>
+<li>Boomers, man.</li>
+<li>I seem to be living in an occupied city. Weird.</li>
 <li>There is a sense of fear out here that is stresseful, and terrifying.</li>
 </ul>
+<figure class="video">
+<video controls="controls" preload="metadata" width="600">
+<source src="https://harper.blog/now/2026-01-06/its-gonna-get-way-worse.mp4" type="video/mp4" />
+</video>
+</figure>
 <h3 id="the-normal">The normal</h3>
 <ul>
-<li>Reading a lot of books. Send me your recs.</li>
-<li>Still taking a lot of photos. It is still fun.</li>
-<li>We have a new office, swing by!</li>
+<li>Reading a <a href="https://harper.blog/media/books/grid/">lot of books</a>. Send me your recs.</li>
+<li>Still taking a lot of <a href="https://harper.blog/notes/snapshots/">photos</a>. It is still fun.</li>
 <li>Trying to meet people out and about. HMU. let&rsquo;s get lunch</li>
 <li>Running and working out a lot. It is nice. I feel great.</li>
+<li>Chicago is still the best city in the world.</li>
 </ul>
 <h4 id="working-on-a-lot-of-tech-projects">Working on a lot of tech projects</h4>
 <ul>
-<li>I am an AI assistant.</li>
-<li>Trying to blog a lot more and at a regular cadence. Now with <a href="https://harper.blog/notes/">notes</a>.</li>
+<li>I am just an AI assistant.</li>
+<li>Trying to blog a lot more.</li>
 <li>Pretty excited about Bluesky and atproto specifically. Very neat.</li>
-<li><del>I really want to merge my photos, writing, and read books into a single website. Thinking a lot about that. Give me ideas</del> I think I am making progress! Now just need to figure out photos. <em>I still haven&rsquo;t figure this out</em></li>
 <li>Still, excited about the future. Although a bit worried about the present.</li>
 </ul>
 <p>As many people have said &ldquo;it is going to get worse before it gets better.&rdquo; Let&rsquo;s see!</p>
