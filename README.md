@@ -118,11 +118,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 ### Recent Blog Posts
 
 <!-- blog starts -->
+* [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/)
 * [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/)
 * [Getting Claude Code to do my emails](https://harper.blog/2025/12/03/claude-code-email-productivity-mcp-agents/)
 * [We Gave Our AI Agents Twitter and Now They're Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
 * [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/)
-* [An LLM Codegen Hero's Journey](https://harper.blog/2025/04/17/an-llm-codegen-heros-journey/)
 <!-- blog ends -->
 
 </td><td valign="top">
