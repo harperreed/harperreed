@@ -100,11 +100,11 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 *📦 = has releases*
 
 <!-- projects starts -->
-* [2389-research/2389.dev](https://github.com/2389-research/2389.dev)
+* [harperreed](https://github.com/harperreed/harperreed) - My readme ⭐2
+* [2389-research/coven](https://github.com/2389-research/coven)
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐2
 * [position](https://github.com/harperreed/position) 📦
 * [digest](https://github.com/harperreed/digest) 📦 ⭐2
-* [2389-research/bugs](https://github.com/2389-research/bugs) - Bug tracking CLI with Charm cloud sync 📦
 * [bbs-mcp](https://github.com/harperreed/bbs-mcp) 📦 ⭐1
 * [chronicle](https://github.com/harperreed/chronicle) 📦 ⭐2
 * [toki](https://github.com/harperreed/toki) 📦 ⭐3
