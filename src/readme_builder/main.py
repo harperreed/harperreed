@@ -44,6 +44,7 @@ def fetch_all_data(config: Config) -> dict[str, Any]:
         github_fetcher = GitHubFetcher(
             username=config.github.username,
             orgs=config.github.orgs,
+            exclude_repos=config.github.exclude_repos,
             max_count=config.github.max_count,
             min_stars=config.github.min_stars,
             months_active=config.github.months_active,

@@ -18,6 +18,7 @@ class FeedConfig:
 class GitHubConfig:
     username: str
     orgs: list[str]
+    exclude_repos: list[str]
     max_count: int = 10
     min_stars: int = 0
     months_active: int = 6
@@ -54,6 +55,7 @@ def load_config(config_path: pathlib.Path | None = None) -> Config:
     github = GitHubConfig(
         username=github_raw.get("username", "harperreed"),
         orgs=github_raw.get("orgs", []),
+        exclude_repos=github_raw.get("exclude_repos", []),
         max_count=projects_raw.get("max_count", 10),
         min_stars=projects_raw.get("min_stars", 0),
         months_active=projects_raw.get("months_active", 6),

@@ -28,6 +28,7 @@ class GitHubFetcher(BaseFetcher):
         self,
         username: str,
         orgs: list[str] | None = None,
+        exclude_repos: list[str] | None = None,
         max_count: int = 10,
         min_stars: int = 0,
         months_active: int = 6,
@@ -36,6 +37,7 @@ class GitHubFetcher(BaseFetcher):
         super().__init__(timeout)
         self.username = username
         self.orgs = orgs or []
+        self.exclude_repos = set(exclude_repos or [])
         self.max_count = max_count
         self.min_stars = min_stars
         self.months_active = months_active
@@ -87,8 +89,14 @@ class GitHubFetcher(BaseFetcher):
         """Fetch repos and filter by date and stars."""
         repos = self._fetch_repos_for_owner(owner, is_user=is_user)
 
-        # Filter by activity date and stars
-        filtered = [r for r in repos if r["pushed_at"] > cutoff and r["stars"] >= self.min_stars]
+        # Filter by activity date, stars, and exclusion list
+        filtered = [
+            r
+            for r in repos
+            if r["pushed_at"] > cutoff
+            and r["stars"] >= self.min_stars
+            and r["name"] not in self.exclude_repos
+        ]
 
         return filtered
 

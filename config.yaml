@@ -6,10 +6,12 @@ github:
   orgs:
     - 2389-research
     - generalgalactic
+  exclude_repos:
+    - 2389.dev
   projects:
-    max_count: 10
+    max_count: 50
     min_stars: 0
-    months_active: 6  # Only show repos active within this many months
+    months_active: 12  # Only show repos active within this many months
 
 feeds:
   now:
@@ -57,4 +59,4 @@ activity_feeds:
 age_endpoint: https://us-central1-harperapi.cloudfunctions.net/age
 
 display:
-  activity_max_items: 8  # Total items in unified activity feed
+  activity_max_items: 15  # Total items in unified activity feed
