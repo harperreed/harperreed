@@ -1,7 +1,6 @@
 # Hi there 👋
 
 <!-- bio starts -->
-
 My name is Harper Reed. I am a hacker type person who builds a lot of software that, hopefully, does interesting things.
 
 I take a [lot of photos](https://harper.photos), do [silly](http://www.zebraprank.com/) [pranks](https://www.boyhoodhome.com/) with my brother ([@dylanreed](http://twitter.com/dylanreed)) and hang out with my wonderful partner in Chicago.
@@ -10,12 +9,15 @@ Currently just playing around.
 
 Please [reach out](mailto:harper@modest.com) and say hi.
 
+<!-- bio ends -->
+
 ---
 
-# My current [now](https://harperreed.com/now) post:
+<div align="center">
+
+## What I'm up to [now](https://harperreed.com/now)
 
 <!-- now starts -->
-
 <h2 id="2389-rules">2389 rules</h2>
 <ul>
 <li>This company is still going!</li>
@@ -58,10 +60,13 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 <li>Still, excited about the future. Although a bit worried about the present.</li>
 </ul>
 <p>As many people have said &ldquo;it is going to get worse before it gets better.&rdquo; Let&rsquo;s see!</p>
-
 <!-- now ends -->
 
-# My socials:
+</div>
+
+---
+
+## My socials
 
 <!-- social starts -->
 [![Gmail harper@modest.com](https://img.shields.io/badge/-harper@modest.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:harper@modest.com)](mailto:harper@modest.com)
@@ -77,43 +82,37 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 <!-- social ends -->
 
-# My most recent snapshot
+---
+
+## Latest snapshot
 
 <!-- photos starts -->
-[![My favorite NBA Jam player, Josh!](https://harper.photos/photos/R0001121.jpeg/R0001121_hu13271252758887170480.jpeg)](https://harper.photos/photos/R0001121.jpeg/) 
- *My favorite NBA Jam player, Josh!*
+[![My favorite NBA Jam player, Josh!](https://harper.photos/photos/R0001121.jpeg/R0001121_hu13271252758887170480.jpeg)](https://harper.photos/photos/R0001121.jpeg/)
+*My favorite NBA Jam player, Josh!*
 <!-- photos ends -->
 
-# My websites, my blogs, and my recently read books
+---
 
-<table><tr><td valign="top">
+<table><tr><td valign="top" width="50%">
 
-### Links of note:
+### Recent Projects
 
-<!-- links starts -->
-- [harper.lol](http://harper.lol) - my home page
-- [harper.blog](http://harper.blog) - my writing
-- [reading.lol](http://reading.lol) - my reading site
-- [harper.photos](http://harper.photos) - some photos
+*📦 = has releases*
 
+<!-- projects starts -->
+* [2389-research/2389.dev](https://github.com/2389-research/2389.dev)
+* [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐2
+* [position](https://github.com/harperreed/position) 📦
+* [digest](https://github.com/harperreed/digest) 📦 ⭐2
+* [2389-research/bugs](https://github.com/2389-research/bugs) - Bug tracking CLI with Charm cloud sync 📦
+* [bbs-mcp](https://github.com/harperreed/bbs-mcp) 📦 ⭐1
+* [chronicle](https://github.com/harperreed/chronicle) 📦 ⭐2
+* [toki](https://github.com/harperreed/toki) 📦 ⭐3
+* [push-cli](https://github.com/harperreed/push-cli) 📦
+* [crm](https://github.com/harperreed/crm) 📦 ⭐14
+<!-- projects ends -->
 
-
-<!-- links ends -->
-
-</td><td valign="top">
-
-### Details:
-
-<!-- details starts -->
-- 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
-- 😄 Pronouns: he/him or they/them
-- 📍 Locale: Chicago
-<!-- age starts -->
-- 👨Age: 47.9 years old
-<!-- age ends -->
-<!-- details ends -->
-
-</td></tr><tr><td valign="top">
+</td><td valign="top" width="50%">
 
 ### Recent Blog Posts
 
@@ -125,17 +124,55 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 * [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/)
 <!-- blog ends -->
 
-</td><td valign="top">
+</td></tr></table>
 
-### Last 5 books I have read
+---
 
-<!-- books starts -->
+<table><tr><td valign="top" width="50%">
 
-<!-- books ends -->
+### Recent Activity
+
+*Notes, books, music, links*
+
+<!-- activity starts -->
+* 🎵 [LO MALO QUE HE SIDO CONTIGO - Yerai Cortés](https://open.spotify.com/track/5aqHtT3MtNqNNHj7O8rMxF)
+* 🎵 [Mr. Soul - Neil Young](https://open.spotify.com/track/4GM5tWLLdSP9lwmaHmhcqm)
+* 🎵 [The Orchids - Psychic TV](https://open.spotify.com/track/00c2vsoZuubtGkLFQCdT1p)
+* 📚 [Temple Alley Summer by Sachiko Kashiwaba](https://www.amazon.com/dp/B096FXSTF5?tag=harperrules0d-20)
+* 📝 [Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
+* 📚 [In Ascension by Martin MacInnes](https://www.amazon.com/dp/B0CLQNNJGK?tag=harperrules0d-20)
+* 🔗 [The American Resistance](https://www.awritersnotebook.org/p/the-american-resistance)
+* 📝 [Note #720](https://harper.blog/notes/2026-01-16_bb87333ba84c_i-like-to-think-i-am-ready-for/)
+<!-- activity ends -->
+
+</td><td valign="top" width="50%">
+
+### Links & Details
+
+<!-- links starts -->
+- [harper.lol](http://harper.lol) - my home page
+- [harper.blog](http://harper.blog) - my writing
+- [reading.lol](http://reading.lol) - my reading site
+- [harper.photos](http://harper.photos) - some photos
+
+
+
+<!-- links ends -->
+
+<!-- details starts -->
+- 📫 How to reach me: [harper@modest.com](mailto:harper@modest.com)
+- 😄 Pronouns: he/him or they/them
+- 📍 Locale: Chicago
+<!-- age starts -->
+- 👨Age: 47.9 years old
+<!-- age ends -->
+<!-- details ends -->
 
 </td></tr></table>
 
-# Github Stats
+---
+
+## Github Stats
 
 <!-- github_stats starts -->
 ![Harper's github stats](https://github-readme-stats.vercel.app/api?username=harperreed&show_icons=&private_count=true)
@@ -143,6 +180,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 
 <!-- github_stats ends -->
 
-# ☠️☠️☠️
+---
 
-This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!
+<sub>This `README.md` is patterned after [@simonw](https://twitter.com/simonw)'s [readme](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/). You should make one!</sub>

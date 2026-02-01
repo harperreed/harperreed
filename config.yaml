@@ -1,0 +1,60 @@
+# ABOUTME: Configuration for the README builder
+# ABOUTME: Contains all feed URLs, display settings, and GitHub config
+
+github:
+  username: harperreed
+  orgs:
+    - 2389-research
+    - generalgalactic
+  projects:
+    max_count: 10
+    min_stars: 0
+    months_active: 6  # Only show repos active within this many months
+
+feeds:
+  now:
+    url: https://harper.blog/now/index.xml
+    max_entries: 1
+    type: now
+
+  blog:
+    url: https://harper.blog/posts/index.xml
+    max_entries: 5
+    type: blog
+
+  photos:
+    url: https://harper.photos/index.xml
+    max_entries: 1
+    type: photo
+
+  notes:
+    url: https://harper.blog/notes/index.xml
+    max_entries: 3
+    type: note
+
+  books:
+    url: https://harper.blog/media/books/index.xml
+    max_entries: 3
+    type: book
+
+  music:
+    url: https://harper.blog/media/music/index.xml
+    max_entries: 3
+    type: music
+
+  links:
+    url: https://harper.blog/media/links/index.xml
+    max_entries: 3
+    type: link
+
+# Feeds that go into the unified activity stream
+activity_feeds:
+  - notes
+  - books
+  - music
+  - links
+
+age_endpoint: https://us-central1-harperapi.cloudfunctions.net/age
+
+display:
+  activity_max_items: 8  # Total items in unified activity feed
