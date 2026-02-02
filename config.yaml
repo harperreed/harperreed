@@ -10,10 +10,11 @@ github:
     - 2389.dev
     - homebrew-tap
     - harperreed
+    - harper.micro.blog
   projects:
     max_count: 50
     min_stars: 0
-    months_active: 12  # Only show repos active within this many months
+    months_active: 6  # Only show repos active within this many months
 
 feeds:
   now:

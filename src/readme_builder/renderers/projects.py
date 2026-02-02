@@ -29,10 +29,8 @@ class ProjectsRenderer(BaseRenderer):
 
             badge_str = " ".join(badges)
 
-            # Show owner/name for org repos, just name for user repos
-            display_name = project.name
-            if project.owner and project.owner != "harperreed":
-                display_name = f"{project.owner}/{project.name}"
+            # Always show owner/repo format
+            display_name = f"{project.owner}/{project.name}"
 
             # Format: [repo-name](url) - description badges
             if desc:
