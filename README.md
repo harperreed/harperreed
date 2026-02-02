@@ -23,16 +23,11 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/jeff-ios](https://github.com/2389-research/jeff-ios) 📦
 * [2389-research/coven](https://github.com/2389-research/coven) 📦
-* [2389-research/coven-app](https://github.com/2389-research/coven-app) - iOS/macOS client for Coven AI agent orchestration
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) 📦
-* [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
-* [2389-research/coven-kit](https://github.com/2389-research/coven-kit) - Swift client library for Coven AI agent orchestration
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐3
 * [harperreed/position](https://github.com/harperreed/position) 📦
 * [harperreed/digest](https://github.com/harperreed/digest) 📦 ⭐2
-* [2389-research/bugs](https://github.com/2389-research/bugs) - Bug tracking CLI with Charm cloud sync 📦
 * [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) 📦 ⭐1
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) 📦 ⭐2
 * [harperreed/toki](https://github.com/harperreed/toki) 📦 ⭐3
@@ -41,38 +36,43 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/memory](https://github.com/harperreed/memory) 📦 ⭐4
 * [harperreed/memo](https://github.com/harperreed/memo) 📦 ⭐1
 * [harperreed/health](https://github.com/harperreed/health) 📦
-* [2389-research/jeff-soma-ffi](https://github.com/2389-research/jeff-soma-ffi) - Swift bindings for jeff-soma via UniFFI 📦
-* [2389-research/jeff-kit](https://github.com/2389-research/jeff-kit) - Swift package for Jeff AI assistant - iOS/macOS client li...
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) ⭐2
-* [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
-* [2389-research/2389.ai](https://github.com/2389-research/2389.ai)
-* [2389-research/jeff-android](https://github.com/2389-research/jeff-android) - Jeff Android app 📦
-* [generalgalactic/galactic-form](https://github.com/generalgalactic/galactic-form) - @generalgalactic/galactic-form
-* [2389-research/jeff-soma](https://github.com/2389-research/jeff-soma) - Jeff's body - personal assistant tools and capabilities w... 📦
-* [2389-research/chatalpha](https://github.com/2389-research/chatalpha) - Alpha Intelligence System - Entity extraction and signal ...
-* [2389-research/coven-android](https://github.com/2389-research/coven-android) - Android client for Coven AI agent orchestration platform
-* [2389-research/spark-llama-mcp-hosting](https://github.com/2389-research/spark-llama-mcp-hosting) - hosing a llama model for coding on nvidia spark
-* [2389-research/cc-reverse-engineering](https://github.com/2389-research/cc-reverse-engineering)
-* [2389-research/slackman](https://github.com/2389-research/slackman)
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐293
 * [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
-* [2389-research/jeff](https://github.com/2389-research/jeff) 📦
-* [2389-research/ai-assistant-kit](https://github.com/2389-research/ai-assistant-kit)
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
-* [2389-research/fold-tui](https://github.com/2389-research/fold-tui) 📦
-* [2389-research/fold-swarm](https://github.com/2389-research/fold-swarm)
-* [2389-research/fold-packs](https://github.com/2389-research/fold-packs)
-* [2389-research/fold-leader](https://github.com/2389-research/fold-leader)
-* [2389-research/fold-kit](https://github.com/2389-research/fold-kit) - Swift package for fold gateway client - iOS/macOS
-* [2389-research/fold-home](https://github.com/2389-research/fold-home)
-* [2389-research/fold-common](https://github.com/2389-research/fold-common) 📦
-* [2389-research/fold-agent](https://github.com/2389-research/fold-agent)
-* [generalgalactic/pitch-cc](https://github.com/generalgalactic/pitch-cc)
-* [2389-research/ai-assistant-kit-android](https://github.com/2389-research/ai-assistant-kit-android) - Android library for building AI assistants with MuxFFI bi...
-* [2389-research/2389-product-launcher](https://github.com/2389-research/2389-product-launcher)
-* [2389-research/platform-2389](https://github.com/2389-research/platform-2389)
-* [generalgalactic/galactic-helper](https://github.com/generalgalactic/galactic-helper) - Galactic Helper
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐15
+* [harperreed/muesli](https://github.com/harperreed/muesli) 📦 ⭐2
+* [2389-research/oauth-relay-example](https://github.com/2389-research/oauth-relay-example) - Proof-of-concept: Local stdio MCP server with OAuth 2.1 +...
+* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦
+* [2389-research/turtle](https://github.com/2389-research/turtle) 📦 ⭐1
+* [2389-research/tux](https://github.com/2389-research/tux) - Multi-language TUI library for multi-agent terminal inter... ⭐1
+* [2389-research/mux-evals](https://github.com/2389-research/mux-evals) - Language-agnostic eval framework for mux implementations
+* [harperreed/resume](https://github.com/harperreed/resume) - Harper's resume ⭐9
+* [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
+* [harperreed/webcam-streamer](https://github.com/harperreed/webcam-streamer) - A macOS application for streaming webcam video via an HTT... ⭐1
+* [harperreed/goflipdot](https://github.com/harperreed/goflipdot) - GoFlipDot: A Go library for controlling Hanover flipdot s...
+* [harperreed/JoyTalker](https://github.com/harperreed/JoyTalker) 📦 ⭐1
+* [harperreed/newspapers](https://github.com/harperreed/newspapers) - Newspapers - go-newspaper-display
+* [harperreed/sweet](https://github.com/harperreed/sweet) 📦
+* [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard)
+* [2389-research/scribe](https://github.com/2389-research/scribe) 📦
+* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) 📦
+* [harperreed/crisis-dashboard](https://github.com/harperreed/crisis-dashboard)
+* [harperreed/photoland-rs](https://github.com/harperreed/photoland-rs)
+* [2389-research/translator](https://github.com/2389-research/translator) - A translation agent ⭐7
+* [harperreed/cc-pushover](https://github.com/harperreed/cc-pushover) ⭐1
+* [harperreed/micropub](https://github.com/harperreed/micropub) 📦 ⭐2
+* [harperreed/resonate-web-player](https://github.com/harperreed/resonate-web-player) - Simple web based resonate receiver ⭐1
+* [harperreed/staticpub](https://github.com/harperreed/staticpub)
+* [2389-research/visual-uat](https://github.com/2389-research/visual-uat) - command line UAT test runner using pdiffs
+* [2389-research/ourocodus](https://github.com/2389-research/ourocodus) - Multi-agent AI coding system orchestrating Claude Code in...
+* [harperreed/office-admin-claude](https://github.com/harperreed/office-admin-claude) ⭐3
+* [harperreed/sticky-sync](https://github.com/harperreed/sticky-sync) 📦
+* [2389-research/2389-kiosk-cli](https://github.com/2389-research/2389-kiosk-cli) 📦
+* [harperreed/mb-redirector-theme](https://github.com/harperreed/mb-redirector-theme) ⭐1
+* [harperreed/chicago](https://github.com/harperreed/chicago)
+* [harperreed/houseagent](https://github.com/harperreed/houseagent) ⭐3
 <!-- projects ends -->
 
 </details>
