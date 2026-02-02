@@ -23,56 +23,56 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) 📦
-* [2389-research/coven](https://github.com/2389-research/coven) 📦
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦
+* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐3
-* [harperreed/position](https://github.com/harperreed/position) 📦
-* [harperreed/digest](https://github.com/harperreed/digest) 📦 ⭐2
-* [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) 📦 ⭐1
-* [harperreed/chronicle](https://github.com/harperreed/chronicle) 📦 ⭐2
-* [harperreed/toki](https://github.com/harperreed/toki) 📦 ⭐3
-* [harperreed/push-cli](https://github.com/harperreed/push-cli) 📦
-* [harperreed/crm](https://github.com/harperreed/crm) 📦 ⭐14
-* [harperreed/memory](https://github.com/harperreed/memory) 📦 ⭐4
-* [harperreed/memo](https://github.com/harperreed/memo) 📦 ⭐1
-* [harperreed/health](https://github.com/harperreed/health) 📦
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) ⭐2
+* [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦
+* [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
+* [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
+* [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐2
+* [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐3
+* [harperreed/push-cli](https://github.com/harperreed/push-cli) - CLI and MCP server for Pushover notifications - send/rece... 📦
+* [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐14
+* [harperreed/memory](https://github.com/harperreed/memory) - Go MCP server for HMLR hierarchical memory system with se... 📦 ⭐4
+* [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
+* [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐293
 * [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐15
-* [harperreed/muesli](https://github.com/harperreed/muesli) 📦 ⭐2
+* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐2
 * [2389-research/oauth-relay-example](https://github.com/2389-research/oauth-relay-example) - Proof-of-concept: Local stdio MCP server with OAuth 2.1 +...
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦
-* [2389-research/turtle](https://github.com/2389-research/turtle) 📦 ⭐1
+* [2389-research/turtle](https://github.com/2389-research/turtle) - TUI app teaching terminal & tmux through gamified spaced-... 📦 ⭐1
 * [2389-research/tux](https://github.com/2389-research/tux) - Multi-language TUI library for multi-agent terminal inter... ⭐1
 * [2389-research/mux-evals](https://github.com/2389-research/mux-evals) - Language-agnostic eval framework for mux implementations
 * [harperreed/resume](https://github.com/harperreed/resume) - Harper's resume ⭐9
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [harperreed/webcam-streamer](https://github.com/harperreed/webcam-streamer) - A macOS application for streaming webcam video via an HTT... ⭐1
 * [harperreed/goflipdot](https://github.com/harperreed/goflipdot) - GoFlipDot: A Go library for controlling Hanover flipdot s...
-* [harperreed/JoyTalker](https://github.com/harperreed/JoyTalker) 📦 ⭐1
+* [harperreed/JoyTalker](https://github.com/harperreed/JoyTalker) - macOS menu bar app that maps 8BitDo Micro controller butt... 📦 ⭐1
 * [harperreed/newspapers](https://github.com/harperreed/newspapers) - Newspapers - go-newspaper-display
-* [harperreed/sweet](https://github.com/harperreed/sweet) 📦
-* [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard)
-* [2389-research/scribe](https://github.com/2389-research/scribe) 📦
-* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) 📦
-* [harperreed/crisis-dashboard](https://github.com/harperreed/crisis-dashboard)
-* [harperreed/photoland-rs](https://github.com/harperreed/photoland-rs)
+* [harperreed/sweet](https://github.com/harperreed/sweet) - Go library and server for encrypted multi-device sync wit... 📦
+* [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O...
+* [2389-research/scribe](https://github.com/2389-research/scribe) - RTSP audio transcription service using whisper.cpp for IP... 📦
+* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦
+* [harperreed/crisis-dashboard](https://github.com/harperreed/crisis-dashboard) - Svelte dashboard for DAO treasury value, NFT holdings, an...
+* [harperreed/photoland-rs](https://github.com/harperreed/photoland-rs) - Rust web app for viewing iCloud shared albums as auto-adv...
 * [2389-research/translator](https://github.com/2389-research/translator) - A translation agent ⭐7
-* [harperreed/cc-pushover](https://github.com/harperreed/cc-pushover) ⭐1
-* [harperreed/micropub](https://github.com/harperreed/micropub) 📦 ⭐2
+* [harperreed/cc-pushover](https://github.com/harperreed/cc-pushover) - AI-filtered Pushover notifications for Claude Code hooks ... ⭐1
+* [harperreed/micropub](https://github.com/harperreed/micropub) - Rust CLI for Micropub: create, draft, and publish IndieWe... 📦 ⭐2
 * [harperreed/resonate-web-player](https://github.com/harperreed/resonate-web-player) - Simple web based resonate receiver ⭐1
-* [harperreed/staticpub](https://github.com/harperreed/staticpub)
+* [harperreed/staticpub](https://github.com/harperreed/staticpub) - Micropub server for publishing to git-backed static sites...
 * [2389-research/visual-uat](https://github.com/2389-research/visual-uat) - command line UAT test runner using pdiffs
 * [2389-research/ourocodus](https://github.com/2389-research/ourocodus) - Multi-agent AI coding system orchestrating Claude Code in...
-* [harperreed/office-admin-claude](https://github.com/harperreed/office-admin-claude) ⭐3
-* [harperreed/sticky-sync](https://github.com/harperreed/sticky-sync) 📦
-* [2389-research/2389-kiosk-cli](https://github.com/2389-research/2389-kiosk-cli) 📦
-* [harperreed/mb-redirector-theme](https://github.com/harperreed/mb-redirector-theme) ⭐1
-* [harperreed/chicago](https://github.com/harperreed/chicago)
-* [harperreed/houseagent](https://github.com/harperreed/houseagent) ⭐3
+* [harperreed/office-admin-claude](https://github.com/harperreed/office-admin-claude) - Claude Code plugin for email triage, calendar management,... ⭐3
+* [harperreed/sticky-sync](https://github.com/harperreed/sticky-sync) - Rust CLI to sync macOS Stickies to SQLite for cross-machi... 📦
+* [2389-research/2389-kiosk-cli](https://github.com/2389-research/2389-kiosk-cli) - Retro TUI demo suite with 3D effects, starfields, and MQT... 📦
+* [harperreed/mb-redirector-theme](https://github.com/harperreed/mb-redirector-theme) - Hugo theme for Micro.blog with smart redirects, private n... ⭐1
+* [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
+* [harperreed/houseagent](https://github.com/harperreed/houseagent) - AI smart home assistant using MQTT and GPT to generate pl... ⭐3
 <!-- projects ends -->
 
 </details>
