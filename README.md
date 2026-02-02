@@ -23,8 +23,8 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/coven](https://github.com/2389-research/coven) 📦
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) 📦
+* [2389-research/coven](https://github.com/2389-research/coven) 📦
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐3
 * [harperreed/position](https://github.com/harperreed/position) 📦
 * [harperreed/digest](https://github.com/harperreed/digest) 📦 ⭐2
