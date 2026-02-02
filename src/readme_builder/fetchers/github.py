@@ -123,7 +123,7 @@ class GitHubFetcher(BaseFetcher):
             "--paginate",
             "-q",
             ".[] | {name, description, url: .html_url, stars: .stargazers_count, "
-            "language, pushed_at, fork, owner: .owner.login}",
+            "language, pushed_at, fork, private, owner: .owner.login}",
         ]
 
         try:
@@ -142,8 +142,8 @@ class GitHubFetcher(BaseFetcher):
                 continue
             try:
                 repo = json.loads(line)
-                # Skip forks
-                if repo.get("fork"):
+                # Skip forks and private repos
+                if repo.get("fork") or repo.get("private"):
                     continue
                 # Parse pushed_at
                 pushed_str = repo.get("pushed_at", "")
