@@ -100,8 +100,9 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 *📦 = has releases*
 
 <!-- projects starts -->
+* [2389-research/homebrew-tap](https://github.com/2389-research/homebrew-tap)
+* [2389-research/coven](https://github.com/2389-research/coven) 📦
 * [harperreed](https://github.com/harperreed/harperreed) - My readme ⭐2
-* [2389-research/coven](https://github.com/2389-research/coven)
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐2
 * [position](https://github.com/harperreed/position) 📦
 * [digest](https://github.com/harperreed/digest) 📦 ⭐2
@@ -109,7 +110,6 @@ Please [reach out](mailto:harper@modest.com) and say hi.
 * [chronicle](https://github.com/harperreed/chronicle) 📦 ⭐2
 * [toki](https://github.com/harperreed/toki) 📦 ⭐3
 * [push-cli](https://github.com/harperreed/push-cli) 📦
-* [crm](https://github.com/harperreed/crm) 📦 ⭐14
 <!-- projects ends -->
 
 </td><td valign="top" width="50%">
