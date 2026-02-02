@@ -1,5 +1,5 @@
-# ABOUTME: Photo renderer - displays the latest photo from harper.photos
-# ABOUTME: Renders a single featured photo with caption
+# ABOUTME: Photo renderer - displays the latest photo from harper.blog/photos
+# ABOUTME: Renders a single featured photo with title link
 
 from ..fetchers.rss import FeedEntry
 from .base import BaseRenderer
@@ -9,7 +9,7 @@ class PhotoRenderer(BaseRenderer):
     """Renders the latest photo."""
 
     def render(self, entries: list[FeedEntry]) -> str:
-        """Render latest photo with caption."""
+        """Render latest photo with title."""
         if not entries:
             return "*No recent photos*"
 
@@ -17,5 +17,5 @@ class PhotoRenderer(BaseRenderer):
         if not entry.media_url:
             return "*No photo available*"
 
-        # Image with link to full photo page, plus caption
-        return f"[![{entry.title}]({entry.media_url})]({entry.url})\n*{entry.description}*"
+        # Image with link to full photo page
+        return f"[![{entry.title}]({entry.media_url})]({entry.url})"

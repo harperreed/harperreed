@@ -8,6 +8,8 @@ github:
     - generalgalactic
   exclude_repos:
     - 2389.dev
+    - homebrew-tap
+    - harperreed
   projects:
     max_count: 50
     min_stars: 0
@@ -25,7 +27,7 @@ feeds:
     type: blog
 
   photos:
-    url: https://harper.photos/index.xml
+    url: https://harper.blog/photos/index.xml
     max_entries: 1
     type: photo
 

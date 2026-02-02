@@ -25,9 +25,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 <!-- projects starts -->
 * [2389-research/coven-app](https://github.com/2389-research/coven-app) - iOS/macOS client for Coven AI agent orchestration
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) 📦
-* [harperreed](https://github.com/harperreed/harperreed) - My readme ⭐2
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
-* [2389-research/homebrew-tap](https://github.com/2389-research/homebrew-tap)
 * [2389-research/jeff-ios](https://github.com/2389-research/jeff-ios) 📦
 * [2389-research/coven](https://github.com/2389-research/coven) 📦
 * [2389-research/coven-kit](https://github.com/2389-research/coven-kit) - Swift client library for Coven AI agent orchestration
@@ -43,7 +41,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [memory](https://github.com/harperreed/memory) 📦 ⭐4
 * [memo](https://github.com/harperreed/memo) 📦 ⭐1
 * [health](https://github.com/harperreed/health) 📦
-* [homebrew-tap](https://github.com/harperreed/homebrew-tap) - Homebrew tap for harperreed's tools
 * [2389-research/jeff-soma-ffi](https://github.com/2389-research/jeff-soma-ffi) - Swift bindings for jeff-soma via UniFFI 📦
 * [2389-research/jeff-kit](https://github.com/2389-research/jeff-kit) - Swift package for Jeff AI assistant - iOS/macOS client li...
 * [harper.blog](https://github.com/harperreed/harper.blog) ⭐2
@@ -73,6 +70,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/fold-agent](https://github.com/2389-research/fold-agent)
 * [generalgalactic/pitch-cc](https://github.com/generalgalactic/pitch-cc)
 * [2389-research/ai-assistant-kit-android](https://github.com/2389-research/ai-assistant-kit-android) - Android library for building AI assistants with MuxFFI bi...
+* [2389-research/2389-product-launcher](https://github.com/2389-research/2389-product-launcher)
+* [2389-research/platform-2389](https://github.com/2389-research/platform-2389)
+* [generalgalactic/galactic-helper](https://github.com/generalgalactic/galactic-helper) - Galactic Helper
 <!-- projects ends -->
 
 </details>
@@ -131,8 +131,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![My favorite NBA Jam player, Josh!](https://harper.photos/photos/R0001121.jpeg/R0001121_hu13271252758887170480.jpeg)](https://harper.photos/photos/R0001121.jpeg/)
-*My favorite NBA Jam player, Josh!*
+[![Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/image_1.jpg)](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
 <!-- photos ends -->
 
 ---
