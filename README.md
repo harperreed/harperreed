@@ -23,9 +23,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐2
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐293
+* [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
+* [harperreed/mdvault](https://github.com/harperreed/mdvault)
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦
-* [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐3
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦
+* [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
 * [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
@@ -36,8 +40,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/memory](https://github.com/harperreed/memory) - Go MCP server for HMLR hierarchical memory system with se... 📦 ⭐4
 * [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐2
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐293
 * [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
@@ -71,8 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/sticky-sync](https://github.com/harperreed/sticky-sync) - Rust CLI to sync macOS Stickies to SQLite for cross-machi... 📦
 * [2389-research/2389-kiosk-cli](https://github.com/2389-research/2389-kiosk-cli) - Retro TUI demo suite with 3D effects, starfields, and MQT... 📦
 * [harperreed/mb-redirector-theme](https://github.com/harperreed/mb-redirector-theme) - Hugo theme for Micro.blog with smart redirects, private n... ⭐1
-* [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
-* [harperreed/houseagent](https://github.com/harperreed/houseagent) - AI smart home assistant using MQTT and GPT to generate pl... ⭐3
 <!-- projects ends -->
 
 </details>
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Partita for 8 Singers: 3. Courante - Caroline Shaw](https://open.spotify.com/track/5y4nM8TxZnbM6508V2e9qc)
+* 🎵 [Grunge Couple - that dog.](https://open.spotify.com/track/1PtOelkNPYPe9V5MNP4GnH)
 * 🎵 [LO MALO QUE HE SIDO CONTIGO - Yerai Cortés](https://open.spotify.com/track/5aqHtT3MtNqNNHj7O8rMxF)
-* 🎵 [Mr. Soul - Neil Young](https://open.spotify.com/track/4GM5tWLLdSP9lwmaHmhcqm)
-* 🎵 [The Orchids - Psychic TV](https://open.spotify.com/track/00c2vsoZuubtGkLFQCdT1p)
 * 📚 [Temple Alley Summer by Sachiko Kashiwaba](https://www.amazon.com/dp/B096FXSTF5?tag=harperrules0d-20)
 * 📝 [Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
 * 📚 [In Ascension by Martin MacInnes](https://www.amazon.com/dp/B0CLQNNJGK?tag=harperrules0d-20)
