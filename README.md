@@ -23,10 +23,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐15
-* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐2
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐293
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐15
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐294
+* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
 * [harperreed/mdvault](https://github.com/harperreed/mdvault)
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Jóga - Björk](https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ)
 * 🎵 [Partita for 8 Singers: 3. Courante - Caroline Shaw](https://open.spotify.com/track/5y4nM8TxZnbM6508V2e9qc)
 * 🎵 [Grunge Couple - that dog.](https://open.spotify.com/track/1PtOelkNPYPe9V5MNP4GnH)
-* 🎵 [LO MALO QUE HE SIDO CONTIGO - Yerai Cortés](https://open.spotify.com/track/5aqHtT3MtNqNNHj7O8rMxF)
 * 📚 [Temple Alley Summer by Sachiko Kashiwaba](https://www.amazon.com/dp/B096FXSTF5?tag=harperrules0d-20)
 * 📝 [Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
 * 📚 [In Ascension by Martin MacInnes](https://www.amazon.com/dp/B0CLQNNJGK?tag=harperrules0d-20)
