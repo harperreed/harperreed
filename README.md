@@ -23,13 +23,15 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐1
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐2
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐15
+* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐294
-* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦
+* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐1
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
 * [harperreed/mdvault](https://github.com/harperreed/mdvault)
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
 * [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
@@ -41,10 +43,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/memory](https://github.com/harperreed/memory) - Go MCP server for HMLR hierarchical memory system with se... 📦 ⭐4
 * [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
+* [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
 * [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
-* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
-* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐2
 * [2389-research/oauth-relay-example](https://github.com/2389-research/oauth-relay-example) - Proof-of-concept: Local stdio MCP server with OAuth 2.1 +...
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦
 * [2389-research/turtle](https://github.com/2389-research/turtle) - TUI app teaching terminal & tmux through gamified spaced-... 📦 ⭐1
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/office-admin-claude](https://github.com/harperreed/office-admin-claude) - Claude Code plugin for email triage, calendar management,... ⭐3
 * [harperreed/sticky-sync](https://github.com/harperreed/sticky-sync) - Rust CLI to sync macOS Stickies to SQLite for cross-machi... 📦
 * [2389-research/2389-kiosk-cli](https://github.com/2389-research/2389-kiosk-cli) - Retro TUI demo suite with 3D effects, starfields, and MQT... 📦
-* [harperreed/mb-redirector-theme](https://github.com/harperreed/mb-redirector-theme) - Hugo theme for Micro.blog with smart redirects, private n... ⭐1
 <!-- projects ends -->
 
 </details>
@@ -131,7 +131,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/image_1.jpg)](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
+[![Note #722](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/image_1.jpg)](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/)
 <!-- photos ends -->
 
 ---
@@ -156,9 +156,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #722](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/)
+* 🎵 [Carrie Anne - The Hollies](https://open.spotify.com/track/794fEMvS4YXOcVSrC5I2vy)
 * 🎵 [Jóga - Björk](https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ)
 * 🎵 [Partita for 8 Singers: 3. Courante - Caroline Shaw](https://open.spotify.com/track/5y4nM8TxZnbM6508V2e9qc)
-* 🎵 [Grunge Couple - that dog.](https://open.spotify.com/track/1PtOelkNPYPe9V5MNP4GnH)
 * 📚 [Temple Alley Summer by Sachiko Kashiwaba](https://www.amazon.com/dp/B096FXSTF5?tag=harperrules0d-20)
 * 📝 [Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
 * 📚 [In Ascension by Martin MacInnes](https://www.amazon.com/dp/B0CLQNNJGK?tag=harperrules0d-20)
@@ -166,7 +167,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📝 [Note #720](https://harper.blog/notes/2026-01-16_bb87333ba84c_i-like-to-think-i-am-ready-for/)
 * 📚 [Red Storm Rising by Tom Clancy](https://www.amazon.com/dp/B001QEAQQC?tag=harperrules0d-20)
 * 🔗 [Physical Security Playbook for Protesting in Today’s Environment](https://krypt3ia.wordpress.com/2026/01/09/physical-security-playbook-for-protesting-in-todays-environment/)
-* 📝 [Note #311](https://harper.blog/notes/2026-01-05_c6e302b8c827_i-blogged-about-using-claude-c/)
 * 🔗 [Retribution Is Here](https://www.theatlantic.com/politics/archive/2025/10/trump-retribution-comey-chicago/684497/?utm_source=feed)
 <!-- activity ends -->
 
