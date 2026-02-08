@@ -23,7 +23,8 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐16
+* [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐17
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐2
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
@@ -38,17 +39,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/applereminders](https://github.com/harperreed/applereminders) - Drop-in replacement for reminders-cli using EventKit with... 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐2
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐294
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐295
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
 * [harperreed/mdvault](https://github.com/harperreed/mdvault)
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐14
 * [harperreed/memory](https://github.com/harperreed/memory) - Go MCP server for HMLR hierarchical memory system with se... 📦 ⭐4
 * [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
-* [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
 * [2389-research/oauth-relay-example](https://github.com/2389-research/oauth-relay-example) - Proof-of-concept: Local stdio MCP server with OAuth 2.1 +...
-* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦
+* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
 * [2389-research/turtle](https://github.com/2389-research/turtle) - TUI app teaching terminal & tmux through gamified spaced-... 📦 ⭐1
 * [2389-research/tux](https://github.com/2389-research/tux) - Multi-language TUI library for multi-agent terminal inter... ⭐1
 * [2389-research/mux-evals](https://github.com/2389-research/mux-evals) - Language-agnostic eval framework for mux implementations
