@@ -23,11 +23,14 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐17
-* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐2
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
+* [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
+* [harperreed/mdstore](https://github.com/harperreed/mdstore) - Shared Go library for file-based markdown storage with YA...
+* [2389-research/mdstore](https://github.com/2389-research/mdstore) - Shared Go library for file-based markdown storage with YA...
+* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐2
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐19
+* [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
 * [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
 * [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
@@ -70,9 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/resonate-web-player](https://github.com/harperreed/resonate-web-player) - Simple web based resonate receiver ⭐1
 * [harperreed/staticpub](https://github.com/harperreed/staticpub) - Micropub server for publishing to git-backed static sites...
 * [2389-research/visual-uat](https://github.com/2389-research/visual-uat) - command line UAT test runner using pdiffs
-* [2389-research/ourocodus](https://github.com/2389-research/ourocodus) - Multi-agent AI coding system orchestrating Claude Code in...
-* [harperreed/office-admin-claude](https://github.com/harperreed/office-admin-claude) - Claude Code plugin for email triage, calendar management,... ⭐3
-* [harperreed/sticky-sync](https://github.com/harperreed/sticky-sync) - Rust CLI to sync macOS Stickies to SQLite for cross-machi... 📦
 <!-- projects ends -->
 
 </details>
