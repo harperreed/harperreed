@@ -23,25 +23,26 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
-* [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
-* [harperreed/mdstore](https://github.com/harperreed/mdstore) - Shared Go library for file-based markdown storage with YA...
-* [2389-research/mdstore](https://github.com/2389-research/mdstore) - Shared Go library for file-based markdown storage with YA...
-* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐2
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐19
-* [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
 * [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
-* [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦
+* [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
+* [harperreed/push-cli](https://github.com/harperreed/push-cli) - CLI and MCP server for Pushover notifications - send/rece... 📦 ⭐1
+* [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦 ⭐1
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐3
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐2
-* [harperreed/push-cli](https://github.com/harperreed/push-cli) - CLI and MCP server for Pushover notifications - send/rece... 📦
-* [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
+* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
+* [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐1
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
+* [harperreed/mdstore](https://github.com/harperreed/mdstore) - Shared Go library for file-based markdown storage with YA...
+* [2389-research/mdstore](https://github.com/2389-research/mdstore) - Shared Go library for file-based markdown storage with YA...
+* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐2
+* [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
 * [harperreed/applereminders](https://github.com/harperreed/applereminders) - Drop-in replacement for reminders-cli using EventKit with... 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐295
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
 * [harperreed/mdvault](https://github.com/harperreed/mdvault)
@@ -51,7 +52,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
 * [2389-research/oauth-relay-example](https://github.com/2389-research/oauth-relay-example) - Proof-of-concept: Local stdio MCP server with OAuth 2.1 +...
-* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
 * [2389-research/turtle](https://github.com/2389-research/turtle) - TUI app teaching terminal & tmux through gamified spaced-... 📦 ⭐1
 * [2389-research/tux](https://github.com/2389-research/tux) - Multi-language TUI library for multi-agent terminal inter... ⭐1
 * [2389-research/mux-evals](https://github.com/2389-research/mux-evals) - Language-agnostic eval framework for mux implementations
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📚 [Wild Tales: A Rock & Roll Life by Graham Nash](https://www.amazon.com/dp/0385347553?tag=harperrules0d-20)
 * 📝 [Note #722](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/)
 * 🎵 [Carrie Anne - The Hollies](https://open.spotify.com/track/794fEMvS4YXOcVSrC5I2vy)
 * 🎵 [Jóga - Björk](https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ)
@@ -165,7 +166,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📚 [In Ascension by Martin MacInnes](https://www.amazon.com/dp/B0CLQNNJGK?tag=harperrules0d-20)
 * 🔗 [The American Resistance](https://www.awritersnotebook.org/p/the-american-resistance)
 * 📝 [Note #720](https://harper.blog/notes/2026-01-16_bb87333ba84c_i-like-to-think-i-am-ready-for/)
-* 📚 [Red Storm Rising by Tom Clancy](https://www.amazon.com/dp/B001QEAQQC?tag=harperrules0d-20)
 * 🔗 [Physical Security Playbook for Protesting in Today’s Environment](https://krypt3ia.wordpress.com/2026/01/09/physical-security-playbook-for-protesting-in-todays-environment/)
 * 🔗 [Retribution Is Here](https://www.theatlantic.com/politics/archive/2025/10/trump-retribution-comey-chicago/684497/?utm_source=feed)
 <!-- activity ends -->
