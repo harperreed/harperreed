@@ -23,22 +23,24 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐19
-* [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
+* [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
+* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder
 * [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
+* [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
 * [harperreed/push-cli](https://github.com/harperreed/push-cli) - CLI and MCP server for Pushover notifications - send/rece... 📦 ⭐1
 * [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦 ⭐1
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
-* [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
+* [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐3
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐3
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐2
+* [2389-research/mdstore](https://github.com/2389-research/mdstore) - Shared Go library for file-based markdown storage with YA...
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐19
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐1
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [harperreed/mdstore](https://github.com/harperreed/mdstore) - Shared Go library for file-based markdown storage with YA...
-* [2389-research/mdstore](https://github.com/2389-research/mdstore) - Shared Go library for file-based markdown storage with YA...
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐2
 * [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
 * [harperreed/applereminders](https://github.com/harperreed/applereminders) - Drop-in replacement for reminders-cli using EventKit with... 📦
@@ -49,7 +51,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐14
 * [harperreed/memory](https://github.com/harperreed/memory) - Go MCP server for HMLR hierarchical memory system with se... 📦 ⭐4
-* [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
 * [2389-research/oauth-relay-example](https://github.com/2389-research/oauth-relay-example) - Proof-of-concept: Local stdio MCP server with OAuth 2.1 +...
 * [2389-research/turtle](https://github.com/2389-research/turtle) - TUI app teaching terminal & tmux through gamified spaced-... 📦 ⭐1
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/micropub](https://github.com/harperreed/micropub) - Rust CLI for Micropub: create, draft, and publish IndieWe... 📦 ⭐2
 * [harperreed/resonate-web-player](https://github.com/harperreed/resonate-web-player) - Simple web based resonate receiver ⭐1
 * [harperreed/staticpub](https://github.com/harperreed/staticpub) - Micropub server for publishing to git-backed static sites...
-* [2389-research/visual-uat](https://github.com/2389-research/visual-uat) - command line UAT test runner using pdiffs
 <!-- projects ends -->
 
 </details>
