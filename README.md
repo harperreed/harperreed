@@ -23,7 +23,12 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
+* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐19
+* [2389-research/mammoth](https://github.com/2389-research/mammoth)
 * [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder
 * [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
@@ -35,16 +40,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐3
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐2
 * [2389-research/mdstore](https://github.com/2389-research/mdstore) - Shared Go library for file-based markdown storage with YA...
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐19
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐1
 * [harperreed/mdstore](https://github.com/harperreed/mdstore) - Shared Go library for file-based markdown storage with YA...
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐2
 * [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
 * [harperreed/applereminders](https://github.com/harperreed/applereminders) - Drop-in replacement for reminders-cli using EventKit with... 📦
-* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐295
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
 * [harperreed/mdvault](https://github.com/harperreed/mdvault)
@@ -71,8 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/translator](https://github.com/2389-research/translator) - A translation agent ⭐8
 * [harperreed/cc-pushover](https://github.com/harperreed/cc-pushover) - AI-filtered Pushover notifications for Claude Code hooks ... ⭐1
 * [harperreed/micropub](https://github.com/harperreed/micropub) - Rust CLI for Micropub: create, draft, and publish IndieWe... 📦 ⭐2
-* [harperreed/resonate-web-player](https://github.com/harperreed/resonate-web-player) - Simple web based resonate receiver ⭐1
-* [harperreed/staticpub](https://github.com/harperreed/staticpub) - Micropub server for publishing to git-backed static sites...
 <!-- projects ends -->
 
 </details>
@@ -156,11 +156,11 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [CAFé CON RON - Bad Bunny](https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW)
 * 📚 [Wild Tales: A Rock & Roll Life by Graham Nash](https://www.amazon.com/dp/0385347553?tag=harperrules0d-20)
 * 📝 [Note #722](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/)
 * 🎵 [Carrie Anne - The Hollies](https://open.spotify.com/track/794fEMvS4YXOcVSrC5I2vy)
 * 🎵 [Jóga - Björk](https://open.spotify.com/track/1iTqAwKFKNRTcZX9Mtl1PZ)
-* 🎵 [Partita for 8 Singers: 3. Courante - Caroline Shaw](https://open.spotify.com/track/5y4nM8TxZnbM6508V2e9qc)
 * 📚 [Temple Alley Summer by Sachiko Kashiwaba](https://www.amazon.com/dp/B096FXSTF5?tag=harperrules0d-20)
 * 📝 [Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
 * 📚 [In Ascension by Martin MacInnes](https://www.amazon.com/dp/B0CLQNNJGK?tag=harperrules0d-20)
