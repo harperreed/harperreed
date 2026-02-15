@@ -23,12 +23,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐295
 * [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦
+* [harperreed/nakazawa.com](https://github.com/harperreed/nakazawa.com) - A very important company
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐3
+* [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
+* [2389-research/mux](https://github.com/2389-research/mux)
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐295
+* [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
@@ -55,7 +59,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/mdvault](https://github.com/harperreed/mdvault)
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐16
 * [harperreed/memory](https://github.com/harperreed/memory) - Go MCP server for HMLR hierarchical memory system with se... 📦 ⭐4
-* [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
 * [2389-research/oauth-relay-example](https://github.com/2389-research/oauth-relay-example) - Proof-of-concept: Local stdio MCP server with OAuth 2.1 +...
 * [2389-research/turtle](https://github.com/2389-research/turtle) - TUI app teaching terminal & tmux through gamified spaced-... 📦 ⭐1
 * [2389-research/tux](https://github.com/2389-research/tux) - Multi-language TUI library for multi-agent terminal inter... ⭐1
@@ -70,9 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O...
 * [2389-research/scribe](https://github.com/2389-research/scribe) - RTSP audio transcription service using whisper.cpp for IP... 📦
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦
-* [harperreed/crisis-dashboard](https://github.com/harperreed/crisis-dashboard) - Svelte dashboard for DAO treasury value, NFT holdings, an...
-* [harperreed/photoland-rs](https://github.com/harperreed/photoland-rs) - Rust web app for viewing iCloud shared albums as auto-adv...
-* [2389-research/translator](https://github.com/2389-research/translator) - A translation agent ⭐8
 <!-- projects ends -->
 
 </details>
