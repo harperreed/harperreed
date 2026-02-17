@@ -23,17 +23,19 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
+* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐2
 * [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐1
+* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐2
 * [2389-research/coven-openclaw](https://github.com/2389-research/coven-openclaw) - Coven Gateway channel plugin for OpenClaw — gRPC AgentStr...
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
 * [harperreed/yuga-party](https://github.com/harperreed/yuga-party)
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
 * [harperreed/nakazawa.com](https://github.com/harperreed/nakazawa.com) - A very important company
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐4
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐5
 * [2389-research/mux](https://github.com/2389-research/mux)
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐295
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
@@ -47,13 +49,11 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐3
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐2
 * [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
-* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐19
 * [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder
 * [harperreed/push-cli](https://github.com/harperreed/push-cli) - CLI and MCP server for Pushover notifications - send/rece... 📦 ⭐1
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
-* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐1
 * [harperreed/mdstore](https://github.com/harperreed/mdstore) - Shared Go library for file-based markdown storage with YA...
 * [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
@@ -70,7 +70,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [harperreed/webcam-streamer](https://github.com/harperreed/webcam-streamer) - A macOS application for streaming webcam video via an HTT... ⭐1
 * [harperreed/goflipdot](https://github.com/harperreed/goflipdot) - GoFlipDot: A Go library for controlling Hanover flipdot s...
-* [harperreed/JoyTalker](https://github.com/harperreed/JoyTalker) - macOS menu bar app that maps 8BitDo Micro controller butt... 📦 ⭐1
+* [harperreed/JoyTalker](https://github.com/harperreed/JoyTalker) - macOS menu bar app that maps 8BitDo Micro controller butt... 📦 ⭐2
 * [harperreed/newspapers](https://github.com/harperreed/newspapers) - Newspapers - go-newspaper-display
 * [harperreed/sweet](https://github.com/harperreed/sweet) - Go library and server for encrypted multi-device sync wit... 📦
 <!-- projects ends -->
@@ -194,5 +194,5 @@ As many people have said “it is going to get worse before it gets better.” L
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 47.9 years old
+- 👨Age: 48.0 years old
 <!-- age ends --> · he/him · Inspired by [@simonw](https://twitter.com/simonw)'s [self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)</sub>
