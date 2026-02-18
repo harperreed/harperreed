@@ -24,13 +24,17 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/tcord](https://github.com/2389-research/tcord)
+* [2389-research/soloclaw](https://github.com/2389-research/soloclaw)
+* [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦
+* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
+* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐3
+* [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
-* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐2
-* [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐2
-* [2389-research/coven-openclaw](https://github.com/2389-research/coven-openclaw) - Coven Gateway channel plugin for OpenClaw — gRPC AgentStr...
-* [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
+* [2389-research/coven-openclaw](https://github.com/2389-research/coven-openclaw) - Coven Gateway channel plugin for OpenClaw — gRPC AgentStr... ⭐1
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
 * [harperreed/yuga-party](https://github.com/harperreed/yuga-party)
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
@@ -39,8 +43,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/mux](https://github.com/2389-research/mux)
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐295
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
-* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐3
@@ -71,8 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/webcam-streamer](https://github.com/harperreed/webcam-streamer) - A macOS application for streaming webcam video via an HTT... ⭐1
 * [harperreed/goflipdot](https://github.com/harperreed/goflipdot) - GoFlipDot: A Go library for controlling Hanover flipdot s...
 * [harperreed/JoyTalker](https://github.com/harperreed/JoyTalker) - macOS menu bar app that maps 8BitDo Micro controller butt... 📦 ⭐2
-* [harperreed/newspapers](https://github.com/harperreed/newspapers) - Newspapers - go-newspaper-display
-* [harperreed/sweet](https://github.com/harperreed/sweet) - Go library and server for encrypted multi-device sync wit... 📦
 <!-- projects ends -->
 
 </details>
@@ -156,16 +156,16 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Zelle You - xaviersobased](https://open.spotify.com/track/5Ww3iECn25g6rWRDBWs491)
+* 📝 [Note #723](https://harper.blog/notes/2026-02-16_7f0eee0717bd_was-nice-to-hang-in-colorado/)
 * 🎵 [Prefect - Mizmor](https://open.spotify.com/track/0CFnKJXoQxtRZVsYaG2mQ0)
 * 🎵 [Mr. Sentimental - Crippling Alcoholism](https://open.spotify.com/track/1FRCdfWs0hS8ebtvZ8KxLe)
-* 🎵 [ict - Oklou](https://open.spotify.com/track/6aUr8iLB8hfp9z2xMv1X5X)
 * 📚 [Wild Tales: A Rock & Roll Life by Graham Nash](https://www.amazon.com/dp/0385347553?tag=harperrules0d-20)
 * 📝 [Note #722](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/)
 * 📚 [Temple Alley Summer by Sachiko Kashiwaba](https://www.amazon.com/dp/B096FXSTF5?tag=harperrules0d-20)
 * 📝 [Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
 * 📚 [In Ascension by Martin MacInnes](https://www.amazon.com/dp/B0CLQNNJGK?tag=harperrules0d-20)
 * 🔗 [The American Resistance](https://www.awritersnotebook.org/p/the-american-resistance)
-* 📝 [Note #720](https://harper.blog/notes/2026-01-16_bb87333ba84c_i-like-to-think-i-am-ready-for/)
 * 🔗 [Physical Security Playbook for Protesting in Today’s Environment](https://krypt3ia.wordpress.com/2026/01/09/physical-security-playbook-for-protesting-in-todays-environment/)
 * 🔗 [Retribution Is Here](https://www.theatlantic.com/politics/archive/2025/10/trump-retribution-comey-chicago/684497/?utm_source=feed)
 <!-- activity ends -->
