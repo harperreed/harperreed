@@ -23,18 +23,18 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
-* [2389-research/soloclaw](https://github.com/2389-research/soloclaw)
 * [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/soloclaw](https://github.com/2389-research/soloclaw)
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐295
 * [2389-research/tcord](https://github.com/2389-research/tcord)
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐3
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
-* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
-* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐2
+* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐3
 * [2389-research/coven-openclaw](https://github.com/2389-research/coven-openclaw) - Coven Gateway channel plugin for OpenClaw — gRPC AgentStr... ⭐1
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
 * [harperreed/yuga-party](https://github.com/harperreed/yuga-party)
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📚 [The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip by Stephen Witt](https://www.amazon.com/dp/B0D1QFBGQD?tag=harperrules0d-20)
 * 🎵 [Atabaque Chora - Os Tincoãs](https://open.spotify.com/track/3Oji9n5BcFAzhd7eyogoLA)
 * 🎵 [Zelle You - xaviersobased](https://open.spotify.com/track/5Ww3iECn25g6rWRDBWs491)
 * 📝 [Note #723](https://harper.blog/notes/2026-02-16_7f0eee0717bd_was-nice-to-hang-in-colorado/)
@@ -164,7 +165,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📝 [Note #722](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/)
 * 📚 [Temple Alley Summer by Sachiko Kashiwaba](https://www.amazon.com/dp/B096FXSTF5?tag=harperrules0d-20)
 * 📝 [Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
-* 📚 [In Ascension by Martin MacInnes](https://www.amazon.com/dp/B0CLQNNJGK?tag=harperrules0d-20)
 * 🔗 [The American Resistance](https://www.awritersnotebook.org/p/the-american-resistance)
 * 🔗 [Physical Security Playbook for Protesting in Today’s Environment](https://krypt3ia.wordpress.com/2026/01/09/physical-security-playbook-for-protesting-in-todays-environment/)
 * 🔗 [Retribution Is Here](https://www.theatlantic.com/politics/archive/2025/10/trump-retribution-comey-chicago/684497/?utm_source=feed)
