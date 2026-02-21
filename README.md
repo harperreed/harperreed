@@ -23,17 +23,18 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
+* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
 * [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/mux](https://github.com/2389-research/mux)
 * [2389-research/soloclaw](https://github.com/2389-research/soloclaw)
+* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐295
 * [2389-research/tcord](https://github.com/2389-research/tcord)
-* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐3
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
-* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
+* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐2
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐3
 * [2389-research/coven-openclaw](https://github.com/2389-research/coven-openclaw) - Coven Gateway channel plugin for OpenClaw — gRPC AgentStr... ⭐1
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
@@ -41,7 +42,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
 * [harperreed/nakazawa.com](https://github.com/harperreed/nakazawa.com) - A very important company
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐5
-* [2389-research/mux](https://github.com/2389-research/mux)
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
@@ -72,7 +72,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [harperreed/webcam-streamer](https://github.com/harperreed/webcam-streamer) - A macOS application for streaming webcam video via an HTT... ⭐1
 * [harperreed/goflipdot](https://github.com/harperreed/goflipdot) - GoFlipDot: A Go library for controlling Hanover flipdot s...
-* [harperreed/JoyTalker](https://github.com/harperreed/JoyTalker) - macOS menu bar app that maps 8BitDo Micro controller butt... 📦 ⭐2
+* [harperreed/JoyTalker](https://github.com/harperreed/JoyTalker) - macOS menu bar app that maps 8BitDo Micro controller butt... 📦 ⭐3
 <!-- projects ends -->
 
 </details>
