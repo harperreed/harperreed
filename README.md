@@ -24,6 +24,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐23
@@ -38,7 +39,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐1
 * [2389-research/tcord](https://github.com/2389-research/tcord)
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐3
-* [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐2
 * [2389-research/coven-openclaw](https://github.com/2389-research/coven-openclaw) - Coven Gateway channel plugin for OpenClaw — gRPC AgentStr... ⭐1
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Nouh Al Hamam - Maryam Saleh](https://open.spotify.com/track/2E08WCt3osobaycx39px1n)
+* 🎵 [Derhan N'Oulhine - Imarhan](https://open.spotify.com/track/7lmtsNpI9yfgN4Ckt0PYJR)
 * 🎵 [Ya Habib - Sapho](https://open.spotify.com/track/5NhFKbpch0b0Xh8UkxeOZd)
-* 🎵 [Mezzaluna - TÄRA](https://open.spotify.com/track/1xrnIqOGEz5iu179fXB8m8)
-* 🎵 [Body - Don Toliver](https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO)
 * 📚 [The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip by Stephen Witt](https://www.amazon.com/dp/B0D1QFBGQD?tag=harperrules0d-20)
 * 📝 [Note #723](https://harper.blog/notes/2026-02-16_7f0eee0717bd_was-nice-to-hang-in-colorado/)
 * 📚 [Wild Tales: A Rock & Roll Life by Graham Nash](https://www.amazon.com/dp/0385347553?tag=harperrules0d-20)
