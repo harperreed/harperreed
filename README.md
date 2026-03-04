@@ -23,14 +23,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder
+* [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐23
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐24
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐297
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐298
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐2
 * [2389-research/soloclaw](https://github.com/2389-research/soloclaw) ⭐2
@@ -50,11 +52,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐5
 * [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦 ⭐2
 * [2389-research/mdstore](https://github.com/2389-research/mdstore) - Shared Go library for file-based markdown storage with YA...
-* [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐2
 * [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
 * [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
-* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder
 * [harperreed/push-cli](https://github.com/harperreed/push-cli) - CLI and MCP server for Pushover notifications - send/rece... 📦 ⭐1
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐1
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📚 [Consider Phlebas (Culture, #1) by Iain M. Banks](https://www.amazon.com/dp/B0013TX6FI?tag=harperrules0d-20)
 * 🎵 [Nouh Al Hamam - Maryam Saleh](https://open.spotify.com/track/2E08WCt3osobaycx39px1n)
 * 🎵 [Derhan N'Oulhine - Imarhan](https://open.spotify.com/track/7lmtsNpI9yfgN4Ckt0PYJR)
 * 🎵 [Ya Habib - Sapho](https://open.spotify.com/track/5NhFKbpch0b0Xh8UkxeOZd)
@@ -163,7 +164,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📝 [Note #723](https://harper.blog/notes/2026-02-16_7f0eee0717bd_was-nice-to-hang-in-colorado/)
 * 📚 [Wild Tales: A Rock & Roll Life by Graham Nash](https://www.amazon.com/dp/0385347553?tag=harperrules0d-20)
 * 📝 [Note #722](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/)
-* 📚 [Temple Alley Summer by Sachiko Kashiwaba](https://www.amazon.com/dp/B096FXSTF5?tag=harperrules0d-20)
 * 📝 [Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
 * 🔗 [The American Resistance](https://www.awritersnotebook.org/p/the-american-resistance)
 * 🔗 [Physical Security Playbook for Protesting in Today’s Environment](https://krypt3ia.wordpress.com/2026/01/09/physical-security-playbook-for-protesting-in-todays-environment/)
