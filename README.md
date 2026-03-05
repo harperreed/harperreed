@@ -23,7 +23,8 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐298
+* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder ⭐1
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
@@ -32,7 +33,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐24
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐298
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐2
 * [2389-research/soloclaw](https://github.com/2389-research/soloclaw) ⭐2
