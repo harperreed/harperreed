@@ -23,11 +23,12 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐2
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐299
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder ⭐1
-* [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
+* [2389-research/tracker](https://github.com/2389-research/tracker)
+* [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐2
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐299
+* [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐3
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
@@ -46,7 +47,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
 * [harperreed/yuga-party](https://github.com/harperreed/yuga-party)
 * [harperreed/nakazawa.com](https://github.com/harperreed/nakazawa.com) - A very important company
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐6
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐7
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [harperreed/memo](https://github.com/harperreed/memo) - CLI notes tool with markdown, tags, SQLite storage, and M... 📦 ⭐1
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐5
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/resume](https://github.com/harperreed/resume) - Harper's resume ⭐9
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [harperreed/webcam-streamer](https://github.com/harperreed/webcam-streamer) - A macOS application for streaming webcam video via an HTT... ⭐1
-* [harperreed/goflipdot](https://github.com/harperreed/goflipdot) - GoFlipDot: A Go library for controlling Hanover flipdot s...
 <!-- projects ends -->
 
 </details>
@@ -131,7 +131,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #722](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/image_1.jpg)](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/)
+[![Note #726](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/image_1.jpg)](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/)
 <!-- photos ends -->
 
 ---
@@ -156,15 +156,15 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #726](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/)
+* 📝 [Note #725](https://harper.blog/notes/2026-03-05_503f2258ffe0_a-few-more-from-our-friday-jam/)
+* 📝 [Note #724](https://harper.blog/notes/2026-03-05_2fab7bc1bbd3_we-have-been-having-a-few-frie/)
 * 📚 [Consider Phlebas (Culture, #1) by Iain M. Banks](https://www.amazon.com/dp/B0013TX6FI?tag=harperrules0d-20)
 * 🎵 [Nouh Al Hamam - Maryam Saleh](https://open.spotify.com/track/2E08WCt3osobaycx39px1n)
 * 🎵 [Derhan N'Oulhine - Imarhan](https://open.spotify.com/track/7lmtsNpI9yfgN4Ckt0PYJR)
 * 🎵 [Ya Habib - Sapho](https://open.spotify.com/track/5NhFKbpch0b0Xh8UkxeOZd)
 * 📚 [The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip by Stephen Witt](https://www.amazon.com/dp/B0D1QFBGQD?tag=harperrules0d-20)
-* 📝 [Note #723](https://harper.blog/notes/2026-02-16_7f0eee0717bd_was-nice-to-hang-in-colorado/)
 * 📚 [Wild Tales: A Rock & Roll Life by Graham Nash](https://www.amazon.com/dp/0385347553?tag=harperrules0d-20)
-* 📝 [Note #722](https://harper.blog/notes/2026-02-05_dade6a11641b_last-nights-agriculture-show-w/)
-* 📝 [Note #721](https://harper.blog/notes/2026-01-25_8fa33e53ece7_a-quick-5-miles-in-the-snow/)
 * 🔗 [The American Resistance](https://www.awritersnotebook.org/p/the-american-resistance)
 * 🔗 [Physical Security Playbook for Protesting in Today’s Environment](https://krypt3ia.wordpress.com/2026/01/09/physical-security-playbook-for-protesting-in-todays-environment/)
 * 🔗 [Retribution Is Here](https://www.theatlantic.com/politics/archive/2025/10/trump-retribution-comey-chicago/684497/?utm_source=feed)
