@@ -24,10 +24,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [2389-research/tracker](https://github.com/2389-research/tracker)
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦
+* [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐3
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐300
-* [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐3
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐4
@@ -156,6 +156,8 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Jisas Yu Hokem Hand Blong Mi - Ponto de partida & Meninos de Araçuaí](https://open.spotify.com/track/5M4A2yzEwrJMP3YS4veRgj)
+* 🎵 [God Yu Tekem Laef Blong Mi (From "The Thin Red Line" Soundtrack) - Hans Zimmer](https://open.spotify.com/track/4viN4udbeMEUjc2dXRyac9)
 * 📝 [Note #726](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/)
 * 📝 [Note #725](https://harper.blog/notes/2026-03-05_503f2258ffe0_a-few-more-from-our-friday-jam/)
 * 📝 [Note #724](https://harper.blog/notes/2026-03-05_2fab7bc1bbd3_we-have-been-having-a-few-frie/)
@@ -163,8 +165,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 🔗 [This neat streaming and vinyl system is a modern take on a classic hi-fi setup – fewer boxes, great sound](https://www.whathifi.com/hi-fi/this-neat-streaming-and-vinyl-system-is-a-modern-take-on-a-classic-hi-fi-setup-fewer-boxes-great-sound)
 * 📚 [Consider Phlebas (Culture, #1) by Iain M. Banks](https://www.amazon.com/dp/B0013TX6FI?tag=harperrules0d-20)
 * 🎵 [Nouh Al Hamam - Maryam Saleh](https://open.spotify.com/track/2E08WCt3osobaycx39px1n)
-* 🎵 [Derhan N'Oulhine - Imarhan](https://open.spotify.com/track/7lmtsNpI9yfgN4Ckt0PYJR)
-* 🎵 [Ya Habib - Sapho](https://open.spotify.com/track/5NhFKbpch0b0Xh8UkxeOZd)
 * 📚 [The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip by Stephen Witt](https://www.amazon.com/dp/B0D1QFBGQD?tag=harperrules0d-20)
 * 📚 [Wild Tales: A Rock & Roll Life by Graham Nash](https://www.amazon.com/dp/0385347553?tag=harperrules0d-20)
 * 🔗 [The American Resistance](https://www.awritersnotebook.org/p/the-american-resistance)
