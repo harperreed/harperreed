@@ -24,15 +24,17 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦
-* [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐3
-* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐2
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐25
+* [2389-research/dotpowers](https://github.com/2389-research/dotpowers) - a superpowers implementation for attractors
+* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ...
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐300
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦
+* [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐4
+* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐2
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐4
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐25
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
@@ -71,8 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/tux](https://github.com/2389-research/tux) - Multi-language TUI library for multi-agent terminal inter... ⭐1
 * [2389-research/mux-evals](https://github.com/2389-research/mux-evals) - Language-agnostic eval framework for mux implementations
 * [harperreed/resume](https://github.com/harperreed/resume) - Harper's resume ⭐9
-* [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
-* [harperreed/webcam-streamer](https://github.com/harperreed/webcam-streamer) - A macOS application for streaming webcam video via an HTT... ⭐1
 <!-- projects ends -->
 
 </details>
@@ -156,18 +156,18 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Sex Life - Tracey](https://open.spotify.com/track/18cS2gM9O0jkVYCBuMsBLq)
 * 🎵 [Jisas Yu Hokem Hand Blong Mi - Ponto de partida & Meninos de Araçuaí](https://open.spotify.com/track/5M4A2yzEwrJMP3YS4veRgj)
 * 🎵 [God Yu Tekem Laef Blong Mi (From "The Thin Red Line" Soundtrack) - Hans Zimmer](https://open.spotify.com/track/4viN4udbeMEUjc2dXRyac9)
+* 🔗 [Rei Kawakubo is searching for the light at Comme des Garçons AW26](https://www.dazeddigital.com/fashion/gallery/36817/0/comme-des-garcons-aw26?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=rei-kawakubo-is-searching-for-the-light-at-comme-des-garcons-aw26)
+* 🔗 [More on Lil Finder Guy](https://512pixels.net/2026/03/more-on-lil-finder-guy/)
+* 🔗 [Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?](https://simonwillison.net/2026/Mar/5/chardet/)
 * 📝 [Note #726](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/)
 * 📝 [Note #725](https://harper.blog/notes/2026-03-05_503f2258ffe0_a-few-more-from-our-friday-jam/)
 * 📝 [Note #724](https://harper.blog/notes/2026-03-05_2fab7bc1bbd3_we-have-been-having-a-few-frie/)
-* 🔗 [Shure MVX2U Gen 2 Caters to Creators With XLR Mics](https://petapixel.com/2026/03/03/shure-mvx2u-gen-2-caters-to-creators-with-xlr-mics/)
-* 🔗 [This neat streaming and vinyl system is a modern take on a classic hi-fi setup – fewer boxes, great sound](https://www.whathifi.com/hi-fi/this-neat-streaming-and-vinyl-system-is-a-modern-take-on-a-classic-hi-fi-setup-fewer-boxes-great-sound)
 * 📚 [Consider Phlebas (Culture, #1) by Iain M. Banks](https://www.amazon.com/dp/B0013TX6FI?tag=harperrules0d-20)
-* 🎵 [Nouh Al Hamam - Maryam Saleh](https://open.spotify.com/track/2E08WCt3osobaycx39px1n)
 * 📚 [The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip by Stephen Witt](https://www.amazon.com/dp/B0D1QFBGQD?tag=harperrules0d-20)
 * 📚 [Wild Tales: A Rock & Roll Life by Graham Nash](https://www.amazon.com/dp/0385347553?tag=harperrules0d-20)
-* 🔗 [The American Resistance](https://www.awritersnotebook.org/p/the-american-resistance)
 <!-- activity ends -->
 
 </td>
