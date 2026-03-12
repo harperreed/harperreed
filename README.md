@@ -23,14 +23,14 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐2
-* [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐4
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦
-* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐4
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐25
 * [2389-research/dotpowers](https://github.com/2389-research/dotpowers) - a superpowers implementation for attractors ⭐1
+* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐5
+* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐2
+* [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐4
+* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐301
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
@@ -143,11 +143,11 @@ As many people have said “it is going to get worse before it gets better.” L
 ### ✍️ Blog
 
 <!-- blog starts -->
+* [My now immaculate knowledge graph of life](https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/)
 * [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/)
 * [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/)
 * [Getting Claude Code to do my emails](https://harper.blog/2025/12/03/claude-code-email-productivity-mcp-agents/)
 * [We Gave Our AI Agents Twitter and Now They're Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
-* [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code/)
 <!-- blog ends -->
 
 </td>
@@ -156,15 +156,15 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #728](https://harper.blog/notes/2026-03-11_d3f1bef6cda5_i-posted-a-fun-post-about-how-/)
+* 🔗 [I hate going backwards!!!](https://dylan.blog/2026/03/10/i-hate-going-backwards.html)
 * 📝 [Note #727](https://harper.blog/notes/2026-03-10_178f9a9cea9b_just-posted-about-dot-files-an/)
 * 🎵 [Sex Life - Tracey](https://open.spotify.com/track/18cS2gM9O0jkVYCBuMsBLq)
 * 🎵 [Jisas Yu Hokem Hand Blong Mi - Ponto de partida & Meninos de Araçuaí](https://open.spotify.com/track/5M4A2yzEwrJMP3YS4veRgj)
 * 🎵 [God Yu Tekem Laef Blong Mi (From "The Thin Red Line" Soundtrack) - Hans Zimmer](https://open.spotify.com/track/4viN4udbeMEUjc2dXRyac9)
 * 🔗 [Rei Kawakubo is searching for the light at Comme des Garçons AW26](https://www.dazeddigital.com/fashion/gallery/36817/0/comme-des-garcons-aw26?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=rei-kawakubo-is-searching-for-the-light-at-comme-des-garcons-aw26)
 * 🔗 [More on Lil Finder Guy](https://512pixels.net/2026/03/more-on-lil-finder-guy/)
-* 🔗 [Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?](https://simonwillison.net/2026/Mar/5/chardet/)
 * 📝 [Note #726](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/)
-* 📝 [Note #725](https://harper.blog/notes/2026-03-05_503f2258ffe0_a-few-more-from-our-friday-jam/)
 * 📚 [Consider Phlebas (Culture, #1) by Iain M. Banks](https://www.amazon.com/dp/B0013TX6FI?tag=harperrules0d-20)
 * 📚 [The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip by Stephen Witt](https://www.amazon.com/dp/B0D1QFBGQD?tag=harperrules0d-20)
 * 📚 [Wild Tales: A Rock & Roll Life by Graham Nash](https://www.amazon.com/dp/0385347553?tag=harperrules0d-20)
