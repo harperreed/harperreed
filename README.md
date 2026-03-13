@@ -24,13 +24,14 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦
+* [2389-research/dotpowers](https://github.com/2389-research/dotpowers) - a superpowers implementation for attractors ⭐1
+* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
+* [2389-research/hex](https://github.com/2389-research/hex) 📦
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐25
-* [2389-research/dotpowers](https://github.com/2389-research/dotpowers) - a superpowers implementation for attractors ⭐1
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐5
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐2
 * [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐4
-* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐301
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/turtle](https://github.com/2389-research/turtle) - TUI app teaching terminal & tmux through gamified spaced-... 📦 ⭐1
 * [2389-research/tux](https://github.com/2389-research/tux) - Multi-language TUI library for multi-agent terminal inter... ⭐1
 * [2389-research/mux-evals](https://github.com/2389-research/mux-evals) - Language-agnostic eval framework for mux implementations
-* [harperreed/resume](https://github.com/harperreed/resume) - Harper's resume ⭐9
 <!-- projects ends -->
 
 </details>
