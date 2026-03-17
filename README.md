@@ -23,20 +23,20 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦
+* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐30
+* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
+* [2389-research/dot-files](https://github.com/2389-research/dot-files)
 * [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐4
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/dotpowers](https://github.com/2389-research/dotpowers) - a superpowers implementation for attractors ⭐2
-* [2389-research/dot-files](https://github.com/2389-research/dot-files)
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐29
-* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
-* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/hex](https://github.com/2389-research/hex) 📦
-* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐5
+* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐6
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐2
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐302
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐303
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
@@ -70,7 +70,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
 * [harperreed/mdvault](https://github.com/harperreed/mdvault)
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐18
-* [harperreed/memory](https://github.com/harperreed/memory) - Go MCP server for HMLR hierarchical memory system with se... 📦 ⭐4
+* [harperreed/memory](https://github.com/harperreed/memory) - Go MCP server for HMLR hierarchical memory system with se... 📦 ⭐5
 * [2389-research/oauth-relay-example](https://github.com/2389-research/oauth-relay-example) - Proof-of-concept: Local stdio MCP server with OAuth 2.1 +...
 * [2389-research/turtle](https://github.com/2389-research/turtle) - TUI app teaching terminal & tmux through gamified spaced-... 📦 ⭐1
 <!-- projects ends -->
