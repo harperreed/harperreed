@@ -23,22 +23,22 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦
-* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra...
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐303
+* [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐30
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦
+* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐1
 * [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
 * [2389-research/dot-files](https://github.com/2389-research/dot-files)
 * [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐4
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/dotpowers](https://github.com/2389-research/dotpowers) - a superpowers implementation for attractors ⭐2
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/hex](https://github.com/2389-research/hex) 📦
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐6
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐2
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐303
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
-* [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
 * [2389-research/soloclaw](https://github.com/2389-research/soloclaw) ⭐2
@@ -156,11 +156,11 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Legs In A Snare - Lip Critic](https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq)
+* 🎵 [Fake ID - XCOMM](https://open.spotify.com/track/5gynEmNec4YKPE1FqFsaWT)
 * 🔗 [Quoting Jannis Leidel](https://simonwillison.net/2026/Mar/14/jannis-leidel/)
 * 🎵 [Nasnusa - Sababa 5](https://open.spotify.com/track/4uAdIp8jiEhlEO6Go6A9as)
 * 🔗 [Oil Shock Hits An Economy Already Showing Cracks](https://politicalwire.com/2026/03/14/oil-shock-hits-an-economy-already-showing-cracks/)
-* 🎵 [Driveway - Destiny Leigh](https://open.spotify.com/track/2BUvGmZUBh7L7G8DvEQz56)
-* 🎵 [吳愛花WU AI-HUA - WU AI-HUA](https://open.spotify.com/track/4zaMKoMwrTsV8bqIUKuLI3)
 * 🔗 [Officials Underestimated War’s Impact on Strait of Hormuz](https://politicalwire.com/2026/03/12/officials-underestimated-wars-impact-on-strait-of-hormuz/)
 * 📝 [Note #728](https://harper.blog/notes/2026-03-11_d3f1bef6cda5_i-posted-a-fun-post-about-how-/)
 * 📝 [Note #727](https://harper.blog/notes/2026-03-10_178f9a9cea9b_just-posted-about-dot-files-an/)
