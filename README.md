@@ -23,27 +23,28 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/hex](https://github.com/2389-research/hex) 📦
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐29
+* [2389-research/nodelife](https://github.com/2389-research/nodelife) 📦 ⭐1
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐305
+* [2389-research/ccut](https://github.com/2389-research/ccut) 📦
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐1
-* [2389-research/nodelife](https://github.com/2389-research/nodelife) 📦
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [2389-research/dot-files](https://github.com/2389-research/dot-files)
 * [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
-* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐2
+* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐3
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/mammoth](https://github.com/2389-research/mammoth) 📦 ⭐4
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐305
 * [2389-research/gorp-rs](https://github.com/2389-research/gorp-rs) 📦 ⭐1
 * [2389-research/dotpowers](https://github.com/2389-research/dotpowers) - a superpowers implementation for attractors ⭐3
-* [2389-research/hex](https://github.com/2389-research/hex) 📦
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐6
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐3
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
-* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
+* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐6
 * [2389-research/soloclaw](https://github.com/2389-research/soloclaw) ⭐2
 * [harperreed/micropub](https://github.com/harperreed/micropub) - Rust CLI for Micropub: create, draft, and publish IndieWe... 📦 ⭐2
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
@@ -64,7 +65,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
 * [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
 * [harperreed/push-cli](https://github.com/harperreed/push-cli) - CLI and MCP server for Pushover notifications - send/rece... 📦 ⭐1
-* [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
+* [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦 ⭐1
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐1
 * [harperreed/mdstore](https://github.com/harperreed/mdstore) - Shared Go library for file-based markdown storage with YA...
 * [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
 * [harperreed/mdvault](https://github.com/harperreed/mdvault)
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐19
-* [harperreed/memory](https://github.com/harperreed/memory) - Go MCP server for HMLR hierarchical memory system with se... 📦 ⭐5
 <!-- projects ends -->
 
 </details>
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Drive - 2017 Remaster - The Cars](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k)
 * 🎵 [You Might Think - The Cars](https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt)
 * 🎵 [shut down entirely - meat computer](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)
-* 🎵 [CRUISING TO SELF SOOTHE - Ecca Vandal](https://open.spotify.com/track/3QEDCbKlBdzEaMmdKUJJvu)
 * 🔗 [No surprises | Japan Daily Briefing](https://observingjapan.substack.com/p/no-surprises-japan-daily-briefing)
 * 🔗 [A Meta agentic AI sparked a security incident by acting without permission](https://www.engadget.com/ai/a-meta-agentic-ai-sparked-a-security-incident-by-acting-without-permission-224013384.html?src=rss)
 * 🔗 [The Aussie Man Who Used AI To Create A Cancer Cure For His Dog](https://www.corememory.com/p/the-aussie-man-who-used-ai-to-create-cancer-therapy-dog-rosie)
