@@ -23,17 +23,19 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/hex](https://github.com/2389-research/hex) 📦
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐29
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐1
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows
+* [2389-research/dot-files](https://github.com/2389-research/dot-files)
+* [2389-research/hex](https://github.com/2389-research/hex) 📦
+* [2389-research/mux](https://github.com/2389-research/mux) ⭐1
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [harperreed/glimpser-go](https://github.com/harperreed/glimpser-go)
 * [2389-research/nodelife](https://github.com/2389-research/nodelife) 📦 ⭐1
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐305
 * [2389-research/ccut](https://github.com/2389-research/ccut) 📦
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐1
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
-* [2389-research/dot-files](https://github.com/2389-research/dot-files)
 * [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐3
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
@@ -48,7 +50,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/soloclaw](https://github.com/2389-research/soloclaw) ⭐2
 * [harperreed/micropub](https://github.com/harperreed/micropub) - Rust CLI for Micropub: create, draft, and publish IndieWe... 📦 ⭐2
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
-* [2389-research/mux](https://github.com/2389-research/mux) ⭐1
 * [2389-research/tcord](https://github.com/2389-research/tcord)
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐3
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐2
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/applereminders](https://github.com/harperreed/applereminders) - Drop-in replacement for reminders-cli using EventKit with... 📦
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
 * [harperreed/mdvault](https://github.com/harperreed/mdvault)
-* [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐19
 <!-- projects ends -->
 
 </details>
@@ -157,6 +157,7 @@ As many people have said “it is going to get worse before it gets better.” L
 
 <!-- activity starts -->
 * 🎵 [Drive - 2017 Remaster - The Cars](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k)
+* 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
 * 🎵 [You Might Think - The Cars](https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt)
 * 🎵 [shut down entirely - meat computer](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)
 * 🔗 [No surprises | Japan Daily Briefing](https://observingjapan.substack.com/p/no-surprises-japan-daily-briefing)
@@ -167,7 +168,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📝 [Note #726](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/)
 * 📚 [Consider Phlebas (Culture, #1) by Iain M. Banks](https://www.amazon.com/dp/B0013TX6FI?tag=harperrules0d-20)
 * 📚 [The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip by Stephen Witt](https://www.amazon.com/dp/B0D1QFBGQD?tag=harperrules0d-20)
-* 📚 [Wild Tales: A Rock & Roll Life by Graham Nash](https://www.amazon.com/dp/0385347553?tag=harperrules0d-20)
 <!-- activity ends -->
 
 </td>
