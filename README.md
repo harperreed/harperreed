@@ -23,15 +23,15 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐29
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐1
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows
-* [2389-research/dot-files](https://github.com/2389-research/dot-files)
-* [2389-research/hex](https://github.com/2389-research/hex) 📦
-* [2389-research/mux](https://github.com/2389-research/mux) ⭐1
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐2
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐2
+* [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐31
+* [2389-research/dot-files](https://github.com/2389-research/dot-files) ⭐1
+* [2389-research/mux](https://github.com/2389-research/mux) ⭐2
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [harperreed/glimpser-go](https://github.com/harperreed/glimpser-go)
-* [2389-research/nodelife](https://github.com/2389-research/nodelife) 📦 ⭐1
+* [2389-research/nodelife](https://github.com/2389-research/nodelife) 📦 ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐305
 * [2389-research/ccut](https://github.com/2389-research/ccut) 📦
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
@@ -51,7 +51,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/micropub](https://github.com/harperreed/micropub) - Rust CLI for Micropub: create, draft, and publish IndieWe... 📦 ⭐2
 * [harperreed/modest-chat](https://github.com/harperreed/modest-chat) - Modest Chat ⭐3
 * [2389-research/tcord](https://github.com/2389-research/tcord)
-* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐3
+* [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐4
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐2
 * [2389-research/coven-openclaw](https://github.com/2389-research/coven-openclaw) - Coven Gateway channel plugin for OpenClaw — gRPC AgentStr... ⭐1
 * [2389-research/agentjj](https://github.com/2389-research/agentjj) - Version Control for AI Agents 📦 ⭐5
