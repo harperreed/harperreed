@@ -24,9 +24,11 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐2
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐2
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐1
+* [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
+* [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐31
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐33
 * [2389-research/dot-files](https://github.com/2389-research/dot-files) ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
@@ -67,12 +69,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
 * [harperreed/push-cli](https://github.com/harperreed/push-cli) - CLI and MCP server for Pushover notifications - send/rece... 📦 ⭐1
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦 ⭐1
-* [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐1
+* [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐2
 * [harperreed/mdstore](https://github.com/harperreed/mdstore) - Shared Go library for file-based markdown storage with YA...
 * [harperreed/orbiting](https://github.com/harperreed/orbiting) - a visual chat app ⭐2
 * [harperreed/applereminders](https://github.com/harperreed/applereminders) - Drop-in replacement for reminders-cli using EventKit with... 📦
-* [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
-* [harperreed/mdvault](https://github.com/harperreed/mdvault)
 <!-- projects ends -->
 
 </details>
