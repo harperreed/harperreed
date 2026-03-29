@@ -23,20 +23,20 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/screensaver](https://github.com/2389-research/screensaver) - A codegen emulating screensaver.  📦
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐2
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐4
-* [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐4
+* [2389-research/screensaver](https://github.com/2389-research/screensaver) - A codegen emulating screensaver.  📦
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐305
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐2
+* [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/fleet-control](https://github.com/2389-research/fleet-control)
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐35
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐36
 * [2389-research/dot-files](https://github.com/2389-research/dot-files) ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
 * [harperreed/glimpser-go](https://github.com/harperreed/glimpser-go)
 * [2389-research/nodelife](https://github.com/2389-research/nodelife) 📦 ⭐2
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐305
 * [2389-research/ccut](https://github.com/2389-research/ccut) 📦
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
@@ -156,10 +156,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [BAILE INoLVIDABLE - Bad Bunny](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2)
 * 🎵 [Drive - 2017 Remaster - The Cars](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k)
 * 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
 * 🎵 [You Might Think - The Cars](https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt)
-* 🎵 [shut down entirely - meat computer](https://open.spotify.com/track/2iDIFn3hIbiwfsLtCggubr)
 * 🔗 [No surprises | Japan Daily Briefing](https://observingjapan.substack.com/p/no-surprises-japan-daily-briefing)
 * 🔗 [A Meta agentic AI sparked a security incident by acting without permission](https://www.engadget.com/ai/a-meta-agentic-ai-sparked-a-security-incident-by-acting-without-permission-224013384.html?src=rss)
 * 🔗 [The Aussie Man Who Used AI To Create A Cancer Cure For His Dog](https://www.corememory.com/p/the-aussie-man-who-used-ai-to-create-cancer-therapy-dog-rosie)
