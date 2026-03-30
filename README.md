@@ -23,6 +23,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐2
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐4
 * [2389-research/screensaver](https://github.com/2389-research/screensaver) - A codegen emulating screensaver.  📦
@@ -71,7 +72,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/coven-proto](https://github.com/2389-research/coven-proto)
 * [harperreed/push-cli](https://github.com/harperreed/push-cli) - CLI and MCP server for Pushover notifications - send/rece... 📦 ⭐1
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦 ⭐1
-* [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐2
 * [harperreed/mdstore](https://github.com/harperreed/mdstore) - Shared Go library for file-based markdown storage with YA...
 <!-- projects ends -->
 
@@ -194,5 +194,5 @@ As many people have said “it is going to get worse before it gets better.” L
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 48.0 years old
+- 👨Age: 48.1 years old
 <!-- age ends --> · he/him · Inspired by [@simonw](https://twitter.com/simonw)'s [self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)</sub>
