@@ -23,16 +23,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐2
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐4
+* [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐2
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐4
 * [2389-research/screensaver](https://github.com/2389-research/screensaver) - A codegen emulating screensaver.  📦
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐305
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐2
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/fleet-control](https://github.com/2389-research/fleet-control)
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
-* [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐36
 * [2389-research/dot-files](https://github.com/2389-research/dot-files) ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
