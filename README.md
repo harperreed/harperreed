@@ -23,9 +23,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐4
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐4
+* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐4
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - Curated plugins for Claude Code ⭐39
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐7
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
-* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐3
 <!-- projects ends -->
 
 </details>
@@ -156,10 +156,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Season of the Shark - Yo La Tengo](https://open.spotify.com/track/3D6eU1flnKl9zr9TamgRbY)
 * 🎵 [BAILE INoLVIDABLE - Bad Bunny](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2)
 * 🎵 [Drive - 2017 Remaster - The Cars](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k)
 * 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
-* 🎵 [You Might Think - The Cars](https://open.spotify.com/track/35wVRTJlUu2kDkqXFegOKt)
 * 🔗 [No surprises | Japan Daily Briefing](https://observingjapan.substack.com/p/no-surprises-japan-daily-briefing)
 * 🔗 [A Meta agentic AI sparked a security incident by acting without permission](https://www.engadget.com/ai/a-meta-agentic-ai-sparked-a-security-incident-by-acting-without-permission-224013384.html?src=rss)
 * 🔗 [The Aussie Man Who Used AI To Create A Cancer Cure For His Dog](https://www.corememory.com/p/the-aussie-man-who-used-ai-to-create-cancer-therapy-dog-rosie)
