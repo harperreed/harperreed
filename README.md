@@ -23,10 +23,11 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
+* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐44
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐47
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐1
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐3
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐3
@@ -50,13 +51,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/firebase-development](https://github.com/2389-research/firebase-development) - Firebase project workflows including setup, features, deb... ⭐2
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐1
-* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐1
+* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐2
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐1
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐1
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐4
-* [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐3
+* [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐4
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐4
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐7
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐8
 * [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐19
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/nodelife](https://github.com/2389-research/nodelife) 📦 ⭐2
 * [2389-research/ccut](https://github.com/2389-research/ccut) - A tiny CLI that shows your Claude Code API usage right in... 📦
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
-* [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 <!-- projects ends -->
 
 </details>
@@ -156,11 +156,11 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Theorem - ear](https://open.spotify.com/track/1aBI7y4ojdL48CSib7vyNr)
+* 🎵 [Doomed - Maphra](https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j)
+* 🎵 [Clube Da Esquina Nº 2 - Milton Nascimento](https://open.spotify.com/track/1sdW2whJr8CLa6bMA67LPQ)
 * 🔗 [When the President threatens to commit a genocide](https://werd.io/when-the-president-threatens-to-commit-a-genocide/)
 * 🔗 [With Trump Threatening a Genocide, Military Must Disobey His Orders, Former Pentagon Officials Say](https://theintercept.com/2026/04/07/trump-iran-civilian-power-plants-bridges/)
-* 🎵 [Season of the Shark - Yo La Tengo](https://open.spotify.com/track/3D6eU1flnKl9zr9TamgRbY)
-* 🎵 [BAILE INoLVIDABLE - Bad Bunny](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2)
-* 🎵 [Drive - 2017 Remaster - The Cars](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k)
 * 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
 * 🔗 [No surprises | Japan Daily Briefing](https://observingjapan.substack.com/p/no-surprises-japan-daily-briefing)
 * 📝 [Note #728](https://harper.blog/notes/2026-03-11_d3f1bef6cda5_i-posted-a-fun-post-about-how-/)
