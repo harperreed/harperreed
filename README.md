@@ -25,9 +25,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐5
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐2
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐5
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐8
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐3
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
@@ -47,7 +48,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... ⭐1
 * [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐1
-* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐1
+* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐2
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐1
 * [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐1
@@ -60,7 +61,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐1
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐1
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐6
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐4
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐5
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐8
 * [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐19
@@ -71,7 +72,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/fleet-control](https://github.com/2389-research/fleet-control)
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
-* [2389-research/dot-files](https://github.com/2389-research/dot-files) ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
 <!-- projects ends -->
 
@@ -156,9 +156,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Marquee Moon - Television](https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd)
+* 🎵 [Kids In America - Kim Wilde](https://open.spotify.com/track/3LaHsdzzmvhx6TJedpomVy)
+* 📚 [Matter (Culture, #8) by Iain M. Banks](https://www.amazon.com/dp/B000VMHI98?tag=harperrules0d-20)
 * 🎵 [where do you go - TCHAKALLA](https://open.spotify.com/track/5txWoqHkGem7y1S1TE4rJN)
-* 🎵 [Theorem - ear](https://open.spotify.com/track/1aBI7y4ojdL48CSib7vyNr)
-* 🎵 [Doomed - Maphra](https://open.spotify.com/track/6uG3lOMamTpecbrxkihC1j)
 * 🔗 [When the President threatens to commit a genocide](https://werd.io/when-the-president-threatens-to-commit-a-genocide/)
 * 🔗 [With Trump Threatening a Genocide, Military Must Disobey His Orders, Former Pentagon Officials Say](https://theintercept.com/2026/04/07/trump-iran-civilian-power-plants-bridges/)
 * 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
@@ -167,7 +168,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📝 [Note #727](https://harper.blog/notes/2026-03-10_178f9a9cea9b_just-posted-about-dot-files-an/)
 * 📝 [Note #726](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/)
 * 📚 [Consider Phlebas (Culture, #1) by Iain M. Banks](https://www.amazon.com/dp/B0013TX6FI?tag=harperrules0d-20)
-* 📚 [The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip by Stephen Witt](https://www.amazon.com/dp/B0D1QFBGQD?tag=harperrules0d-20)
 <!-- activity ends -->
 
 </td>
