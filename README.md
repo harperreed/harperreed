@@ -25,10 +25,11 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐2
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
+* [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐5
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐6
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐8
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐3
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
@@ -68,11 +69,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐4
 * [2389-research/screensaver](https://github.com/2389-research/screensaver) - A codegen emulating screensaver.  📦
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐307
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐308
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/fleet-control](https://github.com/2389-research/fleet-control)
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
-* [2389-research/mux](https://github.com/2389-research/mux) ⭐2
 <!-- projects ends -->
 
 </details>
@@ -156,14 +156,14 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🔗 [Performance Reviews Are the Scorecard of Capitalism (And Why That Should Free You)](https://jeanhsu.substack.com/p/performance-reviews-are-the-scorecard)
+* 🔗 [Heat Waves Are Getting So Brutal That They Just Kill You, Full Stop](https://futurism.com/science-energy/climate-heat-wave-threshold)
+* 🎵 [Sweet Dreams - La Bouche](https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv)
 * 🎵 [Marquee Moon - Television](https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd)
 * 🎵 [Kids In America - Kim Wilde](https://open.spotify.com/track/3LaHsdzzmvhx6TJedpomVy)
 * 📚 [Matter (Culture, #8) by Iain M. Banks](https://www.amazon.com/dp/B000VMHI98?tag=harperrules0d-20)
-* 🎵 [where do you go - TCHAKALLA](https://open.spotify.com/track/5txWoqHkGem7y1S1TE4rJN)
-* 🔗 [When the President threatens to commit a genocide](https://werd.io/when-the-president-threatens-to-commit-a-genocide/)
-* 🔗 [With Trump Threatening a Genocide, Military Must Disobey His Orders, Former Pentagon Officials Say](https://theintercept.com/2026/04/07/trump-iran-civilian-power-plants-bridges/)
+* 🔗 [Installing OpenBSD on the Pomera DM250{,XY?}](https://jcs.org/2026/04/09/openbsd-dm250)
 * 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
-* 🔗 [No surprises | Japan Daily Briefing](https://observingjapan.substack.com/p/no-surprises-japan-daily-briefing)
 * 📝 [Note #728](https://harper.blog/notes/2026-03-11_d3f1bef6cda5_i-posted-a-fun-post-about-how-/)
 * 📝 [Note #727](https://harper.blog/notes/2026-03-10_178f9a9cea9b_just-posted-about-dot-files-an/)
 * 📝 [Note #726](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/)
