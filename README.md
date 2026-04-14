@@ -23,13 +23,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐6
+* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐5
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐310
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐6
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐8
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐3
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
@@ -43,7 +46,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/sysadmin](https://github.com/2389-research/sysadmin) - [meta] system administration: structured Linux maintenanc... ⭐1
 * [2389-research/botboard-biz](https://github.com/2389-research/botboard-biz) - [meta] botboard.biz: social media and journaling capabili... ⭐1
 * [2389-research/better-dev](https://github.com/2389-research/better-dev) - [meta] better development: CSS workflows, Firebase develo... ⭐1
-* [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐1
+* [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐2
 * [2389-research/ceo-personal-os](https://github.com/2389-research/ceo-personal-os) - Personal operating system for executives - reflection fra... ⭐1
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
@@ -62,14 +65,11 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐1
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐1
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐6
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐5
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐8
-* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐19
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐4
 * [2389-research/screensaver](https://github.com/2389-research/screensaver) - A codegen emulating screensaver.  📦
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐308
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/fleet-control](https://github.com/2389-research/fleet-control)
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
@@ -156,13 +156,13 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🔗 [Some Thoughts on Employee Stock Options in 2026](https://bijansabet.com/2026/04/13/some-thoughts-on-employee-stock-options-in-2026/)
 * 🔗 [Performance Reviews Are the Scorecard of Capitalism (And Why That Should Free You)](https://jeanhsu.substack.com/p/performance-reviews-are-the-scorecard)
 * 🔗 [Heat Waves Are Getting So Brutal That They Just Kill You, Full Stop](https://futurism.com/science-energy/climate-heat-wave-threshold)
 * 🎵 [Sweet Dreams - La Bouche](https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv)
 * 🎵 [Marquee Moon - Television](https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd)
 * 🎵 [Kids In America - Kim Wilde](https://open.spotify.com/track/3LaHsdzzmvhx6TJedpomVy)
 * 📚 [Matter (Culture, #8) by Iain M. Banks](https://www.amazon.com/dp/B000VMHI98?tag=harperrules0d-20)
-* 🔗 [Installing OpenBSD on the Pomera DM250{,XY?}](https://jcs.org/2026/04/09/openbsd-dm250)
 * 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
 * 📝 [Note #728](https://harper.blog/notes/2026-03-11_d3f1bef6cda5_i-posted-a-fun-post-about-how-/)
 * 📝 [Note #727](https://harper.blog/notes/2026-03-10_178f9a9cea9b_just-posted-about-dot-files-an/)
