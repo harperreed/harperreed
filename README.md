@@ -24,11 +24,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐6
+* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐4
 * [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐5
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐310
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐6
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐49
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐6
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐311
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
@@ -37,7 +39,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐3
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
 * [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐48
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐1
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐3
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐4
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/screensaver](https://github.com/2389-research/screensaver) - A codegen emulating screensaver.  📦
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/fleet-control](https://github.com/2389-research/fleet-control)
-* [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
 <!-- projects ends -->
 
 </details>
@@ -157,8 +157,8 @@ As many people have said “it is going to get worse before it gets better.” L
 
 <!-- activity starts -->
 * 🔗 [Some Thoughts on Employee Stock Options in 2026](https://bijansabet.com/2026/04/13/some-thoughts-on-employee-stock-options-in-2026/)
-* 🔗 [Performance Reviews Are the Scorecard of Capitalism (And Why That Should Free You)](https://jeanhsu.substack.com/p/performance-reviews-are-the-scorecard)
-* 🔗 [Heat Waves Are Getting So Brutal That They Just Kill You, Full Stop](https://futurism.com/science-energy/climate-heat-wave-threshold)
+* 🔗 [An unflinching photo book about young motherhood, addiction and care](https://www.dazeddigital.com/art-photography/article/70056/1/new-genesis-loose-joints-abdulhamid-kircher-sierra-kiss-photo-book?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=an-unflinching-photo-book-about-young-motherhood-addiction-and-care)
+* 🔗 [The secrets of the Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
 * 🎵 [Sweet Dreams - La Bouche](https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv)
 * 🎵 [Marquee Moon - Television](https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd)
 * 🎵 [Kids In America - Kim Wilde](https://open.spotify.com/track/3LaHsdzzmvhx6TJedpomVy)
