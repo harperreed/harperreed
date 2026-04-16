@@ -23,13 +23,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐4
-* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐6
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐49
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐6
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐7
+* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
+* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐4
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐49
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐8
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐311
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
@@ -52,7 +52,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... ⭐1
-* [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐1
+* [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐2
 * [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐2
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐1
@@ -156,12 +156,12 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Sweet Dreams - La Bouche](https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv)
 * 🔗 [Some Thoughts on Employee Stock Options in 2026](https://bijansabet.com/2026/04/13/some-thoughts-on-employee-stock-options-in-2026/)
 * 🔗 [An unflinching photo book about young motherhood, addiction and care](https://www.dazeddigital.com/art-photography/article/70056/1/new-genesis-loose-joints-abdulhamid-kircher-sierra-kiss-photo-book?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=an-unflinching-photo-book-about-young-motherhood-addiction-and-care)
 * 🔗 [The secrets of the Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
 * 🎵 [Sweet Dreams - La Bouche](https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv)
 * 🎵 [Marquee Moon - Television](https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd)
-* 🎵 [Kids In America - Kim Wilde](https://open.spotify.com/track/3LaHsdzzmvhx6TJedpomVy)
 * 📚 [Matter (Culture, #8) by Iain M. Banks](https://www.amazon.com/dp/B000VMHI98?tag=harperrules0d-20)
 * 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
 * 📝 [Note #728](https://harper.blog/notes/2026-03-11_d3f1bef6cda5_i-posted-a-fun-post-about-how-/)
