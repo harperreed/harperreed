@@ -25,12 +25,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐7
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐311
 * [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐9
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐7
+* [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐4
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐49
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐8
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐311
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
@@ -67,12 +68,11 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐1
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐6
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐8
-* [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐19
+* [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐20
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐4
 * [2389-research/screensaver](https://github.com/2389-research/screensaver) - A codegen emulating screensaver.  📦
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
-* [2389-research/fleet-control](https://github.com/2389-research/fleet-control)
 <!-- projects ends -->
 
 </details>
@@ -156,12 +156,12 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [To Hieron - Dragged Into Sunlight](https://open.spotify.com/track/7wEM9dJsQsaM606SC5A1UB)
 * 🎵 [Sweet Dreams - La Bouche](https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv)
 * 🔗 [Some Thoughts on Employee Stock Options in 2026](https://bijansabet.com/2026/04/13/some-thoughts-on-employee-stock-options-in-2026/)
 * 🔗 [An unflinching photo book about young motherhood, addiction and care](https://www.dazeddigital.com/art-photography/article/70056/1/new-genesis-loose-joints-abdulhamid-kircher-sierra-kiss-photo-book?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=an-unflinching-photo-book-about-young-motherhood-addiction-and-care)
 * 🔗 [The secrets of the Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
 * 🎵 [Sweet Dreams - La Bouche](https://open.spotify.com/track/2wz5weI4PREzpexKfrKgwv)
-* 🎵 [Marquee Moon - Television](https://open.spotify.com/track/7Me0vOSlJfaPY7Pc4GeItd)
 * 📚 [Matter (Culture, #8) by Iain M. Banks](https://www.amazon.com/dp/B000VMHI98?tag=harperrules0d-20)
 * 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
 * 📝 [Note #728](https://harper.blog/notes/2026-03-11_d3f1bef6cda5_i-posted-a-fun-post-about-how-/)
