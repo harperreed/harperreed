@@ -26,12 +26,12 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐7
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐9
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐11
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐312
 * [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐4
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐50
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐51
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [WAGWAN - Central Cee](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip)
 * 🎵 [Souvenirs d'un autre monde - Alcest](https://open.spotify.com/track/1eD8fNbyfyXWrTLokilmEM)
 * 🎵 [EVERYTHING I'VE EVER WANTED - Tiffany Day](https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN)
-* 🎵 [Good Good Things - Six Cents](https://open.spotify.com/track/7vVJjC0altz44tsjBeD9sr)
 * 🔗 [Some Thoughts on Employee Stock Options in 2026](https://bijansabet.com/2026/04/13/some-thoughts-on-employee-stock-options-in-2026/)
 * 🔗 [An unflinching photo book about young motherhood, addiction and care](https://www.dazeddigital.com/art-photography/article/70056/1/new-genesis-loose-joints-abdulhamid-kircher-sierra-kiss-photo-book?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=an-unflinching-photo-book-about-young-motherhood-addiction-and-care)
 * 🔗 [The secrets of the Shinkansen](https://www.worksinprogress.news/p/the-secret-behind-japans-railways)
