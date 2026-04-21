@@ -24,23 +24,24 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐7
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐312
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐11
-* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐7
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
-* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐4
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐52
+* [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐11
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐54
+* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐312
+* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
+* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐4
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐8
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐3
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
-* [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦
-* [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐1
+* [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐3
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐3
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐4
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) ⭐13
@@ -58,7 +59,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐1
 * [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐1
-* [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [2389-research/terminal-title](https://github.com/2389-research/terminal-title) - Automatically updates terminal title with emoji + project... ⭐1
 * [2389-research/firebase-development](https://github.com/2389-research/firebase-development) - Firebase project workflows including setup, features, deb... ⭐2
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
@@ -68,7 +68,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐1
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐6
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐8
-* [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐20
+* [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐21
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐4
 * [2389-research/screensaver](https://github.com/2389-research/screensaver) - A codegen emulating screensaver.  📦
@@ -131,7 +131,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #726](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/image_1.jpg)](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/)
+[![Note #729](https://harper.blog/notes/2026-04-20_13c3a75f022e_got-some-new-speakers-for-my-d/image_1.jpg)](https://harper.blog/notes/2026-04-20_13c3a75f022e_got-some-new-speakers-for-my-d/)
 <!-- photos ends -->
 
 ---
@@ -156,9 +156,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [MindKilla - Gang Gang Dance](https://open.spotify.com/track/6b1ja7rkQz9FUM7x79UH1i)
+* 📝 [Note #729](https://harper.blog/notes/2026-04-20_13c3a75f022e_got-some-new-speakers-for-my-d/)
 * 🎵 [Daydream - Gunter Kallmann Choir](https://open.spotify.com/track/7rdlpVEwdhbCyGz2Wf5r4U)
 * 🎵 [WAGWAN - Central Cee](https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip)
-* 🎵 [Souvenirs d'un autre monde - Alcest](https://open.spotify.com/track/1eD8fNbyfyXWrTLokilmEM)
 * 🔗 [Meet tailscale-rs, our new Rust library preview](https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview)
 * 🔗 [Some Thoughts on Employee Stock Options in 2026](https://bijansabet.com/2026/04/13/some-thoughts-on-employee-stock-options-in-2026/)
 * 🔗 [An unflinching photo book about young motherhood, addiction and care](https://www.dazeddigital.com/art-photography/article/70056/1/new-genesis-loose-joints-abdulhamid-kircher-sierra-kiss-photo-book?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=an-unflinching-photo-book-about-young-motherhood-addiction-and-care)
@@ -166,7 +167,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
 * 📝 [Note #728](https://harper.blog/notes/2026-03-11_d3f1bef6cda5_i-posted-a-fun-post-about-how-/)
 * 📝 [Note #727](https://harper.blog/notes/2026-03-10_178f9a9cea9b_just-posted-about-dot-files-an/)
-* 📝 [Note #726](https://harper.blog/notes/2026-03-05_5e91057f1d8a_made-a-surprise-visit-to-color/)
 * 📚 [Consider Phlebas (Culture, #1) by Iain M. Banks](https://www.amazon.com/dp/B0013TX6FI?tag=harperrules0d-20)
 <!-- activity ends -->
 
