@@ -24,8 +24,8 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐10
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐9
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
@@ -65,7 +65,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/firebase-development](https://github.com/2389-research/firebase-development) - Firebase project workflows including setup, features, deb... ⭐2
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐1
-* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐3
+* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐4
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐1
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐1
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐6
@@ -131,7 +131,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #729](https://harper.blog/notes/2026-04-20_13c3a75f022e_got-some-new-speakers-for-my-d/image_1.jpg)](https://harper.blog/notes/2026-04-20_13c3a75f022e_got-some-new-speakers-for-my-d/)
+[![Note #732](https://harper.blog/notes/2026-04-28_ccdcace189fb_napalm-death-club-quattro-in-s/image_1.jpg)](https://harper.blog/notes/2026-04-28_ccdcace189fb_napalm-death-club-quattro-in-s/)
 <!-- photos ends -->
 
 ---
@@ -156,18 +156,18 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #732](https://harper.blog/notes/2026-04-28_ccdcace189fb_napalm-death-club-quattro-in-s/)
+* 📝 [Note #731](https://harper.blog/notes/2026-04-28_b8b6e4f07b75_merzbow-club-quattro-in-shibuy/)
+* 📝 [Note #730](https://harper.blog/notes/2026-04-28_ddfeda3f5427_growl-of-clown-club-quattro-in/)
 * 🎵 [Love Is Everywhere - Pharoah Sanders](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4)
 * 🎵 [Mã - Tom Zé](https://open.spotify.com/track/2EtSgTPy2alTUYJE1d8ajO)
 * 🎵 [Don't Kill the Vibe - Jordan Joy](https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd)
 * 📚 [The Hydrogen Sonata (Culture, #10) by Iain M. Banks](https://www.amazon.com/dp/B0081BU42O?tag=harperrules0d-20)
 * 🔗 [Michio Kaku calls clustering of dead scientists a national security issue](https://boingboing.net/2026/04/21/michio-kaku-calls-clustering-of-dead-scientists-a-national-security-issue.html)
-* 📝 [Note #729](https://harper.blog/notes/2026-04-20_13c3a75f022e_got-some-new-speakers-for-my-d/)
 * 🔗 [Meet tailscale-rs, our new Rust library preview](https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview)
 * 🔗 [Some Thoughts on Employee Stock Options in 2026](https://bijansabet.com/2026/04/13/some-thoughts-on-employee-stock-options-in-2026/)
 * 📚 [Matter (Culture, #8) by Iain M. Banks](https://www.amazon.com/dp/B000VMHI98?tag=harperrules0d-20)
 * 📚 [Excession by Iain M. Banks](https://www.amazon.com/dp/0316595071?tag=harperrules0d-20)
-* 📝 [Note #728](https://harper.blog/notes/2026-03-11_d3f1bef6cda5_i-posted-a-fun-post-about-how-/)
-* 📝 [Note #727](https://harper.blog/notes/2026-03-10_178f9a9cea9b_just-posted-about-dot-files-an/)
 <!-- activity ends -->
 
 </td>
