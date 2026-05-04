@@ -24,10 +24,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐10
+* [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐9
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
@@ -131,7 +131,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/image_1.jpg)](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
+[![Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/image_1.jpg)](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 <!-- photos ends -->
 
 ---
@@ -156,12 +156,12 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 * 📝 [Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
 * 📚 [Halcyon Years by Alastair Reynolds](https://www.amazon.com/dp/B0FQ5265R5?tag=harperrules0d-20)
 * 📚 [Slow Gods by Claire North](https://www.amazon.com/dp/B0DS9SWQMQ?tag=harperrules0d-20)
 * 🎵 [So Emotional - Whitney Houston](https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv)
 * 📝 [Note #732](https://harper.blog/notes/2026-04-28_ccdcace189fb_napalm-death-club-quattro-in-s/)
-* 📝 [Note #731](https://harper.blog/notes/2026-04-28_b8b6e4f07b75_merzbow-club-quattro-in-shibuy/)
 * 🎵 [Love Is Everywhere - Pharoah Sanders](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4)
 * 🎵 [Mã - Tom Zé](https://open.spotify.com/track/2EtSgTPy2alTUYJE1d8ajO)
 * 📚 [The Hydrogen Sonata (Culture, #10) by Iain M. Banks](https://www.amazon.com/dp/B0081BU42O?tag=harperrules0d-20)
