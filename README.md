@@ -23,23 +23,23 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐10
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐10
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐15
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐58
 * [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦 ⭐1
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐312
-* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐3
-* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐4
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐313
+* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐4
+* [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐5
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐9
@@ -66,7 +66,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/firebase-development](https://github.com/2389-research/firebase-development) - Firebase project workflows including setup, features, deb... ⭐2
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐2
-* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐4
+* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐5
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐1
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐1
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐6
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [You Might Think - From "Cars 2"/Soundtrack Version - Weezer](https://open.spotify.com/track/5tKlIgkTo8QZBVLGkyhEso)
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 * 📝 [Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
 * 📚 [Halcyon Years by Alastair Reynolds](https://www.amazon.com/dp/B0FQ5265R5?tag=harperrules0d-20)
@@ -163,7 +164,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 🎵 [So Emotional - Whitney Houston](https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv)
 * 📝 [Note #732](https://harper.blog/notes/2026-04-28_ccdcace189fb_napalm-death-club-quattro-in-s/)
 * 🎵 [Love Is Everywhere - Pharoah Sanders](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4)
-* 🎵 [Mã - Tom Zé](https://open.spotify.com/track/2EtSgTPy2alTUYJE1d8ajO)
 * 📚 [The Hydrogen Sonata (Culture, #10) by Iain M. Banks](https://www.amazon.com/dp/B0081BU42O?tag=harperrules0d-20)
 * 🔗 [Michio Kaku calls clustering of dead scientists a national security issue](https://boingboing.net/2026/04/21/michio-kaku-calls-clustering-of-dead-scientists-a-national-security-issue.html)
 * 🔗 [Meet tailscale-rs, our new Rust library preview](https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview)
