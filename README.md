@@ -24,20 +24,21 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐314
+* [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
+* [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐10
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐10
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
-* [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐10
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐58
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐59
 * [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦 ⭐1
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐313
 * [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐4
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐5
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
@@ -58,7 +59,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... ⭐1
 * [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐2
-* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐2
+* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐3
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐1
 * [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐2
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐6
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐8
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐23
-* [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 <!-- projects ends -->
 
 </details>
@@ -143,11 +143,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### ✍️ Blog
 
 <!-- blog starts -->
-* [My now immaculate knowledge graph of life](https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/)
-* [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/)
-* [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/)
-* [Getting Claude Code to do my emails](https://harper.blog/2025/12/03/claude-code-email-productivity-mcp-agents/)
-* [We Gave Our AI Agents Twitter and Now They're Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
+*No recent posts*
 <!-- blog ends -->
 
 </td>
@@ -156,15 +152,12 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
-* 🎵 [You Might Think - From "Cars 2"/Soundtrack Version - Weezer](https://open.spotify.com/track/5tKlIgkTo8QZBVLGkyhEso)
+* 📚 [Platform Decay (The Murderbot Diaries #8) by Martha Wells](https://www.amazon.com/dp/B0FMSC5S4W?tag=harperrules0d-20)
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 * 📝 [Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
 * 📚 [Halcyon Years by Alastair Reynolds](https://www.amazon.com/dp/B0FQ5265R5?tag=harperrules0d-20)
 * 📚 [Slow Gods by Claire North](https://www.amazon.com/dp/B0DS9SWQMQ?tag=harperrules0d-20)
-* 🎵 [So Emotional - Whitney Houston](https://open.spotify.com/track/4l2Edgdj4vla02GCh7YyAv)
 * 📝 [Note #732](https://harper.blog/notes/2026-04-28_ccdcace189fb_napalm-death-club-quattro-in-s/)
-* 🎵 [Love Is Everywhere - Pharoah Sanders](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4)
-* 📚 [The Hydrogen Sonata (Culture, #10) by Iain M. Banks](https://www.amazon.com/dp/B0081BU42O?tag=harperrules0d-20)
 * 🔗 [Michio Kaku calls clustering of dead scientists a national security issue](https://boingboing.net/2026/04/21/michio-kaku-calls-clustering-of-dead-scientists-a-national-security-issue.html)
 * 🔗 [Meet tailscale-rs, our new Rust library preview](https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview)
 * 🔗 [Some Thoughts on Employee Stock Options in 2026](https://bijansabet.com/2026/04/13/some-thoughts-on-employee-stock-options-in-2026/)
