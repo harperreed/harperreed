@@ -27,6 +27,8 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
+* [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐314
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐10
@@ -34,7 +36,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐10
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐59
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐1
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐6
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐8
-* [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐23
 <!-- projects ends -->
 
 </details>
@@ -143,7 +143,11 @@ As many people have said “it is going to get worse before it gets better.” L
 ### ✍️ Blog
 
 <!-- blog starts -->
-*No recent posts*
+* [My now immaculate knowledge graph of life](https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/)
+* [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/)
+* [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/)
+* [Getting Claude Code to do my emails](https://harper.blog/2025/12/03/claude-code-email-productivity-mcp-agents/)
+* [We Gave Our AI Agents Twitter and Now They're Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
 <!-- blog ends -->
 
 </td>
@@ -152,6 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [The art of dying - Gojira](https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt)
+* 🎵 [mosi mosi? - 楽音](https://open.spotify.com/track/76oCvJj6LRoed2754GybpH)
+* 🎵 [ぽ - 尾丸ポルカ](https://open.spotify.com/track/0dx3ntI5kOq8gmqwt1kikE)
 * 📚 [Platform Decay (The Murderbot Diaries #8) by Martha Wells](https://www.amazon.com/dp/B0FMSC5S4W?tag=harperrules0d-20)
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 * 📝 [Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
