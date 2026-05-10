@@ -24,15 +24,15 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐314
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
+* [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐314
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐10
-* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐10
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
@@ -156,14 +156,14 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Cannock Chase - Labi Siffre](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)
+* 🎵 [Atabaque Chora - Os Tincoãs](https://open.spotify.com/track/3Oji9n5BcFAzhd7eyogoLA)
+* 📚 [A Hole in The Sky (Arkship Trilogy, #1) by Peter F. Hamilton](https://www.amazon.com/dp/B0F5PJ7F2M?tag=harperrules0d-20)
 * 🎵 [The art of dying - Gojira](https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt)
-* 🎵 [mosi mosi? - 楽音](https://open.spotify.com/track/76oCvJj6LRoed2754GybpH)
-* 🎵 [ぽ - 尾丸ポルカ](https://open.spotify.com/track/0dx3ntI5kOq8gmqwt1kikE)
 * 📚 [Platform Decay (The Murderbot Diaries #8) by Martha Wells](https://www.amazon.com/dp/B0FMSC5S4W?tag=harperrules0d-20)
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 * 📝 [Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
 * 📚 [Halcyon Years by Alastair Reynolds](https://www.amazon.com/dp/B0FQ5265R5?tag=harperrules0d-20)
-* 📚 [Slow Gods by Claire North](https://www.amazon.com/dp/B0DS9SWQMQ?tag=harperrules0d-20)
 * 📝 [Note #732](https://harper.blog/notes/2026-04-28_ccdcace189fb_napalm-death-club-quattro-in-s/)
 * 🔗 [Michio Kaku calls clustering of dead scientists a national security issue](https://boingboing.net/2026/04/21/michio-kaku-calls-clustering-of-dead-scientists-a-national-security-issue.html)
 * 🔗 [Meet tailscale-rs, our new Rust library preview](https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview)
