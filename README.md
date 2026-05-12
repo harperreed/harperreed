@@ -24,14 +24,14 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐11
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐10
-* [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
+* [2389-research/barnstormer](https://github.com/2389-research/barnstormer)
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐314
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐10
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🔗 [Checkmate in Iran](https://www.theatlantic.com/international/2026/05/iran-war-trump-losing/687094/?utm_source=feed)
 * 🎵 [Cannock Chase - Labi Siffre](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)
 * 🎵 [Atabaque Chora - Os Tincoãs](https://open.spotify.com/track/3Oji9n5BcFAzhd7eyogoLA)
 * 📚 [A Hole in The Sky (Arkship Trilogy, #1) by Peter F. Hamilton](https://www.amazon.com/dp/B0F5PJ7F2M?tag=harperrules0d-20)
@@ -167,7 +168,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📝 [Note #732](https://harper.blog/notes/2026-04-28_ccdcace189fb_napalm-death-club-quattro-in-s/)
 * 🔗 [Michio Kaku calls clustering of dead scientists a national security issue](https://boingboing.net/2026/04/21/michio-kaku-calls-clustering-of-dead-scientists-a-national-security-issue.html)
 * 🔗 [Meet tailscale-rs, our new Rust library preview](https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview)
-* 🔗 [Some Thoughts on Employee Stock Options in 2026](https://bijansabet.com/2026/04/13/some-thoughts-on-employee-stock-options-in-2026/)
 <!-- activity ends -->
 
 </td>
