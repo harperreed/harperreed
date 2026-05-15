@@ -23,15 +23,15 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐9
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐11
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐59
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
+* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐9
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐59
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐317
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
@@ -71,7 +71,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐6
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐1
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐1
-* [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐6
+* [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐7
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐8
 <!-- projects ends -->
 
@@ -131,7 +131,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/image_1.jpg)](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
+[![Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/image_1.jpg)](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
 <!-- photos ends -->
 
 ---
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
 * 🔗 [Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/12/mitchell-hashimoto/)
 * 🔗 [Checkmate in Iran](https://www.theatlantic.com/international/2026/05/iran-war-trump-losing/687094/?utm_source=feed)
 * 🎵 [Cannock Chase - Labi Siffre](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)
@@ -166,7 +167,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 * 📝 [Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
 * 📚 [Halcyon Years by Alastair Reynolds](https://www.amazon.com/dp/B0FQ5265R5?tag=harperrules0d-20)
-* 📝 [Note #732](https://harper.blog/notes/2026-04-28_ccdcace189fb_napalm-death-club-quattro-in-s/)
 * 🔗 [Michio Kaku calls clustering of dead scientists a national security issue](https://boingboing.net/2026/04/21/michio-kaku-calls-clustering-of-dead-scientists-a-national-security-issue.html)
 <!-- activity ends -->
 
