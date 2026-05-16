@@ -23,16 +23,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐3
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐9
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐59
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐317
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐60
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐318
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐10
@@ -52,7 +52,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) ⭐13
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐4
 * [2389-research/sysadmin](https://github.com/2389-research/sysadmin) - [meta] system administration: structured Linux maintenanc... ⭐1
-* [2389-research/botboard-biz](https://github.com/2389-research/botboard-biz) - [meta] botboard.biz: social media and journaling capabili... ⭐1
+* [2389-research/botboard-biz](https://github.com/2389-research/botboard-biz) - [meta] botboard.biz: social media and journaling capabili... ⭐2
 * [2389-research/better-dev](https://github.com/2389-research/better-dev) - [meta] better development: CSS workflows, Firebase develo... ⭐1
 * [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐3
 * [2389-research/ceo-personal-os](https://github.com/2389-research/ceo-personal-os) - Personal operating system for executives - reflection fra... ⭐1
@@ -156,18 +156,18 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Sexy Nana - Aya Nakamura](https://open.spotify.com/track/0at2jRhqZ9lhzEILevQxkZ)
+* 🎵 [Vitamina - Alanis Yuki](https://open.spotify.com/track/0rY6P8tHnUs2b3Vr9F3sWe)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
 * 🔗 [Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/12/mitchell-hashimoto/)
+* 🔗 [The History of Altec Lansing](https://hackaday.com/2026/05/12/the-history-of-altec-lansing/)
 * 🔗 [Checkmate in Iran](https://www.theatlantic.com/international/2026/05/iran-war-trump-losing/687094/?utm_source=feed)
 * 🎵 [Cannock Chase - Labi Siffre](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)
-* 🎵 [Atabaque Chora - Os Tincoãs](https://open.spotify.com/track/3Oji9n5BcFAzhd7eyogoLA)
 * 📚 [A Hole in The Sky (Arkship Trilogy, #1) by Peter F. Hamilton](https://www.amazon.com/dp/B0F5PJ7F2M?tag=harperrules0d-20)
-* 🎵 [The art of dying - Gojira](https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt)
 * 📚 [Platform Decay (The Murderbot Diaries #8) by Martha Wells](https://www.amazon.com/dp/B0FMSC5S4W?tag=harperrules0d-20)
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 * 📝 [Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
 * 📚 [Halcyon Years by Alastair Reynolds](https://www.amazon.com/dp/B0FQ5265R5?tag=harperrules0d-20)
-* 🔗 [Michio Kaku calls clustering of dead scientists a national security issue](https://boingboing.net/2026/04/21/michio-kaku-calls-clustering-of-dead-scientists-a-national-security-issue.html)
 <!-- activity ends -->
 
 </td>
