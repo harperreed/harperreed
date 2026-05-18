@@ -23,9 +23,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
-* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
@@ -45,7 +45,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐5
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
-* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐3
+* [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐4
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐3
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐4
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🔗 [Closer on Paper Beta Readers Wanted!](https://dylan.blog/2026/05/16/closer-on-paper-beta-readers.html)
 * 🎵 [TINIEBLA - Pumpky](https://open.spotify.com/track/75Ci0jUY2QPYZbzBstAqL5)
 * 🎵 [HIGH SPEED - Natia](https://open.spotify.com/track/3O0uDencluhcwEJ1CWMPC5)
 * 🎵 [ex;curse velvet - aisagasu eye shadow](https://open.spotify.com/track/4T58vTYZygowawhOw2QVWY)
@@ -163,7 +164,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📚 [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John  Green](https://www.amazon.com/dp/B0DJX3VP68?tag=harperrules0d-20)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
 * 🔗 [Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/12/mitchell-hashimoto/)
-* 🔗 [The History of Altec Lansing](https://hackaday.com/2026/05/12/the-history-of-altec-lansing/)
 * 📚 [A Hole in The Sky (Arkship Trilogy, #1) by Peter F. Hamilton](https://www.amazon.com/dp/B0F5PJ7F2M?tag=harperrules0d-20)
 * 📚 [Platform Decay (The Murderbot Diaries #8) by Martha Wells](https://www.amazon.com/dp/B0FMSC5S4W?tag=harperrules0d-20)
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
