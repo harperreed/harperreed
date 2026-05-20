@@ -23,15 +23,19 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
+* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐60
+* [2389-research/sprint-ledger-browser](https://github.com/2389-research/sprint-ledger-browser) - Terminal UI for browsing AI sprint ledger files
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐9
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐60
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐319
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
@@ -46,7 +50,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐4
-* [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐3
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐4
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) ⭐13
@@ -70,9 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐3
 * [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐6
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐2
-* [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐2
-* [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐7
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐8
 <!-- projects ends -->
 
 </details>
