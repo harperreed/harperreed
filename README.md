@@ -23,16 +23,18 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐11
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐62
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
+* [harperreed/pixel-briefing](https://github.com/harperreed/pixel-briefing)
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [2389-research/sprint-ledger-browser](https://github.com/2389-research/sprint-ledger-browser) - Terminal UI for browsing AI sprint ledger files
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐62
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐16
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
@@ -40,7 +42,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐319
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
-* [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐11
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐3
 * [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐6
-* [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐2
 <!-- projects ends -->
 
 </details>
@@ -156,16 +156,16 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [The Third Song Without Lyrics Again - Kendall P](https://open.spotify.com/track/0r2SId33ErW16p5YOg1lSc)
+* 📚 [A Parade of Horribles (Dungeon Crawler Carl, #8) by Matt Dinniman](https://www.amazon.com/dp/B0GJJDXG4L?tag=harperrules0d-20)
 * 🔗 [Closer on Paper Beta Readers Wanted!](https://dylan.blog/2026/05/16/closer-on-paper-beta-readers.html)
 * 🎵 [TINIEBLA - Pumpky](https://open.spotify.com/track/75Ci0jUY2QPYZbzBstAqL5)
 * 🎵 [HIGH SPEED - Natia](https://open.spotify.com/track/3O0uDencluhcwEJ1CWMPC5)
-* 🎵 [ex;curse velvet - aisagasu eye shadow](https://open.spotify.com/track/4T58vTYZygowawhOw2QVWY)
 * 🔗 [Where Is Everybody](https://www.todayintabs.com/p/where-is-everybody)
 * 📚 [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John  Green](https://www.amazon.com/dp/B0DJX3VP68?tag=harperrules0d-20)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
 * 🔗 [Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/12/mitchell-hashimoto/)
 * 📚 [A Hole in The Sky (Arkship Trilogy, #1) by Peter F. Hamilton](https://www.amazon.com/dp/B0F5PJ7F2M?tag=harperrules0d-20)
-* 📚 [Platform Decay (The Murderbot Diaries #8) by Martha Wells](https://www.amazon.com/dp/B0FMSC5S4W?tag=harperrules0d-20)
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 * 📝 [Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
 <!-- activity ends -->
