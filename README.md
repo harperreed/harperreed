@@ -23,8 +23,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/mux](https://github.com/2389-research/mux) ⭐2
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐11
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐63
@@ -43,7 +44,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
-* [2389-research/mux](https://github.com/2389-research/mux) ⭐2
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦 ⭐1
 * [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐4
