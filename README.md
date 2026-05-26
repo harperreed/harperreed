@@ -29,7 +29,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐11
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐63
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐17
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐18
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) ⭐4
