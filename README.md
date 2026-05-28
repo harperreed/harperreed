@@ -23,25 +23,25 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐319
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐18
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
+* [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐64
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/terminal-title](https://github.com/2389-research/terminal-title) - Automatically updates terminal title with emoji + project... ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐11
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐63
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
 * [harperreed/pixel-briefing](https://github.com/harperreed/pixel-briefing)
-* [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [2389-research/sprint-ledger-browser](https://github.com/2389-research/sprint-ledger-browser) - Terminal UI for browsing AI sprint ledger files
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐9
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐319
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🔗 [Twenty-Four-Seven: Christine Sun Kim Transforms Language at the Walker Art Center](https://art.newcity.com/2026/05/26/twenty-four-seven-christine-sun-kim-transforms-language-at-the-walker-art-center/)
 * 🎵 [Dammit (After Dark) - Dead On A Sunday](https://open.spotify.com/track/1K65KZUE4H4g0Vl1AuhJKR)
 * 🎵 [The Unknowing - Jfarrari](https://open.spotify.com/track/4IydMf0i20TL6et0yBg29n)
 * 🎵 [The Third Song Without Lyrics Again - Kendall P](https://open.spotify.com/track/0r2SId33ErW16p5YOg1lSc)
@@ -164,7 +165,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 🔗 [Where Is Everybody](https://www.todayintabs.com/p/where-is-everybody)
 * 📚 [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John  Green](https://www.amazon.com/dp/B0DJX3VP68?tag=harperrules0d-20)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
-* 🔗 [Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/12/mitchell-hashimoto/)
 * 📚 [A Hole in The Sky (Arkship Trilogy, #1) by Peter F. Hamilton](https://www.amazon.com/dp/B0F5PJ7F2M?tag=harperrules0d-20)
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 * 📝 [Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
