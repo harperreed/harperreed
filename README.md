@@ -23,25 +23,26 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐319
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐18
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
-* [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
+* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
+* [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐64
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐12
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐319
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
+* [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [2389-research/terminal-title](https://github.com/2389-research/terminal-title) - Automatically updates terminal title with emoji + project... ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
-* [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐11
-* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
 * [harperreed/pixel-briefing](https://github.com/harperreed/pixel-briefing)
 * [2389-research/sprint-ledger-browser](https://github.com/2389-research/sprint-ledger-browser) - Terminal UI for browsing AI sprint ledger files
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
-* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐9
+* [2389-research/jeff](https://github.com/2389-research/jeff) 📦
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
@@ -55,7 +56,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐3
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐4
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) ⭐13
-* [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐4
+* [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐5
 * [2389-research/sysadmin](https://github.com/2389-research/sysadmin) - [meta] system administration: structured Linux maintenanc... ⭐1
 * [2389-research/botboard-biz](https://github.com/2389-research/botboard-biz) - [meta] botboard.biz: social media and journaling capabili... ⭐2
 * [2389-research/better-dev](https://github.com/2389-research/better-dev) - [meta] better development: CSS workflows, Firebase develo... ⭐1
@@ -65,14 +66,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... ⭐1
 * [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐2
-* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐3
+* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐4
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐1
 * [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐2
 * [2389-research/firebase-development](https://github.com/2389-research/firebase-development) - Firebase project workflows including setup, features, deb... ⭐2
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐3
-* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐7
 <!-- projects ends -->
 
 </details>
@@ -156,10 +156,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Head Over Heels - Tears For Fears](https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt)
 * 🔗 [Twenty-Four-Seven: Christine Sun Kim Transforms Language at the Walker Art Center](https://art.newcity.com/2026/05/26/twenty-four-seven-christine-sun-kim-transforms-language-at-the-walker-art-center/)
 * 🎵 [Dammit (After Dark) - Dead On A Sunday](https://open.spotify.com/track/1K65KZUE4H4g0Vl1AuhJKR)
 * 🎵 [The Unknowing - Jfarrari](https://open.spotify.com/track/4IydMf0i20TL6et0yBg29n)
-* 🎵 [The Third Song Without Lyrics Again - Kendall P](https://open.spotify.com/track/0r2SId33ErW16p5YOg1lSc)
 * 📚 [A Parade of Horribles (Dungeon Crawler Carl, #8) by Matt Dinniman](https://www.amazon.com/dp/B0GJJDXG4L?tag=harperrules0d-20)
 * 🔗 [Closer on Paper Beta Readers Wanted!](https://dylan.blog/2026/05/16/closer-on-paper-beta-readers.html)
 * 🔗 [Where Is Everybody](https://www.todayintabs.com/p/where-is-everybody)
