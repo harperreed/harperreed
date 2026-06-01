@@ -24,9 +24,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐18
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐64
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
@@ -156,13 +156,13 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🔗 [The Premise: The Lead User and the Machines That Build Machines](https://feld.com/archives/2026/05/the-premise-lead-user-machines-that-build-machines/)
+* 🔗 [Hyde Park Academy Students Slam School For Ending ‘Peace Room’ Partnership Amid Tragedies](https://blockclubchicago.org/2026/05/29/struggling-hyde-park-academy-students-slam-school-for-removing-peace-room-amid-recent-tragedies/)
 * 🎵 [Head Over Heels - Tears For Fears](https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt)
 * 🔗 [Twenty-Four-Seven: Christine Sun Kim Transforms Language at the Walker Art Center](https://art.newcity.com/2026/05/26/twenty-four-seven-christine-sun-kim-transforms-language-at-the-walker-art-center/)
 * 🎵 [Dammit (After Dark) - Dead On A Sunday](https://open.spotify.com/track/1K65KZUE4H4g0Vl1AuhJKR)
 * 🎵 [The Unknowing - Jfarrari](https://open.spotify.com/track/4IydMf0i20TL6et0yBg29n)
 * 📚 [A Parade of Horribles (Dungeon Crawler Carl, #8) by Matt Dinniman](https://www.amazon.com/dp/B0GJJDXG4L?tag=harperrules0d-20)
-* 🔗 [Closer on Paper Beta Readers Wanted!](https://dylan.blog/2026/05/16/closer-on-paper-beta-readers.html)
-* 🔗 [Where Is Everybody](https://www.todayintabs.com/p/where-is-everybody)
 * 📚 [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John  Green](https://www.amazon.com/dp/B0DJX3VP68?tag=harperrules0d-20)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
 * 📚 [A Hole in The Sky (Arkship Trilogy, #1) by Peter F. Hamilton](https://www.amazon.com/dp/B0F5PJ7F2M?tag=harperrules0d-20)
