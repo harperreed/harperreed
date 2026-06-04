@@ -23,20 +23,20 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐13
+* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐18
-* [2389-research/atelier](https://github.com/2389-research/atelier) - Tiered-delegation task execution for Claude Code: strong ...
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐13
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐64
+* [2389-research/atelier](https://github.com/2389-research/atelier) - Tiered-delegation task execution for Claude Code: strong ...
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
-* [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... 📦 ⭐1
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐321
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐322
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [2389-research/terminal-title](https://github.com/2389-research/terminal-title) - Automatically updates terminal title with emoji + project... ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
@@ -56,8 +56,8 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐4
-* [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐3
-* [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐4
+* [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐2
+* [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐3
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) ⭐13
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐5
 * [2389-research/sysadmin](https://github.com/2389-research/sysadmin) - [meta] system administration: structured Linux maintenanc... ⭐1
@@ -156,12 +156,12 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Stabat Mater, RV 621: I. Stabat Mater dolorosa - Antonio Vivaldi](https://open.spotify.com/track/2X7mzzBc26O9VVxzCCHf5t)
+* 🎵 [Uncle John's Band - 2001 Remaster - Grateful Dead](https://open.spotify.com/track/7u5z9aFslubb9gBZOzSa1Y)
+* 🎵 [Praying Mantis - Reble](https://open.spotify.com/track/7lLYgsbbYZUHD3ykhe8zFd)
 * 🔗 [The Premise: The Lead User and the Machines That Build Machines](https://feld.com/archives/2026/05/the-premise-lead-user-machines-that-build-machines/)
 * 🔗 [Hyde Park Academy Students Slam School For Ending ‘Peace Room’ Partnership Amid Tragedies](https://blockclubchicago.org/2026/05/29/struggling-hyde-park-academy-students-slam-school-for-removing-peace-room-amid-recent-tragedies/)
-* 🎵 [Head Over Heels - Tears For Fears](https://open.spotify.com/track/0aF9m87P8Tja3NUMv4DfHt)
 * 🔗 [Twenty-Four-Seven: Christine Sun Kim Transforms Language at the Walker Art Center](https://art.newcity.com/2026/05/26/twenty-four-seven-christine-sun-kim-transforms-language-at-the-walker-art-center/)
-* 🎵 [Dammit (After Dark) - Dead On A Sunday](https://open.spotify.com/track/1K65KZUE4H4g0Vl1AuhJKR)
-* 🎵 [The Unknowing - Jfarrari](https://open.spotify.com/track/4IydMf0i20TL6et0yBg29n)
 * 📚 [A Parade of Horribles (Dungeon Crawler Carl, #8) by Matt Dinniman](https://www.amazon.com/dp/B0GJJDXG4L?tag=harperrules0d-20)
 * 📚 [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John  Green](https://www.amazon.com/dp/B0DJX3VP68?tag=harperrules0d-20)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
