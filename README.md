@@ -26,6 +26,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐13
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐18
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐9
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
@@ -37,7 +38,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐323
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
 * [2389-research/terminal-title](https://github.com/2389-research/terminal-title) - Automatically updates terminal title with emoji + project... ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) ⭐2
@@ -52,7 +52,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦 ⭐2
-* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐5
+* [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐6
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐5
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🔗 [Cyberdecks used to look like little laptops, but now they’re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
+* 🔗 [The Black Photographers Who Exposed My Own Brainwashing](https://hyperallergic.com/even-conditioning-of-black-beauty-has-been-conditioned/)
 * 🔗 [The Real McCoy’s Edition](https://whyisthisinteresting.substack.com/p/the-real-mccoys-edition)
-* 🔗 [In pictures: The beauty routines of Tokyo’s Gyaru and Otaku girls](https://www.dazeddigital.com/beauty/article/70373/1/maximalist-beauty-looks-bedrooms-tokyos-gyaru-otaku-girls-japan-subculture?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=in-pictures-the-beauty-routines-of-tokyo-s-gyaru-and-otaku-girls)
-* 🔗 [How to manage your privacy on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-manage-your-privacy-on-iphone-and-ipad?utm_source=rss)
 * 🎵 [Stabat Mater, RV 621: I. Stabat Mater dolorosa - Antonio Vivaldi](https://open.spotify.com/track/2X7mzzBc26O9VVxzCCHf5t)
 * 🎵 [Uncle John's Band - 2001 Remaster - Grateful Dead](https://open.spotify.com/track/7u5z9aFslubb9gBZOzSa1Y)
 * 🎵 [Praying Mantis - Reble](https://open.spotify.com/track/7lLYgsbbYZUHD3ykhe8zFd)
