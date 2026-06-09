@@ -23,18 +23,19 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐18
+* [2389-research/mux](https://github.com/2389-research/mux) ⭐2
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐14
+* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
+* [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
-* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
-* [2389-research/mux](https://github.com/2389-research/mux) ⭐2
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐13
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐18
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐9
 * [2389-research/atelier](https://github.com/2389-research/atelier) - Tiered-delegation task execution for Claude Code: strong ...
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐65
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐66
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... 📦 ⭐1
@@ -65,14 +66,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/botboard-biz](https://github.com/2389-research/botboard-biz) - [meta] botboard.biz: social media and journaling capabili... ⭐2
 * [2389-research/better-dev](https://github.com/2389-research/better-dev) - [meta] better development: CSS workflows, Firebase develo... ⭐1
 * [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐3
-* [2389-research/ceo-personal-os](https://github.com/2389-research/ceo-personal-os) - Personal operating system for executives - reflection fra... ⭐1
+* [2389-research/ceo-personal-os](https://github.com/2389-research/ceo-personal-os) - Personal operating system for executives - reflection fra... ⭐2
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
 * [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐2
 * [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐4
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐1
-* [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐2
 <!-- projects ends -->
 
 </details>
@@ -156,12 +156,12 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [RUN - SEUNG](https://open.spotify.com/track/04lstvqbiDDdlQFlhPnHg2)
 * 🔗 [Cyberdecks used to look like little laptops, but now they’re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
 * 🔗 [The Black Photographers Who Exposed My Own Brainwashing](https://hyperallergic.com/even-conditioning-of-black-beauty-has-been-conditioned/)
 * 🔗 [The Real McCoy’s Edition](https://whyisthisinteresting.substack.com/p/the-real-mccoys-edition)
 * 🎵 [Stabat Mater, RV 621: I. Stabat Mater dolorosa - Antonio Vivaldi](https://open.spotify.com/track/2X7mzzBc26O9VVxzCCHf5t)
 * 🎵 [Uncle John's Band - 2001 Remaster - Grateful Dead](https://open.spotify.com/track/7u5z9aFslubb9gBZOzSa1Y)
-* 🎵 [Praying Mantis - Reble](https://open.spotify.com/track/7lLYgsbbYZUHD3ykhe8zFd)
 * 📚 [A Parade of Horribles (Dungeon Crawler Carl, #8) by Matt Dinniman](https://www.amazon.com/dp/B0GJJDXG4L?tag=harperrules0d-20)
 * 📚 [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John  Green](https://www.amazon.com/dp/B0DJX3VP68?tag=harperrules0d-20)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
