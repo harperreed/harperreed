@@ -23,18 +23,18 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐19
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
-* [2389-research/jeff](https://github.com/2389-research/jeff) 📦 ⭐1
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐14
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐67
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐19
 * [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐3
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐69
+* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
+* [2389-research/jeff](https://github.com/2389-research/jeff) 📦 ⭐1
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐9
 * [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐2
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
@@ -156,13 +156,13 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [lover girl - Hanna](https://open.spotify.com/track/2xtlPdXGogqZdNaDLWSLJ2)
 * 🎵 [RUN - SEUNG](https://open.spotify.com/track/04lstvqbiDDdlQFlhPnHg2)
 * 📚 [Loud and Clear: The Grateful Dead’s Wall of Sound and the Quest for Audio Perfection by Brian             Anderson](https://www.amazon.com/dp/B0CW1GS6G2?tag=harperrules0d-20)
 * 🔗 [Cyberdecks used to look like little laptops, but now they’re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
 * 🔗 [The Black Photographers Who Exposed My Own Brainwashing](https://hyperallergic.com/even-conditioning-of-black-beauty-has-been-conditioned/)
 * 🔗 [The Real McCoy’s Edition](https://whyisthisinteresting.substack.com/p/the-real-mccoys-edition)
 * 🎵 [Stabat Mater, RV 621: I. Stabat Mater dolorosa - Antonio Vivaldi](https://open.spotify.com/track/2X7mzzBc26O9VVxzCCHf5t)
-* 🎵 [Uncle John's Band - 2001 Remaster - Grateful Dead](https://open.spotify.com/track/7u5z9aFslubb9gBZOzSa1Y)
 * 📚 [A Parade of Horribles (Dungeon Crawler Carl, #8) by Matt Dinniman](https://www.amazon.com/dp/B0GJJDXG4L?tag=harperrules0d-20)
 * 📚 [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John  Green](https://www.amazon.com/dp/B0DJX3VP68?tag=harperrules0d-20)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
@@ -194,5 +194,5 @@ As many people have said “it is going to get worse before it gets better.” L
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 48.2 years old
+- 👨Age: 48.3 years old
 <!-- age ends --> · he/him · Inspired by [@simonw](https://twitter.com/simonw)'s [self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)</sub>
