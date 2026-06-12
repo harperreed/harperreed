@@ -25,11 +25,12 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐14
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐19
-* [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐3
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐69
+* [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
+* [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐3
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [2389-research/jeff](https://github.com/2389-research/jeff) 📦 ⭐1
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐9
@@ -47,7 +48,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐12
 * [harperreed/pixel-briefing](https://github.com/harperreed/pixel-briefing)
 * [2389-research/sprint-ledger-browser](https://github.com/2389-research/sprint-ledger-browser) - Terminal UI for browsing AI sprint ledger files
-* [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐9
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
@@ -70,7 +70,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
 * [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐2
-* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐4
+* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐5
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐1
 <!-- projects ends -->
@@ -131,7 +131,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/image_1.jpg)](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
+[![Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/image_1.jpg)](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
 <!-- photos ends -->
 
 ---
@@ -156,18 +156,18 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Delete It - MSPAINT](https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ)
+* 🎵 [Heavy Head - Sidestep](https://open.spotify.com/track/3VB3DFkVXzecY6pdSnwrY1)
+* 📝 [Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
 * 🎵 [lover girl - Hanna](https://open.spotify.com/track/2xtlPdXGogqZdNaDLWSLJ2)
-* 🎵 [RUN - SEUNG](https://open.spotify.com/track/04lstvqbiDDdlQFlhPnHg2)
 * 📚 [Loud and Clear: The Grateful Dead’s Wall of Sound and the Quest for Audio Perfection by Brian             Anderson](https://www.amazon.com/dp/B0CW1GS6G2?tag=harperrules0d-20)
 * 🔗 [Cyberdecks used to look like little laptops, but now they’re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
 * 🔗 [The Black Photographers Who Exposed My Own Brainwashing](https://hyperallergic.com/even-conditioning-of-black-beauty-has-been-conditioned/)
 * 🔗 [The Real McCoy’s Edition](https://whyisthisinteresting.substack.com/p/the-real-mccoys-edition)
-* 🎵 [Stabat Mater, RV 621: I. Stabat Mater dolorosa - Antonio Vivaldi](https://open.spotify.com/track/2X7mzzBc26O9VVxzCCHf5t)
 * 📚 [A Parade of Horribles (Dungeon Crawler Carl, #8) by Matt Dinniman](https://www.amazon.com/dp/B0GJJDXG4L?tag=harperrules0d-20)
 * 📚 [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John  Green](https://www.amazon.com/dp/B0DJX3VP68?tag=harperrules0d-20)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
-* 📝 [Note #733](https://harper.blog/notes/2026-05-02_c4bd1d0531dd_quite-a-change-of-locale-also-/)
 <!-- activity ends -->
 
 </td>
