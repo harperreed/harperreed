@@ -23,15 +23,15 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐14
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐19
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
+* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐69
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐3
-* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [2389-research/jeff](https://github.com/2389-research/jeff) 📦 ⭐1
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐9
 * [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦
@@ -65,7 +65,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/sysadmin](https://github.com/2389-research/sysadmin) - [meta] system administration: structured Linux maintenanc... ⭐1
 * [2389-research/botboard-biz](https://github.com/2389-research/botboard-biz) - [meta] botboard.biz: social media and journaling capabili... ⭐2
 * [2389-research/better-dev](https://github.com/2389-research/better-dev) - [meta] better development: CSS workflows, Firebase develo... ⭐1
-* [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐3
+* [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐4
 * [2389-research/ceo-personal-os](https://github.com/2389-research/ceo-personal-os) - Personal operating system for executives - reflection fra... ⭐2
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
