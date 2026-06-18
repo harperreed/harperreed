@@ -24,17 +24,17 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐19
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐14
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐15
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐19
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐73
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐325
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐72
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
-* [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐4
-* [2389-research/jeff](https://github.com/2389-research/jeff) 📦 ⭐1
+* [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐5
+* [2389-research/jeff](https://github.com/2389-research/jeff) 📦 ⭐2
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐9
 * [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📚 [Taiwan Travelogue by Yáng Shuāng-zǐ](https://www.amazon.com/dp/1644453169?tag=harperrules0d-20)
 * 🎵 [Careless Whisper - George Michael](https://open.spotify.com/track/5WDLRQ3VCdVrKw0njWe5E5)
 * 🎵 [Delete It - MSPAINT](https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ)
 * 🎵 [Heavy Head - Sidestep](https://open.spotify.com/track/3VB3DFkVXzecY6pdSnwrY1)
@@ -165,7 +166,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 🔗 [The Black Photographers Who Exposed My Own Brainwashing](https://hyperallergic.com/even-conditioning-of-black-beauty-has-been-conditioned/)
 * 🔗 [The Real McCoy’s Edition](https://whyisthisinteresting.substack.com/p/the-real-mccoys-edition)
 * 📚 [A Parade of Horribles (Dungeon Crawler Carl, #8) by Matt Dinniman](https://www.amazon.com/dp/B0GJJDXG4L?tag=harperrules0d-20)
-* 📚 [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection by John  Green](https://www.amazon.com/dp/B0DJX3VP68?tag=harperrules0d-20)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
 * 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 <!-- activity ends -->
