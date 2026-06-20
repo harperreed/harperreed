@@ -23,15 +23,15 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐19
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐15
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐73
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐325
-* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐5
 * [2389-research/jeff](https://github.com/2389-research/jeff) 📦 ⭐2
@@ -156,10 +156,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Ain't Nobody - Remix Edit - Rufus](https://open.spotify.com/track/0kAPPlfWJ2b9vgsmmg5Xtq)
+* 🎵 [Blow Ya Mind - I LOVE AMERICA - KOJI 1200](https://open.spotify.com/track/6trvaDXBzIzvJ9OR3lFJng)
 * 📚 [Taiwan Travelogue by Yáng Shuāng-zǐ](https://www.amazon.com/dp/1644453169?tag=harperrules0d-20)
 * 🎵 [Careless Whisper - George Michael](https://open.spotify.com/track/5WDLRQ3VCdVrKw0njWe5E5)
-* 🎵 [Delete It - MSPAINT](https://open.spotify.com/track/76Xc9akiu0f47F0hWf6nFJ)
-* 🎵 [Heavy Head - Sidestep](https://open.spotify.com/track/3VB3DFkVXzecY6pdSnwrY1)
 * 📝 [Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
 * 📚 [Loud and Clear: The Grateful Dead’s Wall of Sound and the Quest for Audio Perfection by Brian             Anderson](https://www.amazon.com/dp/B0CW1GS6G2?tag=harperrules0d-20)
 * 🔗 [Cyberdecks used to look like little laptops, but now they’re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
