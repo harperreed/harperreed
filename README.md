@@ -24,8 +24,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
-* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
+* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐19
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐15
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐2
 * [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐5
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
-* [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐1
 <!-- projects ends -->
 
 </details>
@@ -156,10 +156,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [The HitMan - Dreamteam Remix - Marvellous Cain](https://open.spotify.com/track/6OvHF8YbjobYUVtwClNd9x)
 * 🎵 [Ain't Nobody - Remix Edit - Rufus](https://open.spotify.com/track/0kAPPlfWJ2b9vgsmmg5Xtq)
 * 🎵 [Blow Ya Mind - I LOVE AMERICA - KOJI 1200](https://open.spotify.com/track/6trvaDXBzIzvJ9OR3lFJng)
 * 📚 [Taiwan Travelogue by Yáng Shuāng-zǐ](https://www.amazon.com/dp/1644453169?tag=harperrules0d-20)
-* 🎵 [Careless Whisper - George Michael](https://open.spotify.com/track/5WDLRQ3VCdVrKw0njWe5E5)
 * 📝 [Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
 * 📚 [Loud and Clear: The Grateful Dead’s Wall of Sound and the Quest for Audio Perfection by Brian             Anderson](https://www.amazon.com/dp/B0CW1GS6G2?tag=harperrules0d-20)
 * 🔗 [Cyberdecks used to look like little laptops, but now they’re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
