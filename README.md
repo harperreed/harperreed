@@ -23,12 +23,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐16
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐20
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐16
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐325
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐74
@@ -40,7 +41,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐3
-* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... 📦 ⭐1
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [CHEGOU 3 - shonci](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn)
+* 🎵 [Raingurl - Yaeji](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC)
 * 🎵 [The HitMan - Dreamteam Remix - Marvellous Cain](https://open.spotify.com/track/6OvHF8YbjobYUVtwClNd9x)
-* 🎵 [Ain't Nobody - Remix Edit - Rufus](https://open.spotify.com/track/0kAPPlfWJ2b9vgsmmg5Xtq)
-* 🎵 [Blow Ya Mind - I LOVE AMERICA - KOJI 1200](https://open.spotify.com/track/6trvaDXBzIzvJ9OR3lFJng)
 * 📚 [Taiwan Travelogue by Yáng Shuāng-zǐ](https://www.amazon.com/dp/1644453169?tag=harperrules0d-20)
 * 📝 [Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
 * 📚 [Loud and Clear: The Grateful Dead’s Wall of Sound and the Quest for Audio Perfection by Brian             Anderson](https://www.amazon.com/dp/B0CW1GS6G2?tag=harperrules0d-20)
