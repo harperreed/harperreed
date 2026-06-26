@@ -23,12 +23,12 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
-* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐16
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐74
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐16
+* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
+* [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐74
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐20
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐325
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Goodbye Horses (Extended Mix) - Q Lazzarus](https://open.spotify.com/track/7lV6IqN5WeNqBedRO95EcQ)
+* 🎵 [VI0LENCE - TwoLips](https://open.spotify.com/track/3vTXlIJWYvhohZVTQ18T7H)
 * 🎵 [CHEGOU 3 - shonci](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn)
-* 🎵 [Raingurl - Yaeji](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC)
-* 🎵 [The HitMan - Dreamteam Remix - Marvellous Cain](https://open.spotify.com/track/6OvHF8YbjobYUVtwClNd9x)
 * 📚 [Taiwan Travelogue by Yáng Shuāng-zǐ](https://www.amazon.com/dp/1644453169?tag=harperrules0d-20)
 * 📝 [Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
 * 📚 [Loud and Clear: The Grateful Dead’s Wall of Sound and the Quest for Audio Perfection by Brian             Anderson](https://www.amazon.com/dp/B0CW1GS6G2?tag=harperrules0d-20)
