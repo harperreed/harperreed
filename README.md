@@ -26,15 +26,15 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
-* [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦
+* [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦 ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐325
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐326
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐16
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐74
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐20
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐3
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐5
@@ -50,7 +50,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐12
 * [harperreed/pixel-briefing](https://github.com/harperreed/pixel-briefing)
 * [2389-research/sprint-ledger-browser](https://github.com/2389-research/sprint-ledger-browser) - Terminal UI for browsing AI sprint ledger files
-* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐9
+* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐10
 * [2389-research/ish](https://github.com/2389-research/ish) - digital twin of third party APIs. 📦
 * [2389-research/compcat](https://github.com/2389-research/compcat) - COMPuter CAT — a Claude Code skill that catches /compcat ...
 * [harperreed/reachy-mqtt](https://github.com/harperreed/reachy-mqtt) - A simple mqtt control plane for reachy ⭐1
