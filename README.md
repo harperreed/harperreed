@@ -23,19 +23,19 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
-* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
-* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
-* [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
-* [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦 ⭐1
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐327
-* [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐75
+* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐20
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
+* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐327
+* [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
+* [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦 ⭐1
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐76
+* [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
+* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐1
+* [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐5
@@ -72,7 +72,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
 * [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐2
-* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐6
+* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐7
 <!-- projects ends -->
 
 </details>
@@ -156,12 +156,12 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📚 [Ode to the Half-Broken by Suzanne Palmer](https://www.amazon.com/dp/075642013X?tag=harperrules0d-20)
 * 📚 [Radiant Star by Ann Leckie](https://www.amazon.com/dp/0316290688?tag=harperrules0d-20)
 * 📚 [The Devotion of Suspect X (Detective Galileo, #3) by Keigo Higashino](https://www.amazon.com/dp/B0044781ZQ?tag=harperrules0d-20)
 * 🎵 [Zanmi Camarade - Claudette et Ti Pierre](https://open.spotify.com/track/0WxQH8nsuG2nNnIdXtAqeZ)
 * 🎵 [Okunkun - Solana](https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9)
 * 🎵 [Muanapoto - Tshegue](https://open.spotify.com/track/5l1jPlHaYjhvim4FIniMvt)
-* 📚 [Taiwan Travelogue by Yáng Shuāng-zǐ](https://www.amazon.com/dp/1644453169?tag=harperrules0d-20)
 * 📝 [Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
 * 🔗 [Cyberdecks used to look like little laptops, but now they’re getting more personal](https://www.theverge.com/tech/943445/cyberdeck-tiktok)
 * 🔗 [The Black Photographers Who Exposed My Own Brainwashing](https://hyperallergic.com/even-conditioning-of-black-beauty-has-been-conditioned/)
