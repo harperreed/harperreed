@@ -23,15 +23,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
+* [2389-research/block-friends](https://github.com/2389-research/block-friends) - Deterministic 'door agent' avatar generator with animated...
+* [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
-* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/block-friends](https://github.com/2389-research/block-friends) - Deterministic 'door agent' avatar generator with animated...
 * [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐1
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐327
-* [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦 ⭐1
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐76
@@ -60,7 +61,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/dot-viewer](https://github.com/2389-research/dot-viewer) - Native macOS Graphviz .dot file viewer and editor — Rust ... 📦 ⭐3
 * [2389-research/word-compiler](https://github.com/2389-research/word-compiler) ⭐6
 * [2389-research/smasher](https://github.com/2389-research/smasher) - A builder 📦 ⭐5
-* [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [2389-research/boba](https://github.com/2389-research/boba) - A Bubble Tea-inspired TUI framework for Rust, built on ra... ⭐4
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐2
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐4
