@@ -23,19 +23,19 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [2389-research/block-friends](https://github.com/2389-research/block-friends) - Deterministic 'door agent' avatar generator with animated...
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐1
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐327
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦 ⭐1
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐76
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐77
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐2
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [No Spiritual Surrender - Inside Out](https://open.spotify.com/track/1WVgpM6MMcNam53I4N81DH)
+* 🎵 [El Conejo Malo (Afro Fun Mix) - Ivan Salvador](https://open.spotify.com/track/2iY9VMJTQkGDiDhejOLbmD)
 * 🎵 [VAN GOGH - kels!](https://open.spotify.com/track/4gJkbSMWt8Ej34TadrEBHw)
-* 🎵 [Shopaholic - Wassup - 7k Cjay](https://open.spotify.com/track/6e8c6pVcSIJny4uZOSkTLD)
-* 🎵 [Hantoy - MAREWREW](https://open.spotify.com/track/3tixYaTODvpniEeohRbUXf)
 * 📚 [Ode to the Half-Broken by Suzanne Palmer](https://www.amazon.com/dp/075642013X?tag=harperrules0d-20)
 * 📚 [Radiant Star by Ann Leckie](https://www.amazon.com/dp/0316290688?tag=harperrules0d-20)
 * 📚 [The Devotion of Suspect X (Detective Galileo, #3) by Keigo Higashino](https://www.amazon.com/dp/B0044781ZQ?tag=harperrules0d-20)
