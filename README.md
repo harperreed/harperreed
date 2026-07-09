@@ -24,13 +24,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐327
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
-* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐2
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐9
-* [2389-research/block-friends](https://github.com/2389-research/block-friends) - Deterministic 'door agent' avatar generator with animated...
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐78
+* [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) ⭐13
+* [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
+* [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
+* [2389-research/block-friends](https://github.com/2389-research/block-friends) - Deterministic 'door agent' avatar generator with animated... ⭐1
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐327
+* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐2
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐9
 * [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐5
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐13
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐4
@@ -48,7 +51,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐2
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... 📦 ⭐1
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐3
-* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐10
+* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐11
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec...
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐11
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
@@ -70,9 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/gsuite-mcp](https://github.com/2389-research/gsuite-mcp) - MCP server for Google Workspace (Gmail, Calendar, Contact... 📦 ⭐5
 * [harperreed/digest](https://github.com/harperreed/digest) - Fast, lightweight RSS/Atom feed reader with CLI and MCP s... 📦 ⭐3
 * [2389-research/simmer-sdk](https://github.com/2389-research/simmer-sdk) - simmer skill via claude code sdk
-* [harperreed/pixel-briefing](https://github.com/harperreed/pixel-briefing)
-* [2389-research/sprint-ledger-browser](https://github.com/2389-research/sprint-ledger-browser) - Terminal UI for browsing AI sprint ledger files
-* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐10
 <!-- projects ends -->
 
 </details>
