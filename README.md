@@ -25,7 +25,8 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐78
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐79
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) ⭐13
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
@@ -59,7 +60,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/terminal-title](https://github.com/2389-research/terminal-title) - Automatically updates terminal title with emoji + project... ⭐1
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
 * [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐1
