@@ -24,15 +24,17 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐2
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
+* [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐328
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐5
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐4
 * [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦 ⭐2
-* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐2
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐79
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) ⭐13
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
@@ -62,12 +64,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
 * [2389-research/firebase-development](https://github.com/2389-research/firebase-development) - Firebase project workflows including setup, features, deb... ⭐2
 * [2389-research/terminal-title](https://github.com/2389-research/terminal-title) - Automatically updates terminal title with emoji + project... ⭐1
-* [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
 * [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐1
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦 ⭐1
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
@@ -156,10 +156,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
-* 🎵 [Gut Genug (mit Blumengarten & Shirin David) - KITSCHKRIEG](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak)
+* 🎵 [Piano bossa nova - Piero Umiliani](https://open.spotify.com/track/699kZd7qgB2Jbv0cxkKkZ7)
+* 🎵 [Ice Cream Moment - Slump Girl](https://open.spotify.com/track/6eyRiNGtSWHCevrdjIu2Rg)
+* 🎵 [WELCOME 2 UPTOWN. - Akeem](https://open.spotify.com/track/4sqVw247LkHCVmNFnkcKsX)
 * 🔗 [Prepare for Airplane Purgatory](https://www.theatlantic.com/science/2026/07/airlines-flight-extended-tarmac-delay/687802/?utm_source=feed)
-* 🎵 [No Spiritual Surrender - Inside Out](https://open.spotify.com/track/1WVgpM6MMcNam53I4N81DH)
-* 🎵 [El Conejo Malo (Afro Fun Mix) - Ivan Salvador](https://open.spotify.com/track/2iY9VMJTQkGDiDhejOLbmD)
 * 📚 [Ode to the Half-Broken by Suzanne Palmer](https://www.amazon.com/dp/075642013X?tag=harperrules0d-20)
 * 📚 [Radiant Star by Ann Leckie](https://www.amazon.com/dp/0316290688?tag=harperrules0d-20)
 * 📚 [The Devotion of Suspect X (Detective Galileo, #3) by Keigo Higashino](https://www.amazon.com/dp/B0044781ZQ?tag=harperrules0d-20)
