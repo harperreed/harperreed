@@ -23,21 +23,23 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐1
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
+* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/Vinculum](https://github.com/2389-research/Vinculum) - Native LaTeX math typesetting for Apple platforms and Lin...
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
+* [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐1
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐79
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐330
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐5
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐4
 * [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦 ⭐2
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐79
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) ⭐13
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
@@ -71,8 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦 ⭐1
 * [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
 * [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
-* [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
-* [2389-research/jeff](https://github.com/2389-research/jeff) 📦 ⭐2
 <!-- projects ends -->
 
 </details>
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Call the Police - John Wayne](https://open.spotify.com/track/5eHhroDG8ghi3f9xIDk4Nz)
+* 🎵 [Minimal - Deborah de Luca](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8)
 * 🎵 [Piano bossa nova - Piero Umiliani](https://open.spotify.com/track/699kZd7qgB2Jbv0cxkKkZ7)
-* 🎵 [Ice Cream Moment - Slump Girl](https://open.spotify.com/track/6eyRiNGtSWHCevrdjIu2Rg)
-* 🎵 [WELCOME 2 UPTOWN. - Akeem](https://open.spotify.com/track/4sqVw247LkHCVmNFnkcKsX)
 * 🔗 [Prepare for Airplane Purgatory](https://www.theatlantic.com/science/2026/07/airlines-flight-extended-tarmac-delay/687802/?utm_source=feed)
 * 📚 [Ode to the Half-Broken by Suzanne Palmer](https://www.amazon.com/dp/075642013X?tag=harperrules0d-20)
 * 📚 [Radiant Star by Ann Leckie](https://www.amazon.com/dp/0316290688?tag=harperrules0d-20)
