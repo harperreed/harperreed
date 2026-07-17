@@ -23,16 +23,18 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
+* [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦
+* [2389-research/Vinculum](https://github.com/2389-research/Vinculum) - Native LaTeX math typesetting for Apple platforms and Lin... 📦
 * [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/Vinculum](https://github.com/2389-research/Vinculum) - Native LaTeX math typesetting for Apple platforms and Lin...
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐330
+* [2389-research/gossip](https://github.com/2389-research/gossip) - A watercooler for agents: standalone CLI over an append-o...
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐1
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐79
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐2
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐330
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
@@ -71,8 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦 ⭐1
-* [2389-research/hex](https://github.com/2389-research/hex) 📦 ⭐1
-* [2389-research/mux-rs](https://github.com/2389-research/mux-rs) - Rust library for building AI agents with tool support and... 📦
 <!-- projects ends -->
 
 </details>
