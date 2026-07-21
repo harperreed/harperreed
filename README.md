@@ -23,19 +23,20 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/Vinculum](https://github.com/2389-research/Vinculum) - Native LaTeX math typesetting for Apple platforms and Lin... 📦 ⭐1
+* [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐1
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐81
+* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦
+* [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐10
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [harperreed/applereminders](https://github.com/harperreed/applereminders) - Drop-in replacement for reminders-cli using EventKit with... 📦
-* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦
-* [2389-research/Vinculum](https://github.com/2389-research/Vinculum) - Native LaTeX math typesetting for Apple platforms and Lin... 📦
-* [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦
 * [2389-research/gossip](https://github.com/2389-research/gossip) - A watercooler for agents: standalone CLI over an append-o... 📦 ⭐1
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐330
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐331
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐1
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐79
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐2
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
@@ -47,8 +48,8 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
 * [2389-research/block-friends](https://github.com/2389-research/block-friends) - Deterministic 'door agent' avatar generator with animated... ⭐1
-* [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐6
-* [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐13
+* [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐7
+* [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐14
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐4
 * [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐4
 * [2389-research/ceo-personal-os](https://github.com/2389-research/ceo-personal-os) - Personal operating system for executives - reflection fra... ⭐2
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/terminal-title](https://github.com/2389-research/terminal-title) - Automatically updates terminal title with emoji + project... ⭐1
 * [harperreed/big-rs](https://github.com/harperreed/big-rs) 📦
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
-* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 <!-- projects ends -->
 
 </details>
@@ -156,9 +156,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [As It Was - Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
 * 🎵 [Cross-Eyed Mary - Steven Wilson Stereo Remix - Jethro Tull](https://open.spotify.com/track/7C8aMDbTGnxVMOmHPtfj5W)
 * 🎵 [Erghan Diado (Song of Schopsko) - Bulgarian State Television Female Choir](https://open.spotify.com/track/2bGf7LJjOV9Xk5mPwfyYVS)
-* 🎵 [Gut Genug (mit Blumengarten & Shirin David) - KITSCHKRIEG](https://open.spotify.com/track/7iNLydOMjLLb7BiwkdoPDU)
 * 🔗 [Prepare for Airplane Purgatory](https://www.theatlantic.com/science/2026/07/airlines-flight-extended-tarmac-delay/687802/?utm_source=feed)
 * 📚 [Ode to the Half-Broken by Suzanne Palmer](https://www.amazon.com/dp/075642013X?tag=harperrules0d-20)
 * 📚 [Radiant Star by Ann Leckie](https://www.amazon.com/dp/0316290688?tag=harperrules0d-20)
