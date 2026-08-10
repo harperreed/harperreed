@@ -23,17 +23,19 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐3
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill
+* [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
+* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐3
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐21
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐7
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐90
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐331
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐330
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
 * [2389-research/Vinculum](https://github.com/2389-research/Vinculum) - Native LaTeX math typesetting for Apple platforms and Lin... 📦 ⭐2
 * [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦
@@ -71,8 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐14
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec... ⭐1
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐12
-* [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
-* [2389-research/firebase-development](https://github.com/2389-research/firebase-development) - Firebase project workflows including setup, features, deb... ⭐2
 <!-- projects ends -->
 
 </details>
@@ -143,11 +143,11 @@ As many people have said “it is going to get worse before it gets better.” L
 ### ✍️ Blog
 
 <!-- blog starts -->
+* [How to find magical travel experiences using an AI travel buddy](https://harper.blog/2026/08/09/llm-travel-agent-friend/)
 * [My now immaculate knowledge graph of life](https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/)
 * [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/)
 * [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/)
 * [Getting Claude Code to do my emails](https://harper.blog/2025/12/03/claude-code-email-productivity-mcp-agents/)
-* [We Gave Our AI Agents Twitter and Now They're Demanding Lambos](https://harper.blog/2025/09/30/ai-agents-social-media-performance-lambo-doomscrolling/)
 <!-- blog ends -->
 
 </td>
