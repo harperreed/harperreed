@@ -24,20 +24,20 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐3
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐7
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐22
-* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐2
-* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐3
+* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐3
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐4
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐330
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐90
 * [2389-research/decker](https://github.com/2389-research/decker)
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
-* [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐1
+* [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐2
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
@@ -66,7 +66,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐14
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐4
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐8
-* [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐1
+* [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐2
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐3
 * [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐2
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... 📦 ⭐1
