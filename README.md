@@ -24,8 +24,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐3
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
+* [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐3
+* [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
 * [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐7
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐22
 * [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐3
@@ -36,7 +38,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐90
 * [2389-research/decker](https://github.com/2389-research/decker)
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐2
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
@@ -52,7 +53,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦 ⭐2
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) ⭐14
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
-* [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
 * [2389-research/block-friends](https://github.com/2389-research/block-friends) - Deterministic 'door agent' avatar generator with animated... ⭐1
 * [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐15
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐14
@@ -131,7 +131,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/image_1.jpg)](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
+[![Note #737](https://harper.blog/notes/2026-08-14_cdcba3add0a4_denver-has-changed-man/image_1.jpg)](https://harper.blog/notes/2026-08-14_cdcba3add0a4_denver-has-changed-man/)
 <!-- photos ends -->
 
 ---
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #737](https://harper.blog/notes/2026-08-14_cdcba3add0a4_denver-has-changed-man/)
 * 🔗 [Super-organized](https://ma.tt/2026/08/super-organized/)
 * 📚 [Helen of Nowhere by Makenna Goodman](https://www.amazon.com/dp/B0F9QTH7KR?tag=harperrules0d-20)
 * 🔗 [Data Centers Should Be Required To Disclose Water And Energy Use, City Panel Recommends](https://blockclubchicago.org/2026/08/06/data-centers-should-be-required-to-disclose-water-and-energy-use-city-panel-recommends/)
@@ -167,7 +168,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 🎵 [Erghan Diado (Song of Schopsko) - Bulgarian State Television Female Choir](https://open.spotify.com/track/2bGf7LJjOV9Xk5mPwfyYVS)
 * 📝 [Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
 * 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
-* 📝 [Note #734](https://harper.blog/notes/2026-05-03_ca1258cc3bf6_some-shots-from-miami-f1/)
 <!-- activity ends -->
 
 </td>
