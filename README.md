@@ -33,7 +33,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐3
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐4
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐330
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐331
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐90
@@ -131,7 +131,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #737](https://harper.blog/notes/2026-08-14_cdcba3add0a4_denver-has-changed-man/image_1.jpg)](https://harper.blog/notes/2026-08-14_cdcba3add0a4_denver-has-changed-man/)
+[![Note #738](https://harper.blog/notes/2026-08-14_79bdf2610caf_sitting-on-the-porch-swing-and/image_1.jpg)](https://harper.blog/notes/2026-08-14_79bdf2610caf_sitting-on-the-porch-swing-and/)
 <!-- photos ends -->
 
 ---
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #738](https://harper.blog/notes/2026-08-14_79bdf2610caf_sitting-on-the-porch-swing-and/)
 * 📝 [Note #737](https://harper.blog/notes/2026-08-14_cdcba3add0a4_denver-has-changed-man/)
 * 🔗 [Super-organized](https://ma.tt/2026/08/super-organized/)
 * 📚 [Helen of Nowhere by Makenna Goodman](https://www.amazon.com/dp/B0F9QTH7KR?tag=harperrules0d-20)
@@ -167,7 +168,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 🎵 [Cross-Eyed Mary - Steven Wilson Stereo Remix - Jethro Tull](https://open.spotify.com/track/7C8aMDbTGnxVMOmHPtfj5W)
 * 🎵 [Erghan Diado (Song of Schopsko) - Bulgarian State Television Female Choir](https://open.spotify.com/track/2bGf7LJjOV9Xk5mPwfyYVS)
 * 📝 [Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
-* 📝 [Note #735](https://harper.blog/notes/2026-05-14_b1eb988fdde5_night-in-shimbashi-taken-with-/)
 <!-- activity ends -->
 
 </td>
