@@ -23,17 +23,17 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
+* [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐3
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐331
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
 * [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐7
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐22
 * [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐3
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐4
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐331
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐90
@@ -87,24 +87,21 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 <!-- now starts -->
 ### 2389 rules
 
-- This company is still going!
-- We have pushed out a few things that people can use: [jeff.ceo](https://jeff.ceo) is my fav
-- We made some hoodies and shirts.
+- This company is going!
 - I am even *more* excited to be building things again.
-- I can’t wait to show you more what we are building.
 - I no longer code. I just talk to a robot who codes. **Management.**
-- We are shipping so so much stuff.
+- We are shipping so so much stuff. Check out our site for some of it: [2389 Research](https://2389.ai/research)
+- I am thinking a lot about how to get agents to hang out
+- I want a humanoid robot
 - Come hang out at our cool and futuristic office!
 
 #### The weird / The Fear
 
 - I am feeling a deep sense of uncertainty.
 - AI is coming for us faster than you think.
-- I don’t think people my age who are being laid off now are going to be able to find jobs equivalent to what they had before.
-- The state of the US is very concerning at the moment.
-- Boomers, man.
 - I seem to be living in an occupied city. Weird.
 - There is a sense of fear out here that is stresseful, and terrifying.
+- Boomers, man.
 
 #### The normal
 
@@ -116,9 +113,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 **Working on a lot of tech projects**
 
+- I used to be a computer operator
 - I am just an AI assistant.
 - Trying to blog a lot more.
-- Pretty excited about Bluesky and atproto specifically. Very neat.
 - Still, excited about the future. Although a bit worried about the present.
 
 As many people have said “it is going to get worse before it gets better.” Let’s see!
@@ -131,7 +128,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #738](https://harper.blog/notes/2026-08-14_79bdf2610caf_sitting-on-the-porch-swing-and/image_1.jpg)](https://harper.blog/notes/2026-08-14_79bdf2610caf_sitting-on-the-porch-swing-and/)
+[![Note #739](https://harper.blog/notes/2026-08-16_26d8594e9c6b_hanging-out-at-the-boyhood-hom/image_1.jpg)](https://harper.blog/notes/2026-08-16_26d8594e9c6b_hanging-out-at-the-boyhood-hom/)
 <!-- photos ends -->
 
 ---
@@ -143,11 +140,11 @@ As many people have said “it is going to get worse before it gets better.” L
 ### ✍️ Blog
 
 <!-- blog starts -->
+* [Notes From a Fugue State: Put the Things in Your Head That You Love](https://harper.blog/2026/08/15/fugue-state-love/)
 * [How to find magical travel experiences using an AI travel buddy](https://harper.blog/2026/08/09/llm-travel-agent-friend/)
 * [My now immaculate knowledge graph of life](https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/)
 * [2025 in Review: strange, terror, and weird](https://harper.blog/2026/01/07/2025-is-dead-to-me-2026-is-going-to-be-stranger/)
 * [Remote Claude Code: programing like it was the early 2000s](https://harper.blog/2026/01/05/claude-code-is-better-on-your-phone/)
-* [Getting Claude Code to do my emails](https://harper.blog/2025/12/03/claude-code-email-productivity-mcp-agents/)
 <!-- blog ends -->
 
 </td>
@@ -156,18 +153,18 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🔗 [Quote of the Day](https://politicalwire.com/2026/08/16/quote-of-the-day-4537/)
+* 🔗 [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
+* 🔗 [There’s Pretty Much No Good Way to Fight an Electric Vehicle Fire, New Study Finds](https://futurism.com/advanced-transport/electric-vehicle-fire-thermal-runaway-water)
+* 📝 [Note #739](https://harper.blog/notes/2026-08-16_26d8594e9c6b_hanging-out-at-the-boyhood-hom/)
+* 📚 [Infinite Archive (The Midsolar Murders, #3) by Mur Lafferty](https://www.amazon.com/dp/B0CW1HHVD5?tag=harperrules0d-20)
 * 📝 [Note #738](https://harper.blog/notes/2026-08-14_79bdf2610caf_sitting-on-the-porch-swing-and/)
 * 📝 [Note #737](https://harper.blog/notes/2026-08-14_cdcba3add0a4_denver-has-changed-man/)
-* 🔗 [Super-organized](https://ma.tt/2026/08/super-organized/)
 * 📚 [Helen of Nowhere by Makenna Goodman](https://www.amazon.com/dp/B0F9QTH7KR?tag=harperrules0d-20)
-* 🔗 [Data Centers Should Be Required To Disclose Water And Energy Use, City Panel Recommends](https://blockclubchicago.org/2026/08/06/data-centers-should-be-required-to-disclose-water-and-energy-use-city-panel-recommends/)
-* 🔗 [Adversarial Clothing Designed to Fool Facial Recognition Systems](https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html)
 * 📚 [The MANIAC by Benjamín Labatut](https://www.amazon.com/dp/B0BRMK6615?tag=harperrules0d-20)
-* 📚 [Automatic Noodle by Annalee Newitz](https://www.amazon.com/dp/B0DDJCWQH8?tag=harperrules0d-20)
 * 🎵 [As It Was - Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
 * 🎵 [Cross-Eyed Mary - Steven Wilson Stereo Remix - Jethro Tull](https://open.spotify.com/track/7C8aMDbTGnxVMOmHPtfj5W)
 * 🎵 [Erghan Diado (Song of Schopsko) - Bulgarian State Television Female Choir](https://open.spotify.com/track/2bGf7LJjOV9Xk5mPwfyYVS)
-* 📝 [Note #736](https://harper.blog/notes/2026-06-10_cf9f14db8029_went-to-cali-for-a-fun-party-i/)
 <!-- activity ends -->
 
 </td>
