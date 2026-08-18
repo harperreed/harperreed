@@ -23,9 +23,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/Noospheric-Orrery](https://github.com/2389-research/Noospheric-Orrery) 📦 ⭐3
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐331
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
@@ -38,7 +38,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐90
 * [2389-research/decker](https://github.com/2389-research/decker)
-* [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐2
+* [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐3
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
@@ -128,7 +128,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #739](https://harper.blog/notes/2026-08-16_26d8594e9c6b_hanging-out-at-the-boyhood-hom/image_1.jpg)](https://harper.blog/notes/2026-08-16_26d8594e9c6b_hanging-out-at-the-boyhood-hom/)
+[![Note #740](https://harper.blog/notes/2026-08-16_4a73983fc8e5_flying-feels-like-a-miracle/image_1.jpg)](https://harper.blog/notes/2026-08-16_4a73983fc8e5_flying-feels-like-a-miracle/)
 <!-- photos ends -->
 
 ---
@@ -153,18 +153,18 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #740](https://harper.blog/notes/2026-08-16_4a73983fc8e5_flying-feels-like-a-miracle/)
+* 🔗 [WEBMASTER@ a manifesto for everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/)
 * 🔗 [Quote of the Day](https://politicalwire.com/2026/08/16/quote-of-the-day-4537/)
 * 🔗 [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
-* 🔗 [There’s Pretty Much No Good Way to Fight an Electric Vehicle Fire, New Study Finds](https://futurism.com/advanced-transport/electric-vehicle-fire-thermal-runaway-water)
 * 📝 [Note #739](https://harper.blog/notes/2026-08-16_26d8594e9c6b_hanging-out-at-the-boyhood-hom/)
 * 📚 [Infinite Archive (The Midsolar Murders, #3) by Mur Lafferty](https://www.amazon.com/dp/B0CW1HHVD5?tag=harperrules0d-20)
 * 📝 [Note #738](https://harper.blog/notes/2026-08-14_79bdf2610caf_sitting-on-the-porch-swing-and/)
-* 📝 [Note #737](https://harper.blog/notes/2026-08-14_cdcba3add0a4_denver-has-changed-man/)
+* 🎵 [All I Want Is You - Barry Louis Polisar](https://open.spotify.com/track/0PVsmxkqu1sB24CenN6lsq)
+* 🎵 [Bangalore Whispers - Andi Otto](https://open.spotify.com/track/6rdXd433ErtAeikxySIhA1)
 * 📚 [Helen of Nowhere by Makenna Goodman](https://www.amazon.com/dp/B0F9QTH7KR?tag=harperrules0d-20)
+* 🎵 [FEEL IT IN THE AIR - JNO](https://open.spotify.com/track/5bdkpAVdBRjiYagW3S5Px7)
 * 📚 [The MANIAC by Benjamín Labatut](https://www.amazon.com/dp/B0BRMK6615?tag=harperrules0d-20)
-* 🎵 [As It Was - Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
-* 🎵 [Cross-Eyed Mary - Steven Wilson Stereo Remix - Jethro Tull](https://open.spotify.com/track/7C8aMDbTGnxVMOmHPtfj5W)
-* 🎵 [Erghan Diado (Song of Schopsko) - Bulgarian State Television Female Choir](https://open.spotify.com/track/2bGf7LJjOV9Xk5mPwfyYVS)
 <!-- activity ends -->
 
 </td>
