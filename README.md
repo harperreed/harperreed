@@ -36,9 +36,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐4
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐90
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐91
 * [2389-research/decker](https://github.com/2389-research/decker)
-* [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐3
+* [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐4
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
@@ -47,7 +47,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/applereminders](https://github.com/harperreed/applereminders) - Drop-in replacement for reminders-cli using EventKit with... 📦
 * [2389-research/gossip](https://github.com/2389-research/gossip) - A watercooler for agents: standalone CLI over an append-o... 📦 ⭐1
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
-* [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐1
+* [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐2
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐6
 * [harperreed/position](https://github.com/harperreed/position) - Location tracking CLI with MCP integration for AI agents 📦 ⭐2
@@ -64,7 +64,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
 * [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐14
-* [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐4
+* [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐5
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐8
 * [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐2
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐3
@@ -153,13 +153,13 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #741](https://harper.blog/notes/2026-08-18_7758df8f19e0_i-finished-helen-of-nowhere-mo/)
 * 📝 [Note #740](https://harper.blog/notes/2026-08-16_4a73983fc8e5_flying-feels-like-a-miracle/)
 * 🔗 [WEBMASTER@ a manifesto for everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/)
 * 🔗 [Quote of the Day](https://politicalwire.com/2026/08/16/quote-of-the-day-4537/)
 * 🔗 [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper)
 * 📝 [Note #739](https://harper.blog/notes/2026-08-16_26d8594e9c6b_hanging-out-at-the-boyhood-hom/)
 * 📚 [Infinite Archive (The Midsolar Murders, #3) by Mur Lafferty](https://www.amazon.com/dp/B0CW1HHVD5?tag=harperrules0d-20)
-* 📝 [Note #738](https://harper.blog/notes/2026-08-14_79bdf2610caf_sitting-on-the-porch-swing-and/)
 * 🎵 [All I Want Is You - Barry Louis Polisar](https://open.spotify.com/track/0PVsmxkqu1sB24CenN6lsq)
 * 🎵 [Bangalore Whispers - Andi Otto](https://open.spotify.com/track/6rdXd433ErtAeikxySIhA1)
 * 📚 [Helen of Nowhere by Makenna Goodman](https://www.amazon.com/dp/B0F9QTH7KR?tag=harperrules0d-20)
@@ -191,5 +191,5 @@ As many people have said “it is going to get worse before it gets better.” L
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 48.4 years old
+- 👨Age: 48.5 years old
 <!-- age ends --> · he/him · Inspired by [@simonw](https://twitter.com/simonw)'s [self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)</sub>
