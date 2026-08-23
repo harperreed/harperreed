@@ -23,16 +23,19 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐26
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
+* [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA...
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐3
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐91
 * [2389-research/hindsight](https://github.com/2389-research/hindsight) - Analyze your Claude Code sessions through configurable le...
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐22
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec... ⭐1
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
-* [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐7
+* [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐8
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐331
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
@@ -49,7 +52,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/muesli](https://github.com/harperreed/muesli) - Fast offline Rust CLI for syncing and searching Granola m... 📦 ⭐10
 * [harperreed/applereminders](https://github.com/harperreed/applereminders) - Drop-in replacement for reminders-cli using EventKit with... 📦
 * [2389-research/gossip](https://github.com/2389-research/gossip) - A watercooler for agents: standalone CLI over an append-o... 📦 ⭐1
-* [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/ecto-wall-9000](https://github.com/2389-research/ecto-wall-9000) - ECTO-WALL 9000 — ambient camera-driven generative video w... ⭐2
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) 📦
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐6
@@ -71,8 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐8
 * [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐2
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐3
-* [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐2
-* [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... 📦 ⭐1
 <!-- projects ends -->
 
 </details>
