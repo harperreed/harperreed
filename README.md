@@ -24,9 +24,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [2389-research/pact](https://github.com/2389-research/pact) 📦
 * [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐3
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐91
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐92
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐22
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
 * [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐14
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐6
-* [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐9
 <!-- projects ends -->
 
 </details>
