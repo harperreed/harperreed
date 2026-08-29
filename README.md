@@ -24,8 +24,8 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/pact](https://github.com/2389-research/pact) 📦
 * [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐3
+* [2389-research/pact](https://github.com/2389-research/pact) 📦
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐17
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐92
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
