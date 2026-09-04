@@ -23,19 +23,19 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐3
+* [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐19
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐24
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐93
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐332
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [2389-research/pact](https://github.com/2389-research/pact) 📦
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
-* [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/sift](https://github.com/2389-research/sift) - SIFT — Structural Inspection for Technical Simplification...
 * [2389-research/trace](https://github.com/2389-research/trace) - TRACE (Test Requirements Against Code & Execution) — an a...
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐26
@@ -44,7 +44,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐9
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
-* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐3
+* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐4
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐5
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [2389-research/decker](https://github.com/2389-research/decker)
@@ -153,11 +153,11 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Sky Islands - caldera](https://open.spotify.com/track/4Rcss7w2i36OkfMwFIacTL)
+* 🎵 [Norf Side (feat. Tierra Whack) - Jill Scott](https://open.spotify.com/track/3YTgjGZ58t6K7o9NroTGCD)
+* 🎵 [Look Like My Mama (feat. Tyler, The Creator) - AZ Chike](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK)
 * 📚 [The Last Contract of Isako by Fonda Lee](https://www.amazon.com/dp/B0FPCBH5NG?tag=harperrules0d-20)
 * 🔗 [This Has to Be the Most Amazing Robot Death We’ve Ever Seen](https://futurism.com/robots-and-machines/most-amazing-robot-death-ever)
-* 🎵 [Cobalt Blues - Buffalo Nichols](https://open.spotify.com/track/7GGcoYXCuhw0yvHMMqcGH4)
-* 🎵 [şaka mısın knk - KÖK$VL](https://open.spotify.com/track/4m4NH7AHnhlwvlBKD1r2VB)
-* 🎵 [Se Encendio el Beeper - Oro Solido](https://open.spotify.com/track/3F0npTC1lHEQpEz35tvQTT)
 * 📚 [Black Bag by Luke Kennard](https://www.amazon.com/dp/1638933391?tag=harperrules0d-20)
 * 📝 [Note #741](https://harper.blog/notes/2026-08-18_7758df8f19e0_i-finished-helen-of-nowhere-mo/)
 * 📝 [Note #740](https://harper.blog/notes/2026-08-16_4a73983fc8e5_flying-feels-like-a-miracle/)
