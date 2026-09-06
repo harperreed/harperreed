@@ -23,17 +23,17 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐19
 * [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐3
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐24
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐93
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐332
-* [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [2389-research/pact](https://github.com/2389-research/pact) 📦
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/sift](https://github.com/2389-research/sift) - SIFT — Structural Inspection for Technical Simplification...
@@ -153,9 +153,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [My And Me - Everything Is Recorded](https://open.spotify.com/track/5RcoXjIYJ9QprIoLAykbQh)
+* 🎵 [Non, je ne regrette rien - Édith Piaf](https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA)
 * 🎵 [Sky Islands - caldera](https://open.spotify.com/track/4Rcss7w2i36OkfMwFIacTL)
-* 🎵 [Norf Side (feat. Tierra Whack) - Jill Scott](https://open.spotify.com/track/3YTgjGZ58t6K7o9NroTGCD)
-* 🎵 [Look Like My Mama (feat. Tyler, The Creator) - AZ Chike](https://open.spotify.com/track/2TwW2fNE3TPPLum0vi9rUK)
 * 📚 [The Last Contract of Isako by Fonda Lee](https://www.amazon.com/dp/B0FPCBH5NG?tag=harperrules0d-20)
 * 🔗 [This Has to Be the Most Amazing Robot Death We’ve Ever Seen](https://futurism.com/robots-and-machines/most-amazing-robot-death-ever)
 * 📚 [Black Bag by Luke Kennard](https://www.amazon.com/dp/1638933391?tag=harperrules0d-20)
