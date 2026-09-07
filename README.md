@@ -23,13 +23,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐19
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐20
 * [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐3
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐24
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐25
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐93
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐2
@@ -68,11 +68,11 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐5
 * [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐5
 * [2389-research/ceo-personal-os](https://github.com/2389-research/ceo-personal-os) - Personal operating system for executives - reflection fra... ⭐5
-* [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐2
+* [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐3
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
-* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐14
+* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐15
 <!-- projects ends -->
 
 </details>
