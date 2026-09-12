@@ -23,16 +23,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/noseyposey](https://github.com/2389-research/noseyposey)
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐4
+* [2389-research/noseyposey](https://github.com/2389-research/noseyposey)
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐20
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐1
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐95
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐94
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐332
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐25
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐3
@@ -43,7 +43,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐26
 * [2389-research/hindsight](https://github.com/2389-research/hindsight) - Analyze your Claude Code sessions through configurable le...
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec... ⭐3
-* [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐9
+* [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐8
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
 * [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐5
@@ -153,12 +153,12 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [WIGGIDY WHACK - Tierra Whack](https://open.spotify.com/track/7dQJYNhuE1NfQwxvVY2rLh)
+* 🎵 [The Way Things Should End - Torn Open](https://open.spotify.com/track/6mp7GUe0MvvtctUYkJCgN1)
 * 📝 [Note #744](https://harper.blog/notes/2026-09-08_e1a33ae1ed42_spent-some-time-this-weekend-a/)
 * 📝 [Note #743](https://harper.blog/notes/2026-09-08_8c1ad0e47fe7_work-photo-fun-got-out-the-og-/)
 * 📝 [Note #742](https://harper.blog/notes/2026-09-08_4384f4f6e3ee_work/)
 * 🎵 [Братам з дому - REBUS](https://open.spotify.com/track/1P4cdb9XHw07KeJ7IQtYF5)
-* 🎵 [My And Me - Everything Is Recorded](https://open.spotify.com/track/5RcoXjIYJ9QprIoLAykbQh)
-* 🎵 [Non, je ne regrette rien - Édith Piaf](https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA)
 * 📚 [The Last Contract of Isako by Fonda Lee](https://www.amazon.com/dp/B0FPCBH5NG?tag=harperrules0d-20)
 * 🔗 [This Has to Be the Most Amazing Robot Death We’ve Ever Seen](https://futurism.com/robots-and-machines/most-amazing-robot-death-ever)
 * 📚 [Black Bag by Luke Kennard](https://www.amazon.com/dp/1638933391?tag=harperrules0d-20)
