@@ -153,9 +153,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Salvation - The Cranberries](https://open.spotify.com/track/1ayRJ4dlr48VJ3FK6uPq2i)
 * 🎵 [Muffin Man - Frank Zappa](https://open.spotify.com/track/1a19kiTeYBOaS9G9aYNnEQ)
 * 🎵 [Birdhouse in Your Soul - They Might Be Giants](https://open.spotify.com/track/6pmuu4qSz2WrtGkBjUfyuz)
-* 🎵 [Ripple - 2013 Remaster - Grateful Dead](https://open.spotify.com/track/1OE5l6sedVcIFELMuxQOPI)
 * 📚 [What I Talk About When I Talk About Running by Haruki Murakami](https://www.amazon.com/dp/B0015DWJ8W?tag=harperrules0d-20)
 * 📝 [Note #744](https://harper.blog/notes/2026-09-08_e1a33ae1ed42_spent-some-time-this-weekend-a/)
 * 📝 [Note #743](https://harper.blog/notes/2026-09-08_8c1ad0e47fe7_work-photo-fun-got-out-the-og-/)
