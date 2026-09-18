@@ -23,18 +23,19 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
-* [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐4
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐93
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐20
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/typesafe-go](https://github.com/2389-research/typesafe-go) - A Go client for the TypeSafe System One API — typed judgm... ⭐2
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐25
+* [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐4
+* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐93
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/noseyposey](https://github.com/2389-research/noseyposey)
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐1
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐332
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐25
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐4
 * [2389-research/pact](https://github.com/2389-research/pact) 📦
@@ -44,7 +45,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐27
 * [2389-research/hindsight](https://github.com/2389-research/hindsight) - Analyze your Claude Code sessions through configurable le...
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec... ⭐3
-* [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐8
+* [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐9
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
 * [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐5
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐5
 * [2389-research/ceo-personal-os](https://github.com/2389-research/ceo-personal-os) - Personal operating system for executives - reflection fra... ⭐5
 * [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐3
-* [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 <!-- projects ends -->
 
 </details>
@@ -153,6 +153,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📚 [The River Has Roots by Amal El-Mohtar](https://www.amazon.com/dp/B0D1P3DF58?tag=harperrules0d-20)
 * 🎵 [Salvation - The Cranberries](https://open.spotify.com/track/1ayRJ4dlr48VJ3FK6uPq2i)
 * 🎵 [Muffin Man - Frank Zappa](https://open.spotify.com/track/1a19kiTeYBOaS9G9aYNnEQ)
 * 🎵 [Birdhouse in Your Soul - They Might Be Giants](https://open.spotify.com/track/6pmuu4qSz2WrtGkBjUfyuz)
@@ -162,7 +163,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📝 [Note #742](https://harper.blog/notes/2026-09-08_4384f4f6e3ee_work/)
 * 📚 [The Last Contract of Isako by Fonda Lee](https://www.amazon.com/dp/B0FPCBH5NG?tag=harperrules0d-20)
 * 🔗 [This Has to Be the Most Amazing Robot Death We’ve Ever Seen](https://futurism.com/robots-and-machines/most-amazing-robot-death-ever)
-* 📚 [Black Bag by Luke Kennard](https://www.amazon.com/dp/1638933391?tag=harperrules0d-20)
 * 🔗 [WEBMASTER@ a manifesto for everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/)
 * 🔗 [Quote of the Day](https://politicalwire.com/2026/08/16/quote-of-the-day-4537/)
 <!-- activity ends -->
