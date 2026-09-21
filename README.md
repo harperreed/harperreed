@@ -24,14 +24,14 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
-* [2389-research/judgement](https://github.com/2389-research/judgement) - A Go CLI for TypeSafe Jev judgments, with JSON input/outp... 📦
 * [2389-research/jev-plays-pokemon](https://github.com/2389-research/jev-plays-pokemon)
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [harperreed/houseagent](https://github.com/harperreed/houseagent) - AI smart home assistant using MQTT and GPT to generate pl... ⭐4
+* [2389-research/judgement](https://github.com/2389-research/judgement) - A Go CLI for TypeSafe Jev judgments, with JSON input/outp... 📦
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐20
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐4
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [2389-research/typesafe-go](https://github.com/2389-research/typesafe-go) - A Go client for the TypeSafe System One API — typed judgm... ⭐2
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐20
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐25
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
@@ -153,9 +153,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [As It Was - Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
 * 🎵 [Elle décide - Vaudou Game](https://open.spotify.com/track/5Qo0FGH6UcFtSFJ7k0sD1v)
 * 🎵 [SF Cypher 38 - Toddla T](https://open.spotify.com/track/6zPvoiimmYY6BR24XeJPPX)
-* 🎵 [Hit Me Like a Piñata (...One More Time) - Her Last Sight](https://open.spotify.com/track/06RDvsYlFUsIf3Cy1vuAHY)
 * 📚 [The River Has Roots by Amal El-Mohtar](https://www.amazon.com/dp/B0D1P3DF58?tag=harperrules0d-20)
 * 📚 [What I Talk About When I Talk About Running by Haruki Murakami](https://www.amazon.com/dp/B0015DWJ8W?tag=harperrules0d-20)
 * 📝 [Note #744](https://harper.blog/notes/2026-09-08_e1a33ae1ed42_spent-some-time-this-weekend-a/)
