@@ -23,9 +23,12 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/jev-plays-pokemon](https://github.com/2389-research/jev-plays-pokemon)
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐20
+* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐21
+* [2389-research/ai-marketing](https://github.com/2389-research/ai-marketing) - Automated marketing campaign
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐2
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐94
 * [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐4
 * [harperreed/houseagent](https://github.com/harperreed/houseagent) - AI smart home assistant using MQTT and GPT to generate pl... ⭐4
 * [2389-research/judgement](https://github.com/2389-research/judgement) - A Go CLI for TypeSafe Jev judgments, with JSON input/outp... 📦
@@ -36,11 +39,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐25
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐94
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/noseyposey](https://github.com/2389-research/noseyposey)
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
-* [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐333
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
 * [2389-research/pact](https://github.com/2389-research/pact) 📦
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/block-friends](https://github.com/2389-research/block-friends) - Deterministic 'door agent' avatar generator with animated... ⭐1
 * [2389-research/thrifty](https://github.com/2389-research/thrifty) - Tiered-delegation task execution for Claude Code: strong ... ⭐17
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐14
-* [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐5
 <!-- projects ends -->
 
 </details>
