@@ -23,10 +23,14 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
+* [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐94
+* [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
 * [2389-research/jev-plays-pokemon](https://github.com/2389-research/jev-plays-pokemon)
-* [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐6
+* [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐7
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐4
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
@@ -36,19 +40,15 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐4
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐21
-* [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐334
 * [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐6
 * [2389-research/agent-ergo](https://github.com/2389-research/agent-ergo) - A skill for making systems intuitive, ergonomic, and cumu... ⭐1
 * [2389-research/complex-simplify](https://github.com/2389-research/complex-simplify) - A skill for focused reuse, quality, and efficiency cleanu...
 * [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐2
 * [2389-research/ai-marketing](https://github.com/2389-research/ai-marketing) - Automated marketing campaign
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [harperreed/houseagent](https://github.com/harperreed/houseagent) - AI smart home assistant using MQTT and GPT to generate pl... ⭐4
 * [2389-research/judgement](https://github.com/2389-research/judgement) - A Go CLI for TypeSafe Jev judgments, with JSON input/outp... 📦
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐5
-* [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [2389-research/typesafe-go](https://github.com/2389-research/typesafe-go) - A Go client for the TypeSafe System One API — typed judgm... ⭐2
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐26
@@ -153,10 +153,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
-* 🎵 [You Wildflower - Witch Club Satan](https://open.spotify.com/track/6k8BOF9z8d7yhMNtQLfAaV)
+* 🎵 [Sweet Dreams - Radio Version - La Bouche](https://open.spotify.com/track/0nw4GKKBab2VEPqEWCMOx2)
+* 🎵 [more - irou](https://open.spotify.com/track/7r1r8fn7iAj8fqOjocuIJc)
+* 🎵 [London Bridge - Fergie](https://open.spotify.com/track/4aXrH2a9Tk92CGaSTe9NYU)
 * 📝 [Note #745](https://harper.blog/notes/2026-09-22_b2a81bf561f7_this-is-the-loudest-thing-in-t/)
-* 🎵 [As It Was - Harry Styles](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e)
-* 🎵 [Elle décide - Vaudou Game](https://open.spotify.com/track/5Qo0FGH6UcFtSFJ7k0sD1v)
 * 📚 [The River Has Roots by Amal El-Mohtar](https://www.amazon.com/dp/B0D1P3DF58?tag=harperrules0d-20)
 * 📚 [What I Talk About When I Talk About Running by Haruki Murakami](https://www.amazon.com/dp/B0015DWJ8W?tag=harperrules0d-20)
 * 📝 [Note #744](https://harper.blog/notes/2026-09-08_e1a33ae1ed42_spent-some-time-this-weekend-a/)
