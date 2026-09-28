@@ -23,12 +23,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/camera-sensors](https://github.com/2389-research/camera-sensors) - Home Assistant binary sensors from RTSP cameras, judged b...
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐94
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
-* [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
 * [2389-research/jev-plays-pokemon](https://github.com/2389-research/jev-plays-pokemon)
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐7
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐4
@@ -48,10 +49,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/ai-marketing](https://github.com/2389-research/ai-marketing) - Automated marketing campaign
 * [harperreed/houseagent](https://github.com/harperreed/houseagent) - AI smart home assistant using MQTT and GPT to generate pl... ⭐4
 * [2389-research/judgement](https://github.com/2389-research/judgement) - A Go CLI for TypeSafe Jev judgments, with JSON input/outp... 📦
-* [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐5
+* [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐6
 * [2389-research/typesafe-go](https://github.com/2389-research/typesafe-go) - A Go client for the TypeSafe System One API — typed judgm... ⭐2
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐26
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐27
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/noseyposey](https://github.com/2389-research/noseyposey)
@@ -67,12 +68,11 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐10
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
-* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐7
+* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐8
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐5
 * [2389-research/decker](https://github.com/2389-research/decker)
 * [harperreed/health](https://github.com/harperreed/health) - CLI for tracking personal health metrics with SQLite stor... 📦 ⭐1
 * [harperreed/earthquake-notifier](https://github.com/harperreed/earthquake-notifier)
-* [2389-research/Vinculum](https://github.com/2389-research/Vinculum) - Native LaTeX math typesetting for Apple platforms and Lin... 📦 ⭐3
 <!-- projects ends -->
 
 </details>
@@ -156,6 +156,7 @@ As many people have said “it is going to get worse before it gets better.” L
 * 🎵 [Sweet Dreams - Radio Version - La Bouche](https://open.spotify.com/track/0nw4GKKBab2VEPqEWCMOx2)
 * 🎵 [more - irou](https://open.spotify.com/track/7r1r8fn7iAj8fqOjocuIJc)
 * 🎵 [London Bridge - Fergie](https://open.spotify.com/track/4aXrH2a9Tk92CGaSTe9NYU)
+* 🔗 [What If We Just Stopped?](https://dansinker.com/posts/2026-09-23-stopped/)
 * 📝 [Note #745](https://harper.blog/notes/2026-09-22_b2a81bf561f7_this-is-the-loudest-thing-in-t/)
 * 📚 [The River Has Roots by Amal El-Mohtar](https://www.amazon.com/dp/B0D1P3DF58?tag=harperrules0d-20)
 * 📚 [What I Talk About When I Talk About Running by Haruki Murakami](https://www.amazon.com/dp/B0015DWJ8W?tag=harperrules0d-20)
@@ -164,7 +165,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📚 [The Last Contract of Isako by Fonda Lee](https://www.amazon.com/dp/B0FPCBH5NG?tag=harperrules0d-20)
 * 🔗 [This Has to Be the Most Amazing Robot Death We’ve Ever Seen](https://futurism.com/robots-and-machines/most-amazing-robot-death-ever)
 * 🔗 [WEBMASTER@ a manifesto for everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/)
-* 🔗 [Quote of the Day](https://politicalwire.com/2026/08/16/quote-of-the-day-4537/)
 <!-- activity ends -->
 
 </td>
@@ -191,5 +191,5 @@ As many people have said “it is going to get worse before it gets better.” L
 - 😄 Pronouns: he/him or they/them
 - 📍 Locale: Chicago
 <!-- age starts -->
-- 👨Age: 48.5 years old
+- 👨Age: 48.6 years old
 <!-- age ends --> · he/him · Inspired by [@simonw](https://twitter.com/simonw)'s [self-updating README](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)</sub>
