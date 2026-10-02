@@ -23,11 +23,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐4
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
+* [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐3
+* [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐5
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐95
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐4
 * [harperreed/control4-t3-raster](https://github.com/harperreed/control4-t3-raster) - Open-source firmware for Control4 T3 / C4-WALL7 wall-moun...
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/camera-sensors](https://github.com/2389-research/camera-sensors) - Home Assistant binary sensors from RTSP cameras, judged b...
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
@@ -47,14 +49,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐6
 * [2389-research/agent-ergo](https://github.com/2389-research/agent-ergo) - A skill for making systems intuitive, ergonomic, and cumu... ⭐1
 * [2389-research/complex-simplify](https://github.com/2389-research/complex-simplify) - A skill for focused reuse, quality, and efficiency cleanu...
-* [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐2
 * [2389-research/ai-marketing](https://github.com/2389-research/ai-marketing) - Automated marketing campaign
 * [harperreed/houseagent](https://github.com/harperreed/houseagent) - AI smart home assistant using MQTT and GPT to generate pl... ⭐4
 * [2389-research/judgement](https://github.com/2389-research/judgement) - A Go CLI for TypeSafe Jev judgments, with JSON input/outp... 📦
 * [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐7
 * [2389-research/typesafe-go](https://github.com/2389-research/typesafe-go) - A Go client for the TypeSafe System One API — typed judgm... ⭐2
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
-* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐31
+* [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐32
 * [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/noseyposey](https://github.com/2389-research/noseyposey)
@@ -68,7 +69,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/hindsight](https://github.com/2389-research/hindsight) - Analyze your Claude Code sessions through configurable le...
 * [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec... ⭐3
 * [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐10
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
 * [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐9
 * [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐5
@@ -153,9 +153,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
-* 🎵 [Sweet Dreams - Radio Version - La Bouche](https://open.spotify.com/track/0nw4GKKBab2VEPqEWCMOx2)
-* 🎵 [more - irou](https://open.spotify.com/track/7r1r8fn7iAj8fqOjocuIJc)
-* 🎵 [London Bridge - Fergie](https://open.spotify.com/track/4aXrH2a9Tk92CGaSTe9NYU)
+* 🎵 [Forever Well - Full Of Hell](https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N)
+* 🎵 [Doberman - Deafheaven](https://open.spotify.com/track/5vWfIEWXevuwFSVqgrItHC)
+* 🎵 [The Kids Will Kill Us - Witch Club Satan](https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI)
 * 🔗 [What If We Just Stopped?](https://dansinker.com/posts/2026-09-23-stopped/)
 * 📝 [Note #745](https://harper.blog/notes/2026-09-22_b2a81bf561f7_this-is-the-loudest-thing-in-t/)
 * 📚 [The River Has Roots by Amal El-Mohtar](https://www.amazon.com/dp/B0D1P3DF58?tag=harperrules0d-20)
