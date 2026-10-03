@@ -23,10 +23,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
-* [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐3
-* [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐5
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐4
+* [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐6
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐95
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐4
 * [harperreed/control4-t3-raster](https://github.com/harperreed/control4-t3-raster) - Open-source firmware for Control4 T3 / C4-WALL7 wall-moun...
@@ -156,13 +156,13 @@ As many people have said “it is going to get worse before it gets better.” L
 * 🎵 [Forever Well - Full Of Hell](https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N)
 * 🎵 [Doberman - Deafheaven](https://open.spotify.com/track/5vWfIEWXevuwFSVqgrItHC)
 * 🎵 [The Kids Will Kill Us - Witch Club Satan](https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI)
+* 📚 [Exit Party by Emily St. John Mandel](https://www.amazon.com/dp/B0G777JLNG?tag=harperrules0d-20)
 * 🔗 [What If We Just Stopped?](https://dansinker.com/posts/2026-09-23-stopped/)
 * 📝 [Note #745](https://harper.blog/notes/2026-09-22_b2a81bf561f7_this-is-the-loudest-thing-in-t/)
 * 📚 [The River Has Roots by Amal El-Mohtar](https://www.amazon.com/dp/B0D1P3DF58?tag=harperrules0d-20)
 * 📚 [What I Talk About When I Talk About Running by Haruki Murakami](https://www.amazon.com/dp/B0015DWJ8W?tag=harperrules0d-20)
 * 📝 [Note #744](https://harper.blog/notes/2026-09-08_e1a33ae1ed42_spent-some-time-this-weekend-a/)
 * 📝 [Note #743](https://harper.blog/notes/2026-09-08_8c1ad0e47fe7_work-photo-fun-got-out-the-og-/)
-* 📚 [The Last Contract of Isako by Fonda Lee](https://www.amazon.com/dp/B0FPCBH5NG?tag=harperrules0d-20)
 * 🔗 [This Has to Be the Most Amazing Robot Death We’ve Ever Seen](https://futurism.com/robots-and-machines/most-amazing-robot-death-ever)
 * 🔗 [WEBMASTER@ a manifesto for everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/)
 <!-- activity ends -->
