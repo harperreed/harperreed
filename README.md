@@ -23,8 +23,12 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [harperreed/victrola-stream-ha](https://github.com/harperreed/victrola-stream-ha) - Home Assistant integration for Victrola Stream turntables... 📦
+* [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐334
+* [harperreed/victrola-stream-go](https://github.com/harperreed/victrola-stream-go) - Command-line control for the Victrola Stream Onyx turntab...
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
 * [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐4
 * [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐6
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐95
@@ -33,10 +37,9 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/camera-sensors](https://github.com/2389-research/camera-sensors) - Home Assistant binary sensors from RTSP cameras, judged b...
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
-* [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
 * [2389-research/jev-plays-pokemon](https://github.com/2389-research/jev-plays-pokemon)
-* [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐7
+* [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐8
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐4
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
@@ -45,14 +48,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/firebase-development](https://github.com/2389-research/firebase-development) - Firebase project workflows including setup, features, deb... ⭐2
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐21
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐334
 * [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐6
 * [2389-research/agent-ergo](https://github.com/2389-research/agent-ergo) - A skill for making systems intuitive, ergonomic, and cumu... ⭐1
 * [2389-research/complex-simplify](https://github.com/2389-research/complex-simplify) - A skill for focused reuse, quality, and efficiency cleanu...
 * [2389-research/ai-marketing](https://github.com/2389-research/ai-marketing) - Automated marketing campaign
 * [harperreed/houseagent](https://github.com/harperreed/houseagent) - AI smart home assistant using MQTT and GPT to generate pl... ⭐4
 * [2389-research/judgement](https://github.com/2389-research/judgement) - A Go CLI for TypeSafe Jev judgments, with JSON input/outp... 📦
-* [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐7
+* [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐8
 * [2389-research/typesafe-go](https://github.com/2389-research/typesafe-go) - A Go client for the TypeSafe System One API — typed judgm... ⭐2
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐32
@@ -71,8 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐10
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
 * [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐9
-* [2389-research/pulse](https://github.com/2389-research/pulse) - Private journaling and social media MCP server for humans... 📦 ⭐5
-* [2389-research/decker](https://github.com/2389-research/decker)
 <!-- projects ends -->
 
 </details>
@@ -153,9 +153,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Hihi Haha - LEENALCHI](https://open.spotify.com/track/3xaEMbVbzMlbFoghrZ8WCd)
 * 🎵 [Forever Well - Full Of Hell](https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N)
 * 🎵 [Doberman - Deafheaven](https://open.spotify.com/track/5vWfIEWXevuwFSVqgrItHC)
-* 🎵 [The Kids Will Kill Us - Witch Club Satan](https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI)
 * 📚 [Exit Party by Emily St. John Mandel](https://www.amazon.com/dp/B0G777JLNG?tag=harperrules0d-20)
 * 🔗 [What If We Just Stopped?](https://dansinker.com/posts/2026-09-23-stopped/)
 * 📝 [Note #745](https://harper.blog/notes/2026-09-22_b2a81bf561f7_this-is-the-loudest-thing-in-t/)
