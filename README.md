@@ -23,22 +23,24 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
+* [2389-research/camera-sensors](https://github.com/2389-research/camera-sensors) - Home Assistant binary sensors from RTSP cameras, judged b...
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐21
 * [harperreed/victrola-stream-ha](https://github.com/harperreed/victrola-stream-ha) - Home Assistant integration for Victrola Stream turntables... 📦
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐334
 * [harperreed/victrola-stream-go](https://github.com/harperreed/victrola-stream-go) - Command-line control for the Victrola Stream Onyx turntab...
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) 📦 ⭐10
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) - Archive, search, and analyze Claude Code conversation his... 📦 ⭐10
 * [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐4
-* [2389-research/orrery](https://github.com/2389-research/orrery) 📦 ⭐6
+* [2389-research/orrery](https://github.com/2389-research/orrery) - Knowledge graph pipeline that classifies documents and im... 📦 ⭐6
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐95
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐4
 * [harperreed/control4-t3-raster](https://github.com/harperreed/control4-t3-raster) - Open-source firmware for Control4 T3 / C4-WALL7 wall-moun...
-* [2389-research/camera-sensors](https://github.com/2389-research/camera-sensors) - Home Assistant binary sensors from RTSP cameras, judged b...
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
-* [2389-research/pipelines](https://github.com/2389-research/pipelines) 📦 ⭐4
+* [2389-research/pipelines](https://github.com/2389-research/pipelines) - Dippin pipelines for Tracker that automate multi-step AI ... 📦 ⭐4
 * [2389-research/slack-mcp](https://github.com/2389-research/slack-mcp) - Slack workspace integration MCP server - create channels,... ⭐1
-* [2389-research/jev-plays-pokemon](https://github.com/2389-research/jev-plays-pokemon)
+* [2389-research/jev-plays-pokemon](https://github.com/2389-research/jev-plays-pokemon) - AI agent that plays Pokémon Red through the PyBoy Game Bo... ⭐1
 * [2389-research/deliberation](https://github.com/2389-research/deliberation) - Decision-making through deliberation - seeking unity thro... ⭐8
 * [2389-research/test-kitchen](https://github.com/2389-research/test-kitchen) - Parallel exploration of implementation approaches - imple... ⭐4
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
@@ -47,32 +49,30 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐18
 * [2389-research/firebase-development](https://github.com/2389-research/firebase-development) - Firebase project workflows including setup, features, deb... ⭐2
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
-* [2389-research/tracker](https://github.com/2389-research/tracker) 📦 ⭐21
 * [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐6
 * [2389-research/agent-ergo](https://github.com/2389-research/agent-ergo) - A skill for making systems intuitive, ergonomic, and cumu... ⭐1
 * [2389-research/complex-simplify](https://github.com/2389-research/complex-simplify) - A skill for focused reuse, quality, and efficiency cleanu...
-* [2389-research/ai-marketing](https://github.com/2389-research/ai-marketing) - Automated marketing campaign
+* [2389-research/ai-marketing](https://github.com/2389-research/ai-marketing) - AI content and QA pipeline that turns topics into platfor...
 * [harperreed/houseagent](https://github.com/harperreed/houseagent) - AI smart home assistant using MQTT and GPT to generate pl... ⭐4
 * [2389-research/judgement](https://github.com/2389-research/judgement) - A Go CLI for TypeSafe Jev judgments, with JSON input/outp... 📦
-* [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) ⭐8
+* [2389-research/breakaway-agent](https://github.com/2389-research/breakaway-agent) - Small experimental coding agent with swappable policies, ... ⭐8
 * [2389-research/typesafe-go](https://github.com/2389-research/typesafe-go) - A Go client for the TypeSafe System One API — typed judgm... ⭐2
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐32
-* [2389-research/mux](https://github.com/2389-research/mux) 📦 ⭐2
+* [2389-research/mux](https://github.com/2389-research/mux) - Go library for AI agents with tool execution, MCP integra... 📦 ⭐2
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
-* [2389-research/noseyposey](https://github.com/2389-research/noseyposey)
+* [2389-research/noseyposey](https://github.com/2389-research/noseyposey) - Relays MQTT voice transcripts into Slack, grouping replie...
 * [2389-research/llm-weather](https://github.com/2389-research/llm-weather)
 * [harperreed/chicago](https://github.com/harperreed/chicago) - Hugo site: Harper's personal guide to favorite Chicago re...
-* [2389-research/pact](https://github.com/2389-research/pact) 📦
+* [2389-research/pact](https://github.com/2389-research/pact) - Local signed event ledger CLI with Ed25519 identities, ve... 📦
 * [2389-research/coven-gateway](https://github.com/2389-research/coven-gateway) - gRPC control plane for coven agents - routes messages, st... 📦 ⭐2
 * [2389-research/sift](https://github.com/2389-research/sift) - SIFT — Structural Inspection for Technical Simplification...
 * [2389-research/trace](https://github.com/2389-research/trace) - TRACE (Test Requirements Against Code & Execution) — an a...
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐27
 * [2389-research/hindsight](https://github.com/2389-research/hindsight) - Analyze your Claude Code sessions through configurable le...
-* [2389-research/jam](https://github.com/2389-research/jam) - Parallel exploration framework powered by diverse perspec... ⭐3
+* [2389-research/jam](https://github.com/2389-research/jam) - Claude Code plugin that explores, builds, and reviews com... ⭐3
 * [2389-research/Quoin](https://github.com/2389-research/Quoin) - A native macOS WYSIWYG Markdown editor with an in-file re... 📦 ⭐10
 * [2389-research/agent-drugs](https://github.com/2389-research/agent-drugs) - Claude Code plugin with MCP server for digital drugs that... ⭐6
-* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐9
 <!-- projects ends -->
 
 </details>
@@ -128,7 +128,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ## 📸 Latest
 
 <!-- photos starts -->
-[![Note #745](https://harper.blog/notes/2026-09-22_b2a81bf561f7_this-is-the-loudest-thing-in-t/image_1.jpg)](https://harper.blog/notes/2026-09-22_b2a81bf561f7_this-is-the-loudest-thing-in-t/)
+[![Note #747](https://harper.blog/notes/2026-10-03_da9f87a8e5b5_reed-boys-on-a-podcast/image_1.png)](https://harper.blog/notes/2026-10-03_da9f87a8e5b5_reed-boys-on-a-podcast/)
 <!-- photos ends -->
 
 ---
@@ -153,6 +153,8 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 📝 [Note #747](https://harper.blog/notes/2026-10-03_da9f87a8e5b5_reed-boys-on-a-podcast/)
+* 📝 [Note #746](https://harper.blog/notes/2026-10-03_e14303d6d075_christoph-and-tom-quick-sf-tri/)
 * 🎵 [Hihi Haha - LEENALCHI](https://open.spotify.com/track/3xaEMbVbzMlbFoghrZ8WCd)
 * 🎵 [Forever Well - Full Of Hell](https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N)
 * 🎵 [Doberman - Deafheaven](https://open.spotify.com/track/5vWfIEWXevuwFSVqgrItHC)
@@ -161,8 +163,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📝 [Note #745](https://harper.blog/notes/2026-09-22_b2a81bf561f7_this-is-the-loudest-thing-in-t/)
 * 📚 [The River Has Roots by Amal El-Mohtar](https://www.amazon.com/dp/B0D1P3DF58?tag=harperrules0d-20)
 * 📚 [What I Talk About When I Talk About Running by Haruki Murakami](https://www.amazon.com/dp/B0015DWJ8W?tag=harperrules0d-20)
-* 📝 [Note #744](https://harper.blog/notes/2026-09-08_e1a33ae1ed42_spent-some-time-this-weekend-a/)
-* 📝 [Note #743](https://harper.blog/notes/2026-09-08_8c1ad0e47fe7_work-photo-fun-got-out-the-og-/)
 * 🔗 [This Has to Be the Most Amazing Robot Death We’ve Ever Seen](https://futurism.com/robots-and-machines/most-amazing-robot-death-ever)
 * 🔗 [WEBMASTER@ a manifesto for everyone](https://brennan.day/webmaster-a-manifesto-for-everyone/)
 <!-- activity ends -->
