@@ -23,14 +23,15 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [harperreed/pingpong](https://github.com/harperreed/pingpong) 📦 ⭐1
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) - Archive, search, and analyze Claude Code conversation his... 📦 ⭐10
-* [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
 * [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
+* [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐95
 * [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
 * [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐22
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐1
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐4
 * [2389-research/mux](https://github.com/2389-research/mux) - Go library for AI agents with tool execution, MCP integra... 📦 ⭐2
 * [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐4
@@ -39,7 +40,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐334
 * [harperreed/victrola-stream-go](https://github.com/harperreed/victrola-stream-go) - Command-line control for the Victrola Stream Onyx turntab...
-* [2389-research/orrery](https://github.com/2389-research/orrery) - Knowledge graph pipeline that classifies documents and im... 📦 ⭐7
+* [2389-research/orrery](https://github.com/2389-research/orrery) - Knowledge graph pipeline that classifies documents and im... 📦 ⭐8
 * [harperreed/control4-t3-raster](https://github.com/harperreed/control4-t3-raster) - Open-source firmware for Control4 T3 / C4-WALL7 wall-moun...
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) - Dippin pipelines for Tracker that automate multi-step AI ... 📦 ⭐4
@@ -50,7 +51,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/css-development](https://github.com/2389-research/css-development) - CSS development workflows with Tailwind composition, sema... ⭐1
 * [2389-research/prbuddy](https://github.com/2389-research/prbuddy) - PR health assistant - monitors CI, triages review comment... ⭐1
 * [2389-research/git-repo-prep](https://github.com/2389-research/git-repo-prep) - Prepare codebases for public/open-source release and audi... ⭐2
-* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐18
+* [2389-research/binary-re](https://github.com/2389-research/binary-re) - Agentic binary reverse engineering for ELF binaries on AR... ⭐19
 * [2389-research/firebase-development](https://github.com/2389-research/firebase-development) - Firebase project workflows including setup, features, deb... ⭐2
 * [2389-research/speed-run](https://github.com/2389-research/speed-run) - Token-efficient code generation pipeline - parallel imple... ⭐1
 * [harperreed/travel-agent](https://github.com/harperreed/travel-agent) - a taste based travel agent skill ⭐6
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/trace](https://github.com/2389-research/trace) - TRACE (Test Requirements Against Code & Execution) — an a...
 * [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google syn... 📦 ⭐27
 * [2389-research/hindsight](https://github.com/2389-research/hindsight) - Analyze your Claude Code sessions through configurable le...
-* [2389-research/jam](https://github.com/2389-research/jam) - Claude Code plugin that explores, builds, and reviews com... ⭐3
 <!-- projects ends -->
 
 </details>
@@ -153,12 +153,12 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Ultimate Prescription - LEENALCHI](https://open.spotify.com/track/5dgu8SBv1QzV5xGGR78VOo)
+* 🎵 [Punched In The Head - Cowboy Hunters](https://open.spotify.com/track/5aYGNl8tDxpl5tURCF3UW0)
+* 🎵 [misery. - pupsies](https://open.spotify.com/track/3szSOQjWBCE0s5Ys2nNFuZ)
 * 📚 [Sky Full of Elephants by Cebo Campbell](https://www.amazon.com/dp/B0CV2CYWML?tag=harperrules0d-20)
 * 📝 [Note #747](https://harper.blog/notes/2026-10-03_da9f87a8e5b5_reed-boys-on-a-podcast/)
 * 📝 [Note #746](https://harper.blog/notes/2026-10-03_e14303d6d075_christoph-and-tom-quick-sf-tri/)
-* 🎵 [Hihi Haha - LEENALCHI](https://open.spotify.com/track/3xaEMbVbzMlbFoghrZ8WCd)
-* 🎵 [Forever Well - Full Of Hell](https://open.spotify.com/track/2KGr5OPHCcjFKTHKeYOg2N)
-* 🎵 [Doberman - Deafheaven](https://open.spotify.com/track/5vWfIEWXevuwFSVqgrItHC)
 * 📚 [Exit Party by Emily St. John Mandel](https://www.amazon.com/dp/B0G777JLNG?tag=harperrules0d-20)
 * 🔗 [What If We Just Stopped?](https://dansinker.com/posts/2026-09-23-stopped/)
 * 📝 [Note #745](https://harper.blog/notes/2026-09-22_b2a81bf561f7_this-is-the-loudest-thing-in-t/)
