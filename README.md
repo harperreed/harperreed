@@ -23,11 +23,12 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐335
 * [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐22
-* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐10
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐33
-* [2389-research/ccvault](https://github.com/2389-research/ccvault) - Archive, search, and analyze Claude Code conversation his... 📦 ⭐11
 * [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
+* [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, CoreGrap... 📦 ⭐10
+* [2389-research/ccvault](https://github.com/2389-research/ccvault) - Archive, search, and analyze Claude Code conversation his... 📦 ⭐11
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐97
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/camera-sensors](https://github.com/2389-research/camera-sensors) - Home Assistant binary sensors from RTSP cameras, judged b...
@@ -42,7 +43,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/mux](https://github.com/2389-research/mux) - Go library for AI agents with tool execution, MCP integra... 📦 ⭐2
 * [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐4
 * [harperreed/victrola-stream-ha](https://github.com/harperreed/victrola-stream-ha) - Home Assistant integration for Victrola Stream turntables... 📦
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐335
 * [harperreed/victrola-stream-go](https://github.com/harperreed/victrola-stream-go) - Command-line control for the Victrola Stream Onyx turntab...
 * [2389-research/orrery](https://github.com/2389-research/orrery) - Knowledge graph pipeline that classifies documents and im... 📦 ⭐10
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
