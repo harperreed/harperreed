@@ -1,0 +1,103 @@
+# ABOUTME: Generate the seven GitHub profile cards shown in the README.
+# ABOUTME: Refresh public metrics daily with dates and habits in Chicago time.
+
+name: Profile Metrics
+
+on:
+    push:
+        paths:
+            - .github/workflows/metrics.yml
+            - .github/actions/profile-metrics/**
+            - content/github_stats.md
+    workflow_dispatch:
+    schedule:
+        - cron: "47 6 * * *"
+
+concurrency:
+    group: profile-metrics-${{ github.ref }}
+    cancel-in-progress: false
+
+jobs:
+    metrics:
+        name: Generate profile cards
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - name: Check metrics token
+              env:
+                  METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+              run: |
+                  if [[ -z "$METRICS_TOKEN" ]]; then
+                      echo "::error::Add the METRICS_TOKEN secret; see docs/profile-metrics.md."
+                      exit 1
+                  fi
+
+            - uses: actions/checkout@v4
+              with:
+                  ref: ${{ github.ref_name }}
+
+            - name: Build Metrics image
+              run: bash .github/actions/profile-metrics/build-image.sh
+
+            - name: Render coding habits
+              uses: ./.github/actions/profile-metrics
+              with:
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  card: habits
+
+            - name: Render achievements
+              uses: ./.github/actions/profile-metrics
+              with:
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  card: achievements
+
+            - name: Render profile overview
+              uses: ./.github/actions/profile-metrics
+              with:
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  card: header
+                  base: header
+
+            - name: Render repository statistics
+              uses: ./.github/actions/profile-metrics
+              with:
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  card: repositories
+                  base: repositories
+
+            - name: Render activity and community statistics
+              uses: ./.github/actions/profile-metrics
+              with:
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  card: activity
+                  base: activity, community
+
+            - name: Render contribution calendar
+              uses: ./.github/actions/profile-metrics
+              with:
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  card: calendar
+
+            - name: Render programming languages
+              uses: ./.github/actions/profile-metrics
+              with:
+                  token: ${{ secrets.METRICS_TOKEN }}
+                  card: languages
+
+    verify:
+        name: Verify generated cards
+        needs: metrics
+        runs-on: ubuntu-latest
+        permissions:
+            contents: read
+        steps:
+            - uses: actions/checkout@v4
+              with:
+                  ref: ${{ github.ref_name }}
+            - uses: astral-sh/setup-uv@v5
+              with:
+                  version: "latest"
+            - run: uv python install 3.12
+            - run: uv sync --frozen
+            - run: uv run python -m unittest discover -s tests -v
