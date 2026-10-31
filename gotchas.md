@@ -14,3 +14,8 @@
   after a 100-repo GraphQL query times out: its retry loop exits without retrying.
   Use an explicit 20-repo sample (`repositories` and `repositories_batch`), label
   the sample in the README, and verify the generated SVGs before merging.
+
+- 2026-10-31: The stable Metrics image breaks habits on current push payloads
+  and achievements on the retired Projects API. Doctor Biz approved the pinned
+  fix from upstream PR #1834. Keep `use_prebuilt_image: no` in the shared card
+  action so it builds the reviewed source; its prebuilt image lacks those fixes.

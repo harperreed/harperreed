@@ -14,7 +14,7 @@ a 3D contribution calendar, languages and issue/PR follow-up, coding habits, and
    [Actions repository secret](https://github.com/harperreed/harperreed/settings/secrets/actions).
    Do not put the token in a file or paste it into chat.
 3. Push the metrics workflow to the task branch. Its push trigger generates and
-   commits the initial SVGs to that branch. Check all seven jobs and the images
+   commits the initial SVGs to that branch. Check all seven render steps and the images
    before merging; the README references those files.
 
 After merging, **Profile Metrics** refreshes the cards daily at 06:47 UTC.
@@ -28,6 +28,13 @@ Metrics can then render empty repository data without failing. Both
 `repositories` and `repositories_batch` are set to 20 to keep that scope explicit.
 The final verification job checks the generated files and rejects a zero-star
 repository card, since Harper's public repositories have stars.
+
+The shared renderer in `.github/actions/profile-metrics/action.yml` pins the
+approved, unmerged [upstream compatibility fix](https://github.com/lowlighter/metrics/pull/1834)
+at `1e49d0b8b932624dd7762147e35ccc137eda09f1`. It handles push events without
+commit arrays and replaces the retired Projects (classic) count with Projects V2.
+`use_prebuilt_image: no` ensures that code actually runs. The workflow builds
+the image once and reuses it for all seven cards on one runner.
 
 ## Editing and checking
 

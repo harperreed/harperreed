@@ -20,11 +20,10 @@ ROOT = Path(__file__).resolve().parents[1]
 
 class ProfileMetricsTests(unittest.TestCase):
     def test_all_published_cards_are_valid_svgs(self):
-        workflow = yaml.safe_load((ROOT / ".github/workflows/metrics.yml").read_text())
-        cards = workflow["jobs"]["metrics"]["strategy"]["matrix"]["include"]
-        for card in cards:
-            with self.subTest(card=card["card"]):
-                filename = ROOT / card["filename"]
+        stats = (ROOT / "content/github_stats.md").read_text()
+        for source in re.findall(r'<img\b[^>]*src="([^"]+)"', stats):
+            with self.subTest(card=source):
+                filename = ROOT / source
                 self.assertTrue(filename.is_file(), f"Missing generated card: {filename.name}")
                 image = ET.parse(filename).getroot()
                 self.assertEqual(image.tag, "{http://www.w3.org/2000/svg}svg")
@@ -74,8 +73,12 @@ class ProfileMetricsTests(unittest.TestCase):
         self.assertEqual(len(images), 7, "The profile should show all seven metrics cards")
 
         workflow = yaml.safe_load((ROOT / ".github/workflows/metrics.yml").read_text())
-        cards = workflow["jobs"]["metrics"]["strategy"]["matrix"]["include"]
-        self.assertEqual({src for src, _ in images}, {card["filename"] for card in cards})
+        cards = [
+            step["with"]["card"]
+            for step in workflow["jobs"]["metrics"]["steps"]
+            if "card" in step.get("with", {})
+        ]
+        self.assertEqual({src for src, _ in images}, {f"metrics/{card}.svg" for card in cards})
         self.assertTrue(all(alt.strip() for _, alt in images))
 
     def test_readme_publishes_the_stats_source(self):
