@@ -70,6 +70,7 @@ jobs:
                   base: ${{ matrix.base }}
                   config_timezone: America/Chicago
                   plugins_errors_fatal: yes
+                  debug: ${{ matrix.card == 'repositories' }}
                   plugin_isocalendar: ${{ matrix.card == 'calendar' }}
                   plugin_isocalendar_duration: half-year
                   plugin_followup: ${{ matrix.card == 'languages' }}
