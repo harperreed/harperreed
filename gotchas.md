@@ -5,3 +5,7 @@
   PAT in `METRICS_TOKEN` to read user-wide public data. The repository token only
   commits the SVGs. Generate all seven files on the task branch before merging
   the README links. See `docs/profile-metrics.md` for setup.
+
+- 2026-10-31: The README workflow must stage only `README.md`. Python 3.12 caches
+  are already tracked, and `uv run` rewrites them on the runner; staging all files
+  adds unrelated bytecode changes to bot commits.

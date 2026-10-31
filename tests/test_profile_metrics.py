@@ -2,6 +2,9 @@
 # ABOUTME: Check the published stats against the files produced by the metrics workflow.
 
 import re
+import shlex
+import subprocess
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -15,6 +18,35 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class ProfileMetricsTests(unittest.TestCase):
+    def test_readme_bot_leaves_other_generated_files_unstaged(self):
+        workflow = yaml.safe_load((ROOT / ".github/workflows/build.yml").read_text())
+        commit_step = workflow["jobs"]["build"]["steps"][-1]["run"]
+        stage = next(line for line in commit_step.splitlines() if line.startswith("git add "))
+
+        with tempfile.TemporaryDirectory() as directory:
+
+            def git(*arguments):
+                return subprocess.run(
+                    ["git", "-C", directory, *arguments],
+                    check=True,
+                    capture_output=True,
+                    text=True,
+                ).stdout.strip()
+
+            git("init")
+            readme = Path(directory) / "README.md"
+            cache = Path(directory) / "generated.pyc"
+            readme.write_text("profile")
+            cache.write_bytes(b"cache")
+            git("add", "README.md", "generated.pyc")
+            original_tree = git("write-tree")
+            readme.write_text("profile with metrics")
+            cache.write_bytes(b"updated cache")
+
+            git(*shlex.split(stage)[1:])
+
+            self.assertEqual(git("diff", "--cached", original_tree, "--name-only"), "README.md")
+
     def test_every_card_has_a_generator(self):
         stats = (ROOT / "content/github_stats.md").read_text()
         images = re.findall(r'<img\b[^>]*src="([^"]+)"[^>]*alt="([^"]+)"', stats)
