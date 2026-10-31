@@ -6,6 +6,7 @@ import shlex
 import subprocess
 import tempfile
 import unittest
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import yaml
@@ -18,6 +19,26 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class ProfileMetricsTests(unittest.TestCase):
+    def test_all_published_cards_are_valid_svgs(self):
+        workflow = yaml.safe_load((ROOT / ".github/workflows/metrics.yml").read_text())
+        cards = workflow["jobs"]["metrics"]["strategy"]["matrix"]["include"]
+        for card in cards:
+            with self.subTest(card=card["card"]):
+                filename = ROOT / card["filename"]
+                self.assertTrue(filename.is_file(), f"Missing generated card: {filename.name}")
+                image = ET.parse(filename).getroot()
+                self.assertEqual(image.tag, "{http://www.w3.org/2000/svg}svg")
+                self.assertGreater(int(image.attrib["width"]), 0)
+                self.assertGreater(int(image.attrib["height"]), 0)
+
+    def test_repository_card_does_not_publish_false_zero_stars(self):
+        image = ET.parse(ROOT / "metrics/repositories.svg").getroot()
+        fields = image.findall('.//{http://www.w3.org/1999/xhtml}div[@class="field"]')
+        text = " ".join(" ".join(field.itertext()) for field in fields)
+        stars = re.search(r"(\d+)\s+Stargazers", text)
+        self.assertIsNotNone(stars, "Repository card must include a star count")
+        self.assertGreater(int(stars[1]), 0, "Harper's public repos have stars; reject empty data")
+
     def test_readme_bot_leaves_other_generated_files_unstaged(self):
         workflow = yaml.safe_load((ROOT / ".github/workflows/build.yml").read_text())
         commit_step = workflow["jobs"]["build"]["steps"][-1]["run"]

@@ -21,3 +21,5 @@
 </a>
 
 Updated daily with [Metrics](https://github.com/lowlighter/metrics). Inspired by [@jessfraz](https://github.com/jessfraz/jessfraz).
+
+Stars, forks, releases, and language breakdowns sample 20 recently updated public repos.

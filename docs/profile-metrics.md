@@ -22,6 +22,13 @@ It also runs when the workflow or stats source changes, and supports manual runs
 The token above reads public GitHub data; the built-in `GITHUB_TOKEN` commits
 the SVGs. No private repository or organization access is needed.
 
+Stars, forks, releases, and the most-used-language chart sample the 20 most
+recently updated public, non-fork repositories. Larger queries can time out;
+Metrics can then render empty repository data without failing. Both
+`repositories` and `repositories_batch` are set to 20 to keep that scope explicit.
+The final verification job checks the generated files and rejects a zero-star
+repository card, since Harper's public repositories have stars.
+
 ## Editing and checking
 
 Edit `content/github_stats.md` for the card layout. The README builder copies
