@@ -22,3 +22,6 @@
   Source builds need `xz-utils` for Nokogiri. `build-image.sh` reads the commit
   from the shared action, applies the build patch, and prepares the nested action's
   `metrics:forked-<package version>` image once per run.
+  The pinned Puppeteer needs `PUPPETEER_SKIP_DOWNLOAD=true` before `npm ci`;
+  the upstream flag is obsolete and placed too late, causing another browser
+  download despite Chrome already being installed in the image.

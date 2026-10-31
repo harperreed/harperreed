@@ -36,7 +36,9 @@ commit arrays and replaces the retired Projects (classic) count with Projects V2
 `use_prebuilt_image: no` ensures that code actually runs. The workflow builds
 the image once and reuses it for all seven cards on one runner.
 `build-image.sh` reads that pin from the shared action and applies `build.patch`
-to install the missing `xz-utils` build dependency. Run it only on the Actions
+to install the missing `xz-utils` build dependency and set Puppeteer's supported
+skip-download flag before npm installs dependencies. The image uses its installed
+system Chrome. Run the build script only on the Actions
 runner before rendering cards; `bash .github/actions/profile-metrics/build-image.sh --help`
 describes its use. The local image tag matches the upstream action's nested-action
 tag so every render reuses the same image.

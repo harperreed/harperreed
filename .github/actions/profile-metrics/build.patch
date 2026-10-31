@@ -1,6 +1,17 @@
 --- a/Dockerfile
 +++ b/Dockerfile
-@@ -19,7 +19,7 @@
+@@ -4,6 +4,10 @@
+ # Copy repository
+ COPY . /metrics
+ WORKDIR /metrics
++
++# Environment variables
++ENV PUPPETEER_SKIP_DOWNLOAD=true
++ENV PUPPETEER_BROWSER_PATH=google-chrome-stable
+
+ # Setup
+ RUN chmod +x /metrics/source/app/action/index.mjs \
+@@ -19,19 +23,15 @@
    && apt-get install -y curl unzip \
    && curl -fsSL https://deno.land/x/install/install.sh | DENO_INSTALL=/usr/local sh \
    # Install ruby to support github licensed gem
@@ -9,15 +20,17 @@
    && gem install licensed \
    # Install python for node-gyp
    && apt-get install -y python3 \
-@@ -30,8 +30,8 @@
+   # Clean apt/lists
+   && rm -rf /var/lib/apt/lists/* \
+   # Install node modules and rebuild indexes
+-  && npm ci \
++  && npm ci --foreground-scripts \
    && npm run build
 
- # Environment variables
+-# Environment variables
 -ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD true
 -ENV PUPPETEER_BROWSER_PATH "google-chrome-stable"
-+ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
-+ENV PUPPETEER_BROWSER_PATH=google-chrome-stable
-
+-
  # Execute GitHub action
 -ENTRYPOINT node /metrics/source/app/action/index.mjs
 +ENTRYPOINT ["node", "/metrics/source/app/action/index.mjs"]
