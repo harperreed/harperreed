@@ -25,3 +25,7 @@
   The pinned Puppeteer needs `PUPPETEER_SKIP_DOWNLOAD=true` before `npm ci`;
   the upstream flag is obsolete and placed too late, causing another browser
   download despite Chrome already being installed in the image.
+
+- 2026-10-31: The existing README footer lacks `<!-- details ends -->`, so its
+  static details replacement does not run. Its final attribution also displays
+  raw Markdown on GitHub. Keep footer cleanup separate from the profile cards.
