@@ -50,3 +50,5 @@ overwritten. Generated SVGs live in `metrics/`.
 Run `uv run python -m unittest discover -s tests -v` to check that every card has
 a generator and survives a README rebuild. Run `actionlint` to check workflows,
 and `uv run ruff check .` for Python linting.
+The build-patch check fetches the pinned upstream Dockerfile from GitHub, so it
+needs network access. It does not need repository secrets.

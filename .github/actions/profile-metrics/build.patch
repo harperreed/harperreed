@@ -1,20 +1,23 @@
-diff --git a/Dockerfile b/Dockerfile
 --- a/Dockerfile
 +++ b/Dockerfile
-@@ -20,5 +20,5 @@ RUN chmod +x /metrics/source/app/action/index.mjs \
+@@ -19,7 +19,7 @@
+   && apt-get install -y curl unzip \
    && curl -fsSL https://deno.land/x/install/install.sh | DENO_INSTALL=/usr/local sh \
    # Install ruby to support github licensed gem
 -  && apt-get install -y ruby-full git g++ cmake pkg-config libssl-dev \
 +  && apt-get install -y ruby-full git g++ cmake pkg-config libssl-dev xz-utils \
    && gem install licensed \
    # Install python for node-gyp
-@@ -32,3 +32,3 @@ RUN chmod +x /metrics/source/app/action/index.mjs \
+   && apt-get install -y python3 \
+@@ -30,8 +30,8 @@
+   && npm run build
+
  # Environment variables
 -ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD true
 -ENV PUPPETEER_BROWSER_PATH "google-chrome-stable"
 +ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
 +ENV PUPPETEER_BROWSER_PATH=google-chrome-stable
-@@ -36,2 +36,2 @@ RUN chmod +x /metrics/source/app/action/index.mjs \
+
  # Execute GitHub action
 -ENTRYPOINT node /metrics/source/app/action/index.mjs
 +ENTRYPOINT ["node", "/metrics/source/app/action/index.mjs"]

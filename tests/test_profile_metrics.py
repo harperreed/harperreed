@@ -9,6 +9,7 @@ import unittest
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
+import httpx
 import yaml
 
 from readme_builder.config import load_config
@@ -19,6 +20,28 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class ProfileMetricsTests(unittest.TestCase):
+    def test_build_patch_applies_to_pinned_source(self):
+        action = yaml.safe_load((ROOT / ".github/actions/profile-metrics/action.yml").read_text())
+        repository, revision = action["runs"]["steps"][0]["uses"].split("@")
+        response = httpx.get(
+            f"https://raw.githubusercontent.com/{repository}/{revision}/Dockerfile", timeout=15
+        )
+        response.raise_for_status()
+        with tempfile.TemporaryDirectory() as directory:
+            (Path(directory) / "Dockerfile").write_text(response.text)
+            result = subprocess.run(
+                [
+                    "git",
+                    "apply",
+                    "--check",
+                    str(ROOT / ".github/actions/profile-metrics/build.patch"),
+                ],
+                cwd=directory,
+                capture_output=True,
+                text=True,
+            )
+            self.assertEqual(result.returncode, 0, result.stderr)
+
     def test_all_published_cards_are_valid_svgs(self):
         stats = (ROOT / "content/github_stats.md").read_text()
         for source in re.findall(r'<img\b[^>]*src="([^"]+)"', stats):
