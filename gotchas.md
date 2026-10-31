@@ -19,3 +19,6 @@
   and achievements on the retired Projects API. Doctor Biz approved the pinned
   fix from upstream PR #1834. Keep `use_prebuilt_image: no` in the shared card
   action so it builds the reviewed source; its prebuilt image lacks those fixes.
+  Source builds need `xz-utils` for Nokogiri. `build-image.sh` reads the commit
+  from the shared action, applies the build patch, and prepares the nested action's
+  `metrics:forked-<package version>` image once per run.

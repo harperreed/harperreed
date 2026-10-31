@@ -7,7 +7,7 @@ on:
     push:
         paths:
             - .github/workflows/metrics.yml
-            - .github/actions/profile-metrics/action.yml
+            - .github/actions/profile-metrics/**
             - content/github_stats.md
     workflow_dispatch:
     schedule:
@@ -36,6 +36,9 @@ jobs:
             - uses: actions/checkout@v4
               with:
                   ref: ${{ github.ref_name }}
+
+            - name: Build Metrics image
+              run: bash .github/actions/profile-metrics/build-image.sh
 
             - name: Render coding habits
               uses: ./.github/actions/profile-metrics
