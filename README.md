@@ -24,11 +24,12 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐23
+* [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
+* [2389-research/smasher](https://github.com/2389-research/smasher) - Rust workflow engine that runs AI pipelines from DOT grap... 📦 ⭐5
+* [2389-research/translator](https://github.com/2389-research/translator) - CLI for translating text files while preserving formattin... ⭐8
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) - Archive, search, and analyze Claude Code conversation his... 📦 ⭐11
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
-* [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
-* [2389-research/translator](https://github.com/2389-research/translator) - CLI for translating text files while preserving formattin... ⭐8
-* [2389-research/smasher](https://github.com/2389-research/smasher) - Rust workflow engine that runs AI pipelines from DOT grap... 📦 ⭐5
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐100
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐2
@@ -58,7 +59,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [2389-research/MermaidKit](https://github.com/2389-research/MermaidKit) - Native Mermaid diagrams in Swift — all 30 types, on Apple... 📦 ⭐14
 * [2389-research/orrery](https://github.com/2389-research/orrery) - Knowledge graph pipeline that classifies documents and im... 📦 ⭐13
-* [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐23
 * [2389-research/dippin-lang](https://github.com/2389-research/dippin-lang) - Dippin: a DSL for authoring AI pipeline workflows 📦 ⭐34
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐336
 * [2389-research/acp-relay](https://github.com/2389-research/acp-relay) - HTTP and WebSocket relay for Agent Client Protocol sessio... ⭐6
@@ -153,9 +153,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Black Classical Music (feat. Venna & Charlie Stacey) - Yussef Dayes](https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz)
 * 🎵 [Serse, HWV 40 / Act I: "Ombra mai fù" - George Frideric Handel](https://open.spotify.com/track/1ztpWwwu71cuoLThcdIzPl)
 * 🎵 [Serse, HWV 40, Act I: Aria. Ombra mai fu (Serse) - George Frideric Handel](https://open.spotify.com/track/7Ktk3UdGrtCwkneDVPVbtB)
-* 🎵 [that, i miss - i talk about you all the time](https://open.spotify.com/track/5gCTITDcWsYL10HlGbbvDy)
 * 📚 [Virtual Light (Bridge, #1) by William Gibson](https://www.amazon.com/dp/B009Y4I3J8?tag=harperrules0d-20)
 * 🔗 [Scientists Detect Record-Breaking Radio Signal from the Ancient Universe](https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/)
 * 📚 [Sky Full of Elephants by Cebo Campbell](https://www.amazon.com/dp/B0CV2CYWML?tag=harperrules0d-20)
