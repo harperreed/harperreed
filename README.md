@@ -24,10 +24,10 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐23
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐336
 * [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
 * [2389-research/pact](https://github.com/2389-research/pact) - Local signed event ledger CLI with Ed25519 identities, ve... 📦
-* [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐23
 * [2389-research/smasher](https://github.com/2389-research/smasher) - Rust workflow engine that runs AI pipelines from DOT grap... 📦 ⭐5
 * [2389-research/translator](https://github.com/2389-research/translator) - CLI for translating text files while preserving formattin... ⭐8
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) - Archive, search, and analyze Claude Code conversation his... 📦 ⭐11
@@ -153,9 +153,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [The City Was A Chaos - Max Richter](https://open.spotify.com/track/6Q17FrmGAvpUZTuiZUKOrw)
+* 🎵 [Romeo and Juliet, Op. 64: No. 13 Dance of the Knights - Sergei Prokofiev](https://open.spotify.com/track/4gaWbVsdmvsNHktWWg9qcq)
 * 🎵 [KNISTER - LeshyZz](https://open.spotify.com/track/6ZIxRf9xY0paoHsTqUpLXf)
-* 🎵 [Hey Ken, Someone Methodically Mushed the Donuts - Free Throw](https://open.spotify.com/track/2UfANGKFk5GVIngWsJF02V)
-* 🎵 [Downgrade Desert - Igorrr](https://open.spotify.com/track/79xLxZrpdURjzJmdHKB85a)
+* 🔗 [Now Playing: 6 sensational songs lighting up our test rooms this month](https://www.whathifi.com/streaming-entertainment/music-streaming/now-playing-6-sensational-songs-lighting-up-our-test-rooms-this-month)
 * 📚 [Virtual Light (Bridge, #1) by William Gibson](https://www.amazon.com/dp/B009Y4I3J8?tag=harperrules0d-20)
 * 🔗 [Scientists Detect Record-Breaking Radio Signal from the Ancient Universe](https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/)
 * 📚 [Sky Full of Elephants by Cebo Campbell](https://www.amazon.com/dp/B0CV2CYWML?tag=harperrules0d-20)
@@ -164,7 +165,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📚 [Exit Party by Emily St. John Mandel](https://www.amazon.com/dp/B0G777JLNG?tag=harperrules0d-20)
 * 🔗 [What If We Just Stopped?](https://dansinker.com/posts/2026-09-23-stopped/)
 * 📝 [Note #745](https://harper.blog/notes/2026-09-22_b2a81bf561f7_this-is-the-loudest-thing-in-t/)
-* 🔗 [This Has to Be the Most Amazing Robot Death We’ve Ever Seen](https://futurism.com/robots-and-machines/most-amazing-robot-death-ever)
 <!-- activity ends -->
 
 </td>
