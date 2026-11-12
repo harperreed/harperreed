@@ -23,11 +23,12 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
-* [2389-research/smasher](https://github.com/2389-research/smasher) - Rust workflow engine that runs AI pipelines from DOT grap... 📦 ⭐5
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐102
+* [2389-research/smasher](https://github.com/2389-research/smasher) - Rust workflow engine that runs AI pipelines from DOT grap... 📦 ⭐5
 * [harperreed/camera-bar](https://github.com/harperreed/camera-bar) - A macOS menu bar RTSP camera viewer with a native snapsho... 📦
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐2
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐23
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐336
 * [2389-research/pact](https://github.com/2389-research/pact) - Local signed event ledger CLI with Ed25519 identities, ve... 📦
@@ -35,7 +36,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) - Archive, search, and analyze Claude Code conversation his... 📦 ⭐11
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
 * [harperreed/weather-dashboard](https://github.com/harperreed/weather-dashboard) - Real-time weather dashboard with Flask, WebSockets, and O... ⭐1
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐101
 * [harperreed/esp-analog-streamer](https://github.com/harperreed/esp-analog-streamer)
 * [2389-research/mux](https://github.com/2389-research/mux) - Go library for AI agents with tool execution, MCP integra... 📦 ⭐3
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) - Collaborative specification builder with AI agents, event... 📦
@@ -72,7 +72,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [harperreed/bbs-mcp](https://github.com/harperreed/bbs-mcp) - MCP server + CLI for a threaded message board (topics/thr... 📦 ⭐1
 * [harperreed/fip-metadata-server](https://github.com/harperreed/fip-metadata-server) - A simple URL for fetching, caching, and displaying fip me... ⭐2
 * [2389-research/coven](https://github.com/2389-research/coven) - Rust platform for orchestrating AI agents with tool capab... 📦 ⭐5
-* [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐4
+* [2389-research/observatory](https://github.com/2389-research/observatory) - Run several Firecracker microVMs on one Linux host and wa... 📦 ⭐5
 <!-- projects ends -->
 
 </details>
@@ -153,9 +153,9 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
-* 🎵 [The City Was A Chaos - Max Richter](https://open.spotify.com/track/6Q17FrmGAvpUZTuiZUKOrw)
-* 🎵 [Romeo and Juliet, Op. 64: No. 13 Dance of the Knights - Sergei Prokofiev](https://open.spotify.com/track/4gaWbVsdmvsNHktWWg9qcq)
-* 🎵 [KNISTER - LeshyZz](https://open.spotify.com/track/6ZIxRf9xY0paoHsTqUpLXf)
+* 🎵 [Cairo FM - Alewya](https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD)
+* 🎵 [In Tokyo - Holo](https://open.spotify.com/track/6EnLnIMR4PRgxRalKbR0TP)
+* 🎵 [Ha Ya - Afro Mix - Mike Flexx](https://open.spotify.com/track/3R76NWkLhvYeyOGj4jKMYB)
 * 🔗 [Now Playing: 6 sensational songs lighting up our test rooms this month](https://www.whathifi.com/streaming-entertainment/music-streaming/now-playing-6-sensational-songs-lighting-up-our-test-rooms-this-month)
 * 📚 [Virtual Light (Bridge, #1) by William Gibson](https://www.amazon.com/dp/B009Y4I3J8?tag=harperrules0d-20)
 * 🔗 [Scientists Detect Record-Breaking Radio Signal from the Ancient Universe](https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/)
