@@ -23,13 +23,14 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
+* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐2
 * [harperreed/yololiv-firmware](https://github.com/harperreed/yololiv-firmware)
 * [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
 * [2389-research/pipelines](https://github.com/2389-research/pipelines) - Dippin pipelines for Tracker that automate multi-step AI ... 📦 ⭐4
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/smasher](https://github.com/2389-research/smasher) - Rust workflow engine that runs AI pipelines from DOT grap... 📦 ⭐5
-* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐336
+* [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐337
 * [harperreed/icloudAlbum2hugo](https://github.com/harperreed/icloudAlbum2hugo) - https://crates.io/crates/icloudAlbum2hugo 📦 ⭐1
 * [harperreed/chronicle](https://github.com/harperreed/chronicle) - Fast Go CLI for timestamped activity logging with SQLite,... 📦 ⭐6
 * [2389-research/pact](https://github.com/2389-research/pact) - Local signed event ledger CLI with Ed25519 identities, ve... 📦
@@ -41,7 +42,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐103
 * [harperreed/camera-bar](https://github.com/harperreed/camera-bar) - A macOS menu bar RTSP camera viewer with a native snapsho... 📦
-* [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐2
 * [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐23
 * [2389-research/translator](https://github.com/2389-research/translator) - CLI for translating text files while preserving formattin... ⭐8
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) - Archive, search, and analyze Claude Code conversation his... 📦 ⭐11
@@ -153,10 +153,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Who Killed Cock Robin? / Gilbert's Jig - Shovel Dance Collective](https://open.spotify.com/track/5fvP7E1nA8z6jp5Xf0zj5Q)
 * 📚 [D: Heavy Water (Bomb Light #2) by Neal Stephenson](https://www.amazon.com/dp/B0GG5L3SZ7?tag=harperrules0d-20)
 * 🎵 [Cairo FM - Alewya](https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD)
 * 🎵 [In Tokyo - Holo](https://open.spotify.com/track/6EnLnIMR4PRgxRalKbR0TP)
-* 🎵 [Ha Ya - Afro Mix - Mike Flexx](https://open.spotify.com/track/3R76NWkLhvYeyOGj4jKMYB)
 * 🔗 [Now Playing: 6 sensational songs lighting up our test rooms this month](https://www.whathifi.com/streaming-entertainment/music-streaming/now-playing-6-sensational-songs-lighting-up-our-test-rooms-this-month)
 * 📚 [Virtual Light (Bridge, #1) by William Gibson](https://www.amazon.com/dp/B009Y4I3J8?tag=harperrules0d-20)
 * 🔗 [Scientists Detect Record-Breaking Radio Signal from the Ancient Universe](https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/)
