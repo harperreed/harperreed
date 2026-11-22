@@ -24,16 +24,17 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 
 <!-- projects starts -->
 * [harperreed/earph](https://github.com/harperreed/earph)
-* [2389-research/artifact-host-skill](https://github.com/2389-research/artifact-host-skill) - Agent Skill: share work with people through an artifact-h... ⭐1
 * [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
+* [2389-research/noseyposey](https://github.com/2389-research/noseyposey) - Relays MQTT voice transcripts into Slack, grouping replie...
+* [2389-research/artifact-host-skill](https://github.com/2389-research/artifact-host-skill) - Agent Skill: share work with people through an artifact-h... ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐339
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐104
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐106
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/implicit-state-machine-finder](https://github.com/2389-research/implicit-state-machine-finder) - An agent skill that finds implicit state machines in a co...
 * [2389-research/about-us-optimizer](https://github.com/2389-research/about-us-optimizer) - Write or audit company About pages using supplied sources...
 * [2389-research/ci-auditor](https://github.com/2389-research/ci-auditor) - An agent skill that measures where a GitHub Actions repo'...
 * [2389-research/bug-triage-score](https://github.com/2389-research/bug-triage-score) - A skill that scores each bug (frequency x severity) and d...
-* [2389-research/agent-ergo](https://github.com/2389-research/agent-ergo) - A skill for making systems intuitive, ergonomic, and cumu... ⭐1
+* [2389-research/agent-ergo](https://github.com/2389-research/agent-ergo) - A skill for making systems intuitive, ergonomic, and cumu... ⭐2
 * [2389-research/2389-agent-rust](https://github.com/2389-research/2389-agent-rust) - Production-ready implementation of the 2389 Agent Protoco... 📦 ⭐1
 * [harperreed/yololiv-firmware](https://github.com/harperreed/yololiv-firmware)
 * [harperreed/gentex-places-ha](https://github.com/harperreed/gentex-places-ha) - HACS-compatible Home Assistant integration for Gentex PLA... 📦
@@ -49,7 +50,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/sprint-ledger-browser](https://github.com/2389-research/sprint-ledger-browser) - Terminal UI for browsing AI sprint ledger files
 * [2389-research/design-md](https://github.com/2389-research/design-md) - Claude Code plugin: create, revise, and enforce a DESIGN....
 * [harperreed/camera-bar](https://github.com/harperreed/camera-bar) - A macOS menu bar RTSP camera viewer with a native snapsho... 📦
-* [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐23
+* [2389-research/tracker](https://github.com/2389-research/tracker) - Pipeline engine for multi-agent LLM workflows, with Dippi... 📦 ⭐24
 * [2389-research/translator](https://github.com/2389-research/translator) - CLI for translating text files while preserving formattin... ⭐8
 * [2389-research/ccvault](https://github.com/2389-research/ccvault) - Archive, search, and analyze Claude Code conversation his... 📦 ⭐11
 * [harperreed/toki](https://github.com/harperreed/toki) - Git-aware CLI todo manager with MCP server for AI agent i... 📦 ⭐10
@@ -64,7 +65,7 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐6
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐6
-* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐43
+* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐44
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐14
 * [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐3
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... 📦 ⭐2
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/hex](https://github.com/2389-research/hex) - Go CLI for Claude with a streaming terminal interface, pe... 📦 ⭐1
 * [harperreed/bounce-house](https://github.com/harperreed/bounce-house)
 * [harperreed/crisis-dashboard](https://github.com/harperreed/crisis-dashboard) - Svelte dashboard for DAO treasury value, NFT holdings, an...
-* [2389-research/phonegang](https://github.com/2389-research/phonegang) - CLI, Python API, and MCP server for automating Android ph... ⭐4
 <!-- projects ends -->
 
 </details>
