@@ -23,15 +23,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [harperreed/earph](https://github.com/harperreed/earph)
-* [2389-research/camera-sensors](https://github.com/2389-research/camera-sensors) - Home Assistant binary sensors from RTSP cameras, judged b...
+* [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) - MCP server that lets AI agents read and create posts, rep... 📦 ⭐15
 * [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
+* [2389-research/camera-sensors](https://github.com/2389-research/camera-sensors) - Home Assistant binary sensors from RTSP cameras, judged b...
 * [2389-research/noseyposey](https://github.com/2389-research/noseyposey) - Relays MQTT voice transcripts into Slack, grouping replie...
 * [2389-research/artifact-host-skill](https://github.com/2389-research/artifact-host-skill) - Agent Skill: share work with people through an artifact-h... ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐339
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐106
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
-* [2389-research/implicit-state-machine-finder](https://github.com/2389-research/implicit-state-machine-finder) - An agent skill that finds implicit state machines in a co...
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐107
+* [2389-research/implicit-state-machine-finder](https://github.com/2389-research/implicit-state-machine-finder) - An agent skill that finds implicit state machines in a co... ⭐1
 * [2389-research/about-us-optimizer](https://github.com/2389-research/about-us-optimizer) - Write or audit company About pages using supplied sources...
 * [2389-research/ci-auditor](https://github.com/2389-research/ci-auditor) - An agent skill that measures where a GitHub Actions repo'...
 * [2389-research/bug-triage-score](https://github.com/2389-research/bug-triage-score) - A skill that scores each bug (frequency x severity) and d...
@@ -61,18 +62,17 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/barnstormer](https://github.com/2389-research/barnstormer) - Collaborative specification builder with AI agents, event... 📦
 * [2389-research/simmer](https://github.com/2389-research/simmer) - Iterative artifact refinement with investigation-first ju... ⭐16
 * [2389-research/building-multiagent-systems](https://github.com/2389-research/building-multiagent-systems) - Architecture patterns for multi-agent systems with orches... ⭐8
-* [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐7
+* [2389-research/worldview-synthesis](https://github.com/2389-research/worldview-synthesis) - Systematic worldview articulation - surface beliefs, iden... ⭐8
 * [2389-research/ceo-personal-os](https://github.com/2389-research/ceo-personal-os) - Personal operating system for executives - reflection fra... ⭐5
 * [2389-research/xtool](https://github.com/2389-research/xtool) - Xcode-free iOS development with xtool - build SwiftPM app... ⭐6
 * [2389-research/remote-system-maintenance](https://github.com/2389-research/remote-system-maintenance) - Structured procedures for Linux system diagnostics and ma... ⭐1
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐6
-* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐45
-* [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐14
+* [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐46
+* [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐15
 * [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐3
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... 📦 ⭐2
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐15
 * [2389-research/hex](https://github.com/2389-research/hex) - Go CLI for Claude with a streaming terminal interface, pe... 📦 ⭐1
-* [harperreed/bounce-house](https://github.com/harperreed/bounce-house)
 <!-- projects ends -->
 
 </details>
@@ -153,10 +153,10 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🎵 [Illa, Mother of Death - Feminazgul](https://open.spotify.com/track/2OliyP2Z3XQL27eI8dbQE5)
 * 🔗 [External sandboxes for coding agents](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/)
 * 🎵 [Someone Saved My Life Tonight - Elton John](https://open.spotify.com/track/0bLOiofyBB62YU2cNnONJG)
 * 🎵 [Your Song - Elton John](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1)
-* 🎵 [Who Killed Cock Robin? / Gilbert's Jig - Shovel Dance Collective](https://open.spotify.com/track/5fvP7E1nA8z6jp5Xf0zj5Q)
 * 📚 [D: Heavy Water (Bomb Light #2) by Neal Stephenson](https://www.amazon.com/dp/B0GG5L3SZ7?tag=harperrules0d-20)
 * 🔗 [Now Playing: 6 sensational songs lighting up our test rooms this month](https://www.whathifi.com/streaming-entertainment/music-streaming/now-playing-6-sensational-songs-lighting-up-our-test-rooms-this-month)
 * 📚 [Virtual Light (Bridge, #1) by William Gibson](https://www.amazon.com/dp/B009Y4I3J8?tag=harperrules0d-20)
