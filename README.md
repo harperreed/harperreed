@@ -23,15 +23,16 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/logref](https://github.com/2389-research/logref) - Ref: name private things in logs only when the caller may...
+* [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
 * [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [harperreed/earph](https://github.com/harperreed/earph)
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) - MCP server that lets AI agents read and create posts, rep... 📦 ⭐15
-* [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
 * [2389-research/camera-sensors](https://github.com/2389-research/camera-sensors) - Home Assistant binary sensors from RTSP cameras, judged b...
 * [2389-research/noseyposey](https://github.com/2389-research/noseyposey) - Relays MQTT voice transcripts into Slack, grouping replie...
 * [2389-research/artifact-host-skill](https://github.com/2389-research/artifact-host-skill) - Agent Skill: share work with people through an artifact-h... ⭐2
 * [harperreed/dotfiles](https://github.com/harperreed/dotfiles) - Dotfiles. Managed by YADM ⭐339
-* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐107
+* [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐108
 * [2389-research/implicit-state-machine-finder](https://github.com/2389-research/implicit-state-machine-finder) - An agent skill that finds implicit state machines in a co... ⭐1
 * [2389-research/about-us-optimizer](https://github.com/2389-research/about-us-optimizer) - Write or audit company About pages using supplied sources...
 * [2389-research/ci-auditor](https://github.com/2389-research/ci-auditor) - An agent skill that measures where a GitHub Actions repo'...
@@ -72,7 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐3
 * [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... 📦 ⭐2
 * [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐15
-* [2389-research/hex](https://github.com/2389-research/hex) - Go CLI for Claude with a streaming terminal interface, pe... 📦 ⭐1
 <!-- projects ends -->
 
 </details>
