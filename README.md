@@ -23,10 +23,13 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 > *📦 = has releases · sorted by last commit*
 
 <!-- projects starts -->
+* [2389-research/crash-drill](https://github.com/2389-research/crash-drill) - Prove your local-first pipeline survives SIGKILL: a templ...
+* [2389-research/workers-bounded](https://github.com/2389-research/workers-bounded) - Bounded-memory primitives for Cloudflare Workers: readCap...
+* [2389-research/crewboard](https://github.com/2389-research/crewboard) - Cross-session, cross-machine agent coordination: claim-as...
 * [2389-research/.github](https://github.com/2389-research/.github) - GitHub organization profile generator with recent reposit...
+* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [2389-research/claude-plugins](https://github.com/2389-research/claude-plugins) - 28 plugins and MCP servers for Claude Code — TDD, multi-a... ⭐108
 * [2389-research/logref](https://github.com/2389-research/logref) - Ref: name private things in logs only when the caller may...
-* [harperreed/harper.blog](https://github.com/harperreed/harper.blog) - Hugo-powered personal blog with custom theme, deployed on... ⭐4
 * [harperreed/earph](https://github.com/harperreed/earph)
 * [2389-research/mcp-socialmedia](https://github.com/2389-research/mcp-socialmedia) - MCP server that lets AI agents read and create posts, rep... 📦 ⭐15
 * [2389-research/camera-sensors](https://github.com/2389-research/camera-sensors) - Home Assistant binary sensors from RTSP cameras, judged b...
@@ -70,9 +73,6 @@ Hacker. Photographer. Prankster. Building software that does interesting things.
 * [2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review) - Mandatory final sanity check before commits/PRs - catches... ⭐6
 * [2389-research/landing-page-design](https://github.com/2389-research/landing-page-design) - Create high-converting, visually distinctive landing page... ⭐46
 * [2389-research/review-squad](https://github.com/2389-research/review-squad) - Dispatch panels of specialized subagents to review projec... ⭐15
-* [2389-research/scenario-testing](https://github.com/2389-research/scenario-testing) - End-to-end testing with real dependencies - no mocks allo... ⭐3
-* [2389-research/documentation-audit](https://github.com/2389-research/documentation-audit) - Verify documentation claims against codebase reality - tw... 📦 ⭐2
-* [2389-research/summarize-meetings](https://github.com/2389-research/summarize-meetings) - Batch-process meeting transcripts from Obsidian vault int... ⭐15
 <!-- projects ends -->
 
 </details>
@@ -153,6 +153,7 @@ As many people have said “it is going to get worse before it gets better.” L
 ### 📻 Activity
 
 <!-- activity starts -->
+* 🔗 [1Password breach](https://1password.com/blog/update-on-nov-2026-security-incident)
 * 🎵 [Illa, Mother of Death - Feminazgul](https://open.spotify.com/track/2OliyP2Z3XQL27eI8dbQE5)
 * 🔗 [External sandboxes for coding agents](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/)
 * 🎵 [Someone Saved My Life Tonight - Elton John](https://open.spotify.com/track/0bLOiofyBB62YU2cNnONJG)
@@ -160,7 +161,6 @@ As many people have said “it is going to get worse before it gets better.” L
 * 📚 [D: Heavy Water (Bomb Light #2) by Neal Stephenson](https://www.amazon.com/dp/B0GG5L3SZ7?tag=harperrules0d-20)
 * 🔗 [Now Playing: 6 sensational songs lighting up our test rooms this month](https://www.whathifi.com/streaming-entertainment/music-streaming/now-playing-6-sensational-songs-lighting-up-our-test-rooms-this-month)
 * 📚 [Virtual Light (Bridge, #1) by William Gibson](https://www.amazon.com/dp/B009Y4I3J8?tag=harperrules0d-20)
-* 🔗 [Scientists Detect Record-Breaking Radio Signal from the Ancient Universe](https://www.404media.co/scientists-detect-record-breaking-radio-signal-from-the-ancient-universe/)
 * 📚 [Sky Full of Elephants by Cebo Campbell](https://www.amazon.com/dp/B0CV2CYWML?tag=harperrules0d-20)
 * 📝 [Note #747](https://harper.blog/notes/2026-10-03_da9f87a8e5b5_reed-boys-on-a-podcast/)
 * 📝 [Note #746](https://harper.blog/notes/2026-10-03_e14303d6d075_christoph-and-tom-quick-sf-tri/)
